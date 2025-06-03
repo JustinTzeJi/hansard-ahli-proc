@@ -1,0 +1,1847 @@
+vol,kod_kawasan,negeri,kawasan,gelaran,nama,tahun_lahir,jantina,kumpulan_etnik,parti_x,jawatan_kabinet,jawatan_parlimen,gambar,parti_y
+1,P007,Kedah,Kuala Kedah,Y.T.M. Tunku,Abdul Rahman Putra AlHaj,,male,bumiputera,,Perdana Menteri,,,Perikatan - UMNO
+1,P062,Pahang,Pekan,Y.A.B. Tun,Abdul Razak Bin Dato' Hussain,,male,bumiputera,,Timbalan Perdana Menteri,,,Perikatan - UMNO
+1,P102,Johor,Johor Timur,Dato' Dr.,Ismail Bin Dato' Abdul Rahman,,male,bumiputera,,,,,Perikatan - UMNO
+1,P046,Perak,Sungei Siput,Dato',V.T. Sambanthan,,male,indian,,,,,Perikatan - MIC
+1,P092,Johor,Muar Selatan,Dato',Suleiman Bin Dato' Abdul Rahman,,male,bumiputera,,,,,Perikatan - UMNO
+1,P097,Johor,Pontian Utara,Tuan,Sardon Bin Haji Jubir,,male,bumiputera,,,,,Perikatan - UMNO
+1,P078,Selangor,Ulu Selangor,Dato',Ong Yoke Lin,,male,chinese,,,,,Perikatan - MCA
+1,P085,Melaka,Melaka Tengah,Tuan,Tan Siew Sin,,male,chinese,,,,,Perikatan - MCA
+1,P079,Negeri Sembilan,Kuala Pilah,Tuan,Bahaman Bin Samsudin,,male,bumiputera,,,,,Perikatan - UMNO
+1,P061,Pahang,Kuantan,Tuan,Abdul Rahman Bin Haji Talib,,male,bumiputera,,,,,Perikatan - UMNO
+1,P075,Selangor,Kuala Langat,Tuan,Abdul Aziz bin Ishak,,male,bumiputera,,,,,Perikatan (UMNO) > PPK
+1,P087,Melaka,Melaka Utara,Tuan,Abdul Ghani Bin Ishak,,male,bumiputera,,,,,Perikatan - UMNO
+1,P057,Perak,Batang Padang,Tuan,Abdul Hamid Khan Bin Haji Sakhawat Ali Khan,,male,bumiputera,,,,,Perikatan - UMNO
+1,P005,Kedah,Kota Star Utara,Tuan Haji,Abdul Khalid Bin Awang Osman,,male,bumiputera,,,,,Perikatan - UMNO
+1,P040,Perak,Krian Laut,Tuan,Abdul Rauf Bin A. Rahman,,male,bumiputera,,,,,Perikatan - UMNO
+1,P012,Kedah,Sungei Petani,Tuan,Abdul Samad Bin Osman,,male,bumiputera,,,,,Perikatan - UMNO
+1,P047,Perak,Kuala Kangsar,Tuan Haji,Abdullah Bin Haji Abdul Raof,,male,bumiputera,,,,,Perikatan - UMNO
+1,P103,Johor,Segamat Utara,Tuan Haji,Abdullah Bin Haji Mohd Salleh,,male,bumiputera,,,,,Perikatan - UMNO
+1,P018,Kelantan,Kota Bharu Hilir,Tuan Haji,Ahmad Bin Abdullah,,male,bumiputera,,,,,PAS
+1,P104,Johor,Muar Utara,Tuan,Ahmad Bin Arshad,,male,bumiputera,,,,,Perikatan - UMNO
+1,P070,Selangor,Setapak,Tuan,Ahmad Boestamam,,male,bumiputera,,,,,BS - PRM
+1,P101,Johor,Johor Bahru Barat,Tuan,Ahmad Bin Mohamed Shah,,male,bumiputera,,,,,Perikatan - UMNO
+1,P038,Pulau Pinang,Seberang Utara,Tuan Haji,Ahmad Bin Saaid,,male,bumiputera,,,,,Perikatan - UMNO
+1,P041,Perak,Krian Darat,Tuan,Ahmad Bin Haji Yusof,,male,bumiputera,,,,,Perikatan - UMNO
+1,P004,Kedah,Kubang Pasu Barat,Tuan Haji,Azahari Bin Haji Ibrahim,,male,bumiputera,,,,,Perikatan - UMNO
+1,P089,Johor,Muar Dalam,Tuan,Aziz Bin Ishak,,male,bumiputera,,,,,Perikatan - UMNO
+1,P025,Terengganu,Besut,Dr.,Burhanuddin Bin Mohd. Noor,,male,bumiputera,,,,,PAS
+1,P099,Johor,Kluang Selatan,Tuan,Chan Chong Wen,,male,chinese,,,,,Perikatan - MCA
+1,P060,Pahang,Bentong,Tuan,Chan Siang Sun,,male,chinese,,,,,Perikatan - MCA
+1,P049,Perak,Ulu Kinta,Tuan,Chan Swee Ho,,male,chinese,,,,,PPP
+1,P072,Selangor,Bukit Bintang,Tuan,Cheah Theam Swee,,male,chinese,,,,,Perikatan - MCA
+1,P080,Negeri Sembilan,Seremban Timur,Tuan,Chin See Yin,,male,chinese,,,,,BEBAS
+1,P071,Selangor,Bangsar,Tuan,V. David,,male,indian,,,,,BS - Buruh
+1,P003,Kedah,Jitra,Datin,Fatimah Binti Haji Hashim,,female,bumiputera,,,,,Perikatan - UMNO
+1,P034,Pulau Pinang,Penang Utara,Tuan,Geh Chong Keat,,male,chinese,,,,,Perikatan - MCA
+1,P067,Selangor,Kapar,Tuan,Hamzah Bin Alang,,male,bumiputera,,,,,Perikatan - UMNO
+1,P013,Kedah,Kulim Utara,Tuan,Hanafi Bin Mohd. Yunus,,male,bumiputera,,,,,Perikatan - UMNO
+1,P011,Kedah,Baling,Tuan,Harun Bin Abdullah,,male,bumiputera,,,,,Perikatan - UMNO
+1,P030,Terengganu,Terengganu Tengah,Tuan,Harun Bin Pilus,,male,bumiputera,,,,,PAS
+1,P026,Terengganu,Kuala Terengganu Utara,Tuan Haji,Hasan Adli Bin Haji Arshad,,male,bumiputera,,,,,PAS
+1,P015,Kelantan,Tumpat,Tuan Haji,Hassan Bin Haji Ahmad,,male,bumiputera,,,,,PAS
+1,P088,Melaka,Melaka Selatan,Tuan,Hassan Bin Mansor,,male,bumiputera,,,,,Perikatan - UMNO
+1,P059,Pahang,Raub,Tuan,Hussein Bin Toh Muda Hassan,,male,bumiputera,,,,,Perikatan - UMNO
+1,P048,Perak,Parit,Tuan,Hussein Bin Mohd Noordin,,male,bumiputera,,,,,Perikatan - UMNO
+1,P020,Kelantan,Kota Baru Hulu,Tuan Haji,Hussin Rahimi Bin Haji Saman,,male,bumiputera,,,,,PAS
+1,P032,Pulau Pinang,Seberang Tengah,Tuan,Ibrahim Bin Abdul Rahman,,male,bumiputera,,,,,Perikatan - UMNO
+1,P035,Pulau Pinang,Penang Selatan,Tuan,Ismail Bin Idris,,male,bumiputera,,,,,Perikatan - UMNO
+1,P093,Johor,Batu Pahat,Tuan,Kang Kok Seng,,male,chinese,,,,,Perikatan - MCA
+1,P073,Selangor,Damansara,Tuan,K. Karam Singh,,male,indian,,,,,BS - PRM
+1,P028,Terengganu,Dungun,Puan,Khadijah Binti Mohd. Sidik,,female,bumiputera,,,,,PAS
+1,P052,Perak,Batu Gajah,Tuan,Khong Kok Yat,,male,chinese,,,,,PPP
+1,P095,Johor,Kluang Utara,Tuan,Lee San Choon,,male,chinese,,,,,Perikatan - MCA
+1,P058,Perak,Tanjong Malim,Tuan,Lee Seck Fun,,male,chinese,,,,,Perikatan - MCA
+1,P076,Selangor,Sepang,Tuan,Lee Siok Yew,,male,chinese,,,,,Perikatan - MCA
+1,P053,Perak,Kampar,Tuan,Leong Kee Nyean,,male,chinese,,,,,Perikatan - MCA
+1,P006,Kedah,Alor Setar,Tuan,Lim Joo Kong,,male,chinese,,,,,Perikatan - MCA
+1,P037,Pulau Pinang,Dato' Keramat,Tuan,Lim Kean Siew,,male,chinese,,,,,BS - Buruh
+1,P043,Perak,Larut Selatan,Tuan,Lim Swee Aun,,male,chinese,,,,,Perikatan - MCA
+1,P068,Selangor,Rawang,Tuan,Liu Yoong Peng,,male,chinese,,,,,BS - Buruh
+1,P082,Negeri Sembilan,Port Dickson,Tuan,T. Mahima Singh,,male,indian,,,,,Perikatan - MIC
+1,P074,Selangor,Klang,Tuan,V. Manickavasagam,,male,indian,,,,,Perikatan - MIC
+1,P083,Negeri Sembilan,Jelebu,Tuan,Mohamed Bin Ujang,,male,bumiputera,,,,,Perikatan - UMNO
+1,P054,Perak,Hilir Perak,Tuan,Mohamed Abbas Bin Ahmad,,male,bumiputera,,,,,Perikatan - UMNO
+1,P022,Kelantan,Pasir Puteh,Tuan,Mohamed Asri Bin Haji Muda,,male,bumiputera,,,,,PAS
+1,P065,Selangor,Kuala Selangor,Tuan,Mohamed Dahari Bin Haji Mohd. Ali,,male,bumiputera,,,,,Perikatan - UMNO
+1,P039,Perak,Ulu Perak,Tuan,Mohamed Nor Bin Mohd. Dahan,,male,bumiputera,,,,,Perikatan - UMNO
+1,P021,Kelantan,Pasir Mas Hulu,Dato',Mohamed Hanifah Bin Haji Abdul Ghani,,male,bumiputera,,,,,PAS
+1,P010,Kedah,Jerai,Tuan,Mohamed Ismail Bin Mohd. Yusof,,male,bumiputera,,,,,Perikatan - UMNO
+1,P064,Pahang,Lipis,Tuan,Mohamed Sulong Bin Mohd. Ali,,male,bumiputera,,,,,Perikatan - UMNO
+1,P063,Pahang,Temerloh,Tuan,Mohamed Yusof Bin Mahmud,,male,bumiputera,,,,,Perikatan - UMNO
+1,P002,Perlis,Perlis Selatan,Tuan Haji,Mokhtar Bin Haji Ismail,,male,bumiputera,,,,,Perikatan - UMNO
+1,P017,Kelantan,Pasir Mas Hilir,Tuan,Nik Man Bin Nik Mohamed,,male,bumiputera,,,,,PAS
+1,P066,Selangor,Batu,Tuan,Ng Ann Teck,,male,chinese,,,,,BS - Buruh
+1,P027,Terengganu,Kuala Terengganu Selatan,Dato',Onn Bin Jaafar,,male,bumiputera,,,,,Negara
+1,P023,Kelantan,Tanah Merah,Tuan,Othman Bin Abdullah,,male,bumiputera,,,,,PAS
+1,P001,Perlis,Perlis Utara,Tuan,Othman Bin Abdullah,,male,bumiputera,,,,,Perikatan - UMNO
+1,P084,Negeri Sembilan,Seremban Barat,Tuan,Quek Kai Dong,,male,chinese,,,,,Bebas
+1,P081,Negeri Sembilan,Rembau,Tuan Haji,Redza Bin Haji Mohd. Said,,male,bumiputera,,,,,Perikatan - UMNO
+1,P091,Johor,Muar Pantai,Tuan,Seah Teng Ngiab,,male,chinese,,,,,Perikatan - MCA
+1,P050,Perak,Ipoh,Tuan,D.R Seenivasagam,,male,indian,,,,,PPP
+1,P051,Perak,Menglembu,Tuan,S.P Seenivasagam,,male,indian,,,,,PPP
+1,P094,Johor,Batu Pahat Dalam,Tuan,Syed Esa Bin Alwee,,male,bumiputera,,,,,Perikatan - UMNO
+1,P077,Selangor,Sabak Bernam,Tuan,Syed Hashim Bin Syed Ajam,,male,bumiputera,,,,,Perikatan - UMNO
+1,P096,Johor,Johor Tenggara,Tuan,Syed Ja'afar Bin Hasan Albar,,male,bumiputera,,,,,Perikatan - UMNO
+1,P042,Perak,Larut Utara,Tuan,Tajudin Bin Ali,,male,bumiputera,,,,,Perikatan - UMNO
+1,P031,Pulau Pinang,Bagan,Tuan,Tan Cheng Bee,,male,chinese,,,,,Perikatan - MCA
+1,P086,Melaka,Bandar Melaka,Tuan,Tan Kee Gak,,male,chinese,,,,,Malaya
+1,P036,Pulau Pinang,Tanjong,Tuan,Tan Phock Kin,,male,chinese,,,,,BS - Buruh
+1,P014,Kedah,Kulim,Tuan,Tan Tye Chek,,male,chinese,,,,,Perikatan - MCA
+1,P024,Kelantan,Ulu Kelantan,Tengku,Indra Petra Bin Sultan Ibrahim,,male,bumiputera,,,,,Perikatan - UMNO
+1,P090,Johor,Segamat Selatan,Dato',Teoh Chze Chong,,male,chinese,,,,,Perikatan - MCA
+1,P033,Pulau Pinang,Seberang Selatan,Tuan,V.Veerappen,,male,indian,,,,,BS - Buruh
+1,P016,Kelantan,Kelantan Hilir,Tuan,Wan Mustapha Bin Haji Ali,,male,bumiputera,,,,,PAS
+1,P008,Kedah,Kota Star Selatan,Tuan,Wan Sulaiman Bin Wan Tam,,male,bumiputera,,,,,Perikatan - UMNO
+1,P029,Terengganu,Kemaman,Tuan,Wan Yahya Bin Haji Wan Mohamed,,male,bumiputera,,,,,Perikatan - UMNO
+1,P055,Perak,Telok Anson,Tuan,Woo Saik Hong,,male,chinese,,,,,Perikatan - MCA
+1,P056,Perak,Bagan Datoh,Tuan,Yahya Bin Haji Ahmad,,male,bumiputera,,,,,Perikatan - UMNO
+1,P044,Perak,Bruas,Tuan,Yeoh Tat Beng,,male,chinese,,,,,Bebas
+1,P045,Perak,Sitiawan,Tuan,Yong Woo Ming,,male,chinese,,,,,Perikatan - MCA
+1,P098,Johor,Pontian Selatan,Puan Hajah,Zain Binti Sulaiman,,female,bumiputera,,,,,Perikatan - UMNO
+1,P069,Selangor,Langat,Tuan Haji,Zakaria bin Haji Mohd. Taib,,male,bumiputera,,,,,Perikatan - UMNO
+1,P019,Kelantan,Bachok,Tuan,Zulkiflee bin Muhammad,,male,bumiputera,,,,,PAS
+2,P094,Johor,Batu Pahat Dalam,Tuan,Syed Esa Bin Alwee,,male,bumiputera,,,Yang Dipertua Dewan Rakyat,,Perikatan - UMNO
+2,P007,Kedah,Kuala Kedah,Y.T.M. Tunku,Abdul Rahman Putra Al Haj,,male,bumiputera,,Perdana Menteri,,,Perikatan - UMNO
+2,P062,Pahang,Pekan,Y.A.B. Tun Haji,Abdul Razak Bin Dato' Hussain,,male,bumiputera,,Timbalan Perdana Menteri,,,Perikatan - UMNO
+2,P102,Johor,Johor Timur,Dato' Dr.,Ismail Bin Dato' Haji Abdul Rahman,,male,bumiputera,,,,,Perikatan - UMNO
+2,P085,Melaka,Melaka Tengah,Tuan,Tan Siew Sin,,male,chinese,,,,,Perikatan - MCA
+2,P046,Perak,Sungai Siput,Dato',V. T. Sambanthan,,male,indian,,,,,Perikatan - MIC
+2,P097,Johor,Pontian Utara,Dato' Haji,Sardon Bin Haji Jubir,,male,bumiputera,,,,,Perikatan - UMNO
+2,P079,Negeri Sembilan,Kuala Pilah,Tuan,Bahaman Bin Samsudin,,male,bumiputera,,,,,Perikatan - UMNO
+2,P061,Pahang,Kuantan,Tuan,Abdul Rahman Bin Haji Talib,,male,bumiputera,,,,,Perikatan - UMNO
+2,P043,Perak,Larut Selatan,Dr.,Lim Swee Aun,,male,bumiputera,,,,,Perikatan - MCA
+2,P057,Perak,Batang Padang,Tuan Haji,Abdul Hamid Khan Bin Haji Sakhawat Ali Khan,,male,bumiputera,,,,,Perikatan - UMNO
+2,P078,Selangor,Ulu Selangor,Tuan,Khaw Kai Boh,,male,chinese,,,,,Perikatan - MCA
+2,,,Sarawak,Dato' Temenggong,Jugah Anak Barieng,,male,bumiputera,,,,,
+2,P074,Selangor,Klang,Tuan,V. Manickavasagam,,male,indian,,,,,Perikatan - MIC
+2,P004,Kedah,Kubang Pasu Barat,Tuan,Senu Bin Abdul Rahman,,male,bumiputera,,,,,Perikatan - UMNO
+2,P009,Kedah,Kedah Tengah,Tuan,Mohamed Khir Bin Johari,,male,bumiputera,,,,,Perikatan - UMNO
+2,P005,Kedah,Kota Star Utara,Tuan Haji,Abdul Khalid Bin Awang Osman,,male,bumiputera,,,,,Perikatan - UMNO
+2,P039,Perak,Ulu Perak,Tuan,Mohamed Ghazali Bin Haji Jawi,,male,bumiputera,,,,,Perikatan - UMNO
+2,,,Sarawak,Tuan,Abdul Rahman Bin Ya'kub,,male,bumiputera,,,,,
+2,P056,Perak,Bagan Datoh,Tuan,Sulaiman Bin Bulon,,male,bumiputera,,,,,Perikatan - UMNO
+2,P030,Terengganu,Terengganu Tengah,,Engku Muhsein Bin Abdul Kadir,,male,bumiputera,,,,,Perikatan - UMNO
+2,P076,Selangor,Sepang,Tuan,Lee Siok Yew,,male,chinese,,,,,Perikatan - MCA
+2,P087,Melaka,Melaka Utara,Tuan,Abdul Ghani Bin Ishak,,male,bumiputera,,,,,Perikatan - UMNO
+2,P088,Melaka,Melaka Selatan,Tuan,Abdul Karim Bin Abu,,male,bumiputera,,,,,Perikatan - UMNO
+2,P026,Terengganu,Kuala Terengganu Utara,Tuan,Wan Abdul Kadir Bin Ismail,,male,bumiputera,,,,,Perikatan - UMNO
+2,,,Singapore,Tuan,Abdul Rahim Ishak,,male,bumiputera,,,,,
+2,,,Sarawak,Tuan,Wan Abdul Rahman Bin Datu Tuanku Bujang,,male,bumiputera,,,,,
+2,,,Sabah,Tuan Haji,Abdul Rashid Bin Haji Jais,,male,bumiputera,,,,,
+2,P040,Perak,Krian Laut,Tuan,Abdul Rauf Bin A. Rahman,,male,bumiputera,,,,,Perikatan - UMNO
+2,P064,Pahang,Lipis,Tuan,Abdul Razak Bin Haji Hussin,,male,bumiputera,,,,,Perikatan - UMNO
+2,P021,Kelantan,Pasir Mas Hulu,Tuan,Abdul Samad Bin Gul Ahmad Mianji,,male,bumiputera,,,,,PAS
+2,P027,Terengganu,Kuala Terengganu Selatan,Dato',Abdullah Bin Abdulrahman,,male,bumiputera,,,,,Perikatan - UMNO
+2,,,Marhum Tuanku Abdul Rahman,Y.A.M. Tunku,Abdullah Ibni Al,,male,bumiputera,,,,,
+2,P103,Johor,Segamat Utara,Tuan Haji,Abdullah Bin Haji Mohd. Salleh,,male,bumiputera,,,,,Perikatan - UMNO
+2,P016,Kelantan,Kelantan Hilir,Tuan Haji,Ahmad Bin Abdullah,,male,bumiputera,,,,,PAS
+2,P104,Johor,Muar Utara,Tuan,Ahmad Bin Arshad,,male,bumiputera,,,,,Perikatan - UMNO
+2,P038,Pulau Pinang,Seberang Utara,Tuan Haji,Ahmad Bin Saaid,,male,bumiputera,,,,,Perikatan - UMNO
+2,,,Sarawak,Puan,Ajibah Binti Abol,,female,bumiputera,,,,,
+2,P098,Johor,Pontian Selatan,Tuan,Ali Bin Haji Ahmad,,male,bumiputera,,,,,Perikatan - UMNO
+2,,,Sabah,O.K.K. Datu,Aliuddin Bin Datu Harun,,male,bumiputera,,,,,
+2,P092,Johor,Muar Selatan,Dr.,Awang Bin Hassan,,male,bumiputera,,,,,Perikatan - UMNO
+2,P089,Johor,Muar Dalam,Tuan,Aziz Bin Ishak,,male,bumiputera,,,,,Perikatan - UMNO
+2,,,Sarawak,Tuan,Jonathan Bangau Anak Renang,,male,bumiputera,,,,,
+2,,,Sarawak,Pengarah,Banyang Anak Janting,,male,bumiputera,,,,,
+2,P099,Johor,Kluang Selatan,Tuan,Chan Chong Wen,,male,chinese,,,,,Perikatan - MCA
+2,P070,Selangor,Setapak,Tuan,Chan Seong Yoon,,male,chinese,,,,,Perikatan - MCA
+2,P060,Pahang,Bentong,Tuan,Chan Siang Sun,,male,chinese,,,,,Perikatan - MCA
+2,P073,Selangor,Damansara,Tuan,Chen Wing Sum,,male,chinese,,,,,Perikatan - MCA
+2,,,Sarawak,Tuan,Chia Chin Shin,,male,chinese,,,,,
+2,,,Sabah,Tuan,Francis Chia Nyuk Tong,,male,chinese,,,,,
+2,,,Singapore,Tuan,Chia Thye Poh,,male,chinese,,,,,
+2,P049,Perak,Ulu Kinta,Tuan,Chin Foon,,male,chinese,,,,,Perikatan - MCA
+2,P071,Selangor,Bungsar,Tuan,C. V. Devan Nair,,male,indian,,,,,PETIR > DAP
+2,,,Sarawak,Tuan,Edwin Anak Tangkun,,male,bumiputera,,,,,
+2,P100,Johor,Johor Bharu Timur,Datin,Fatimah Binti Haji Abdul Majid,,female,bumiputera,,,,,Perikatan - UMNO
+2,P003,Kedah,Jitra,Datin,Fatimah Binti Haji Hashim,,female,bumiputera,,,,,Perikatan - UMNO
+2,,,Sabah,Tuan,S. Fazul Rahman,,male,bumiputera,,,,,
+2,,,Sabah,Datu,Ganie Gilong,,male,bumiputera,,,,,
+2,,,Singapore,Dr.,Goh Keng Swee,,male,chinese,,,,,
+2,,,Sabah,Tuan,Ganing Bin Jangkat,,male,bumiputera,,,,,
+2,P034,Pulau Pinang,Penang Utara,Tuan,Geh Chong Keat,,male,chinese,,,,,Perikatan - MCA
+2,P067,Selangor,Kapar,Tuan,Hamzah Bin Alang,,male,bumiputera,,,,,Perikatan - UMNO
+2,P013,Kedah,Kulim Utara,Tuan,Hanafi Bin Mohd. Yunus,,male,bumiputera,,,,,Perikatan - UMNO
+2,P010,Kedah,Jerai,Tuan,Hanafiah Bin Hussain,,male,bumiputera,,,,,Perikatan - UMNO
+2,P011,Kedah,Baling,Tuan,Harun Bin Abdullah,,male,bumiputera,,,,,Perikatan - UMNO
+2,P015,Kelantan,Tumpat,Tuan,Wan Hassan Bin Wan Daud,,male,bumiputera,,,,,PAS
+2,,,Singapore,Tuan,Ho See Beng,,male,chinese,,,,,
+2,,,Sabah,Tuan,Stanley Ho Ngun Khiu,,male,,,,,,
+2,P059,Pahang,Raub,Tuan,Hussein Bin To' Muda Hassan,,male,bumiputera,,,,,Perikatan - UMNO
+2,P048,Perak,Parit,Tuan,Hussein Bin Mohd. Noordin,,male,bumiputera,,,,,Perikatan - UMNO
+2,P024,Kelantan,Ulu Kelantan,Tuan,Hussein Bin Sulaiman,,male,bumiputera,,,,,Perikatan - UMNO
+2,P020,Kelantan,Kota Bharu Hulu,Tuan Haji,Hussain Rahimi Bin Haji Saman,,male,bumiputera,,,,,PAS
+2,,,Sarawak,Tuan,Ikhwan Zaini,,male,bumiputera,,,,,
+2,P032,Pulau Pinang,Seberang Tengah,Tuan,Ibrahim Bin Abdul Rahman,,male,bumiputera,,,,,Perikatan - UMNO
+2,P035,Pulau Pinang,Penang Selatan,Tuan,Ismail Bin Idris,,male,bumiputera,,,,,Perikatan - UMNO
+2,P096,Johor,Johor Tenggara,Tuan,Syed Ja'afar Bin Hasan Albar,,male,bumiputera,,,,,Perikatan - UMNO
+2,,,Singapore,Tuan,Jek Yeun Thong,,male,chinese,,,,,
+2,,,Sarawak,Penghulu,Jinggut Anak Attan,,male,bumiputera,,,,,
+2,,,Sarawak,Tuan,Kadam Anak Kiai,,male,bumiputera,,,,,
+2,P045,Perak,Sitiawan,Tuan,Kam Woon Wah,,male,chinese,,,,,Perikatan - MCA
+2,,,Sarawak,Tuan,Khoo Peng Loong,,male,chinese,,,,,
+2,,,Sabah,Datu,Khoo Siak Chiew,,male,chinese,,,,,
+2,,,Singapore,Tuan,Kow Kee Seng,,male,chinese,,,,,
+2,,,Sarawak,Tuan,Edmund Langgu Anak Saga,,male,bumiputera,,,,,
+2,,,Singapore,Tuan,Lee Kuan Yew,,male,chinese,,,,,
+2,P090,Johor,Segamat Selatan,Tuan,Lee San Choon,,male,chinese,,,,,Perikatan - MCA
+2,P058,Perak,Tanjung Malim,Tuan,Lee Seck Fun,,male,chinese,,,,,Perikatan - MCA
+2,,,Sabah,Tuan,Amadeus Mathew Leong,,male,,,,,,
+2,,,Sarawak,Tuan,Ling Beng Siew,,male,chinese,,,,,
+2,P036,Pulau Pinang,Tanjong,Dr.,Lim Chong Eu,,male,chinese,,,,,UDP
+2,,,Singapore,Tuan,Lim Huan Boon,,male,chinese,,,,,
+2,P037,Pulau Pinang,Dato Kramat,Tuan,Lim Kean Siew,,male,chinese,,,,,BS - Buruh
+2,,,Singapore,Dato',Lim Kim San,,male,chinese,,,,,
+2,P006,Kedah,Alor Setar,Tuan,Lim Pee Hung,,male,chinese,,,,,Perikatan - MCA
+2,,,Sabah,Tuan,Peter Lo Su Yin,,male,chinese,,,,,
+2,P008,Kedah,Kota Star Selatan,Dr.,Mahathir Bin Mohamad,,male,bumiputera,,,,,Perikatan - UMNO
+2,P082,Negeri Sembilan,Port Dickson,Tuan,T. Mahima Singh,,male,indian,,,,,Perikatan - MIC
+2,,,Sabah,Tuan,Joe Manjaji,,male,bumiputera,,,,,
+2,P047,Perak,Kuala Kangsar,Dr. Haji,Megat Khas,,male,bumiputera,,,,,Perikatan - UMNO
+2,,,Sabah,Tuan,Mohd. Arif Salleh,,male,bumiputera,,,,,
+2,P022,Kelantan,Pasir Puteh,Tuan,Mohamed Asri Bin Haji Muda,,male,bumiputera,,,,,PAS
+2,,,Sabah,Orang Tua,Mohammad Dara Bin Langpad,,male,bumiputera,,,,,
+2,P025,Terengganu,Besut,Tuan,Mohd. Daud Bin Abdul Samad,,male,bumiputera,,,,,PAS
+2,P083,Negeri Sembilan,Jelebu,Tuan,Mohamed Idris Bin Matsil,,male,bumiputera,,,,,Perikatan - UMNO
+2,P033,Pulau Pinang,Seberang Selatan,Tuan,Mohamed Noordin Bin Mastan,,male,bumiputera,,,,,Perikatan - UMNO
+2,P075,Selangor,Kuala Langat,Tuan,Mohd. Tahir Bin Abdul Majid,,male,bumiputera,,,,,Perikatan - UMNO
+2,P063,Pahang,Temerloh,Tuan,Mohamed Yusof Bin Mahmud,,male,bumiputera,,,,,Perikatan - UMNO
+2,P012,Kedah,Sungai Patani,Tuan,Mohd. Zahir Bin Haji Ismail,,male,bumiputera,,,,,Perikatan - UMNO
+2,P029,Terengganu,Kemaman,Tuan,Wan Mokhtar Bin Ahmad,,male,bumiputera,,,,,Perikatan - UMNO
+2,P002,Perlis,Perlis Selatan,Tuan Haji,Mokhtar Bin Haji Ismail,,male,bumiputera,,,,,Perikatan - UMNO
+2,P017,Kelantan,Pasir Mas Hilir,Tuan,Muhammad Fakhruddin Bin Haji Abdullah,,male,bumiputera,,,,,PAS
+2,,,Sarawak,Tuan Haji,Muhammad Su'aut Bin Haji Muhd. Tahir,,male,bumiputera,,,,,
+2,P077,Selangor,Sabak Bernam,Dato' Haji,Mustapha Bin Haji Abdul Jabar,,male,bumiputera,,,,,Perikatan - UMNO
+2,P023,Kelantan,Tanah Merah,Tuan,Mustapha Bin Ahmad,,male,bumiputera,,,,,PAS
+2,P018,Kelantan,Kota Bharu Hilir,Dato',Nik Ahmad Kamil,,male,bumiputera,,,,,Perikatan - UMNO
+2,P052,Perak,Batu Gajah,Tuan,Ng Fah Yam,,male,chinese,,,,,Perikatan - MCA
+2,P055,Perak,Telok Anson,Dr.,Ng Kam Poh,,male,chinese,,,,,Perikatan - MCA
+2,,,Sarawak,Tuan,Ong Kee Hui,,male,chinese,,,,,
+2,P054,Perak,Hilir Perak,Tuan Haji,Othman Bin Abdullah,,male,bumiputera,,,,,Perikatan - UMNO
+2,P001,Perlis,Perlis Utara,Tuan,Othman Bin Abdullah,,male,bumiputera,,,,,Perikatan - UMNO
+2,,,Sarawak,,Abang Othman Bin Haji Moasili,,male,bumiputera,,,,,
+2,,,Singapore,Tuan,Ong Pang Boon,,male,chinese,,,,,
+2,,,Singapore,Tuan,Othman Bin Wok,,male,bumiputera,,,,,
+2,P080,Negeri Sembilan,Seremban Timur,Tuan,Quek Kai Dong,,male,chinese,,,,,Perikatan - MCA
+2,P101,Johor,Johor Bharu Barat,Tuan Haji,Rahmat Bin Haji Daud,,male,bumiputera,,,,,Perikatan - UMNO
+2,P041,Perak,Krian Darat,Tuan,Ramli Bin Omar,,male,bumiputera,,,,,Perikatan - UMNO
+2,,,Rembau,Tuan Haji,Redza Bin Haji Mohd. Said,,male,bumiputera,,,,,
+2,P065,Selangor,Kuala Selangor,,Raja Rome Bin Raja Ma'amor,,male,bumiputera,,,,,Perikatan - UMNO
+2,,,Sarawak,Tuan,Sandom Anak Nyuak,,male,bumiputera,,,,,
+2,P091,Johor,Muar Pantai,Tuan,Seah Teng Ngiab,,male,chinese,,,,,Perikatan - MCA
+2,P050,Perak,Ipoh,Tuan,D. R. Seenivasagam,,male,indian,,,,,PPP
+2,P051,Perak,Menglembu,Tuan,S. P. Seenivasagam,,male,indian,,,,,PPP
+2,,,Sarawak,Tuan,Sim Boon Liang,,male,chinese,,,,,
+2,P084,Negeri Sembilan,Seremban Barat,Tuan,Siow Loong Hin,,male,chinese,,,,,Perikatan - MCA
+2,,,Sarawak,Tuan,Sng Chin Joo,,male,chinese,,,,,
+2,P093,Johor,Batu Pahat,Tuan,Soh Ah Teck,,male,chinese,,,,,Perikatan - MCA
+2,,,Sabah,Datu,Donald Aloysius Stephens,,male,,,,,,
+2,P028,Terengganu,Dungun,Tuan,Suleiman Bin Ali,,male,bumiputera,,,,,Perikatan - UMNO
+2,,,Singapore,Tuan,S. Rajaratham,,male,indian,,,,,
+2,,,Sabah,,Pengiran Tahir Petra,,male,bumiputera,,,,,
+2,P042,Perak,Larut Utara,Tuan,Tajudin Bin Ali,,male,bumiputera,,,,,Perikatan - UMNO
+2,P014,Kedah,Kulim,Tuan,Tai Kuan Yang,,male,chinese,,,,,Perikatan - MCA
+2,P066,Selangor,Batu,Dr.,Tan Chee Khoon,,male,chinese,,,,,BS - Buruh
+2,P031,Pulau Pinang,Bagan,Tuan,Tan Cheng Bee,,male,chinese,,,,,Perikatan - MCA
+2,P086,Melaka,Bandar Melaka,Tuan,Tan Kee Gak,,male,chinese,,,,,Perikatan - MCA
+2,P072,Selangor,Bukit Bintang,Tuan,Tan Toh Hong,,male,chinese,,,,,Perikatan - MCA
+2,,,Sarawak,Tuan,Tan Tsak Yu,,male,chinese,,,,,
+2,P095,Johor,Kluang Utara,Tuan,Tiah Eng Bee,,male,chinese,,,,,Perikatan - MCA
+2,,,Singapore,Dr.,Toh Chin Chye,,male,chinese,,,,,
+2,P053,Perak,Kampar,Tuan,Toh Theam Hock,,male,chinese,,,,,Perikatan - MCA
+2,,,Sarawak,Penghulu,Francis Umpau Anak Empam,,male,bumiputera,,,,,
+2,,,Singapore,Tuan,Wee Toon Boon,,male,chinese,,,,,
+2,,,Sabah,Tuan,Yeh Pao Tze,,male,chinese,,,,,
+2,P044,Perak,Bruas,Tuan,Yeoh Tat Beng,,male,chinese,,,,,Perikatan - MCA
+2,,,Sarawak,Tuan,Stephen Yong Kuet Tze,,male,chinese,,,,,
+2,,,Singapore,Tuan,Yong Nyuk Lin,,male,chinese,,,,,
+2,P069,Selangor,Langat,Tuan Haji,Zakaria Bin Haji Mohd. Taib,,male,bumiputera,,,,,Perikatan - UMNO
+3,,,,Dato',Chik Mohamed Yusuf Bin Sheikh Abdul Rahman,,male,bumiputera,,,Yang Dipertua Dewan Rakyat,,
+3,P062,Pahang,Pekan,Y.A.B. Tun Haji,Abdul Razak Bin Dato' Hussein,,male,bumiputera,,Perdana Menteri,,,Perikatan - UMNO
+3,P102,Johor,Johor Timor,Y.A.B. Tun Dr.,Ismail Bin Dato' Haji Abdul Rahman,,male,bumiputera,,Timbalan Perdana Menteri,,,Perikatan - UMNO
+3,P085,Melaka,Melaka Tengah,Tun,Tan Siew Sin,,male,chinese,,,,,Perikatan - MCA
+3,P046,Perak,Sungei Siput,Tun,V.T. Sambanthan,,male,indian,,,,,Perikatan - MIC
+3,P097,Johor,Pontian Utara,Tan Sri Haji,Sardon Bin Haji Jubir,,male,bumiputera,,,,,Perikatan - UMNO
+3,P009,Kedah,Kedah Tengah,Tuan,Mohamed Khir Johari,,male,bumiputera,,,,,Perikatan - UMNO
+3,P140,Sarawak,Ulu Rajang,Tan Sri Temenggong,Jugah Anak Barieng,,male,bumiputera,,,,,Pesaka
+3,P074,Selangor,Klang,Tan Sri,V. Manickavasagam,,male,indian,,,,,Perikatan - MIC
+3,P047,Perak,Kuala Kangsar,Tan Sri Haji,Mohamed Ghazali Bin Haji Jawi,,male,bumiputera,,,,,Perikatan - UMNO
+3,P087,Melaka,Melaka Utara,Tuan,Abdul Ghafar Bin Baba,,male,bumiputera,,,,,Perikatan - UMNO
+3,P115,Sabah,Kinabalu,Dato',Abdul Ghani Gilong,,male,bumiputera,,,,,USNO
+3,P076,Selangor,Sepang,Tuan,Lee Siok Yew,,male,chinese,,,,,Perikatan - MCA
+3,P059,Pahang,Raub,Dato',Hamzah Bin Dato' Abu Samah,,male,bumiputera,,,,,Perikatan - UMNO
+3,P003,Kedah,Jitra,Tan Sri,Fatimah Binti Haji Hashim,,female,bumiputera,,,,,Perikatan - UMNO
+3,P100,Johor,Johor Bahru Timur,Tuan,Hussein Bin Dato' Onn,,male,bumiputera,,,,,Perikatan - UMNO
+3,P122,Sarawak,Bandar Kuching,Dato',Ong Kee Hui,,male,chinese,,,,,SUPP
+3,P124,Sarawak,Samarahan,Tuan,Abdul Taib Bin Mahmud,,male,bumiputera,,,,,Bumiputera
+3,P098,Johor,Pontian Selatan,Tuan,Ali Bin Haji Ahmad,,male,bumiputera,,,,,Perikatan - UMNO
+3,P079,Negeri Sembilan,Kuala Pilah,Dato',Abdul Samad Bin Idris,,male,bumiputera,,,,,Perikatan - UMNO
+3,P090,Johor,Segamat Selatan,Tuan,Lee San Chong,,male,chinese,,,,,Perikatan - MCA
+3,P018,Kelantan,Kota Bharu Hilir,Y.M. Tengku,Ahmad Rithaudeen Bin Tengku Ismail,,male,bumiputera,,,,,Perikatan - UMNO
+3,P023,Kelantan,Tanah Merah,Tuan,Mohamed Bin Yaacob,,male,bumiputera,,,,,Perikatan - UMNO
+3,P069,Selangor,Langat,Tuan,Shariff Ahmad,,male,bumiputera,,,,,Perikatan - UMNO
+3,P026,Terengganu,Kuala Trengganu Utara,Tuan,Wan Abdul Kadir Bin Ismail,,male,bumiputera,,,,,Perikatan - UMNO
+3,P083,Negeri Sembilan,Jelebu,Tuan,Mohamed Bin Ujang,,male,bumiputera,,,,,Perikatan - UMNO
+3,P101,Johor,Johor Bahru Barat,Tuan,Mohamed Bin Rahmat,,male,bumiputera,,,,,Perikatan - UMNO
+3,P016,Kelantan,Kelantan Hilir,Tuan,Nik Abdul Aziz Bin Nik Mat,,male,bumiputera,,,,,PAS
+3,P015,Kelantan,Tumpat,Dato' Dr. Haji,Abdul Aziz Bin Omar,,male,bumiputera,,,,,Perikatan - UMNO
+3,P068,Selangor,Rawang,Y.A.M. Tunku,Abdullah Ibni Almarhum Tuanku Abdul Rahman,,male,bumiputera,,,,,Perikatan - UMNO
+3,P007,Kedah,Kuala Kedah,Y.T.M. Tunku,Abdul Rahman Putra Al Haj,,male,bumiputera,,,,,Perikatan - UMNO
+3,P114,Sabah,Sabah Selatan,Tuan Haji,Abdul Rashid Bin Haji Jais,,male,bumiputera,,,,,USNO
+3,P064,Pahang,Lipis,Tuan Haji,Abdul Razak Bin Haji Hussin,,male,bumiputera,,,,,Perikatan - UMNO
+3,P028,Terengganu,Dungun,Tuan Haji,Abdul Wahab Bin Yunus,,male,bumiputera,,,,,PAS
+3,P139,Sarawak,Kapit,Penghulu,Abit Anak Angkin,,male,bumiputera,,,,,SNAP
+3,P004,Kedah,Kubang Pasu Barat,Tuan,Abu Bakar Bin Umar,,male,bumiputera,,,,,PAS
+3,P104,Johor,Muar Utara,Haji,Ahmad Bin Arshad,,male,bumiputera,,,,,Perikatan - UMNO
+3,P118,Sabah,Kinabatangan,,Pengiran Ahmad Bin Pengiran Indar,,male,bumiputera,,,,,USNO
+3,P088,Melaka,Melaka Selatan,Tuan,Ahmad Bin Haji Ithnin,,male,bumiputera,,,,,Perikatan - UMNO
+3,P038,Pulau Pinang,Seberang Utara,Tuan Haji,Ahmad Bin Said,,male,bumiputera,,,,,Perikatan - UMNO
+3,P054,Perak,Hilir Perak,Tuan Haji,Ahmad Damanhuri Bin Haji Abdul Wahab,,male,bumiputera,,,,,Perikatan - UMNO
+3,P024,Kelantan,Ulu Kelantan,Tan Sri Haji,Nik Ahmed Kamil,,male,bumiputera,,,,,Perikatan - UMNO
+3,P013,Kedah,Kulim Utara,Puan,Bibi Aishah Binti Hamid Don,,female,bumiputera,,,,,Perikatan - UMNO
+3,P117,Sabah,Labuk,Tuan,Ajad Bin O.T. Oyong,,male,bumiputera,,,,,USNO
+3,P092,Johor,Muar Selatan,Dr.,Awang Bin Hassan,,male,bumiputera,,,,,Perikatan - UMNO
+3,P012,Kedah,Sungai Petani,Tuan,Azahari Bin Mohd. Taib,,male,bumiputera,,,,,Perikatan - UMNO
+3,P137,Sarawak,Julau,Dato' Pengarah,Banyang Anak Janting,,male,bumiputera,,,,,Pesaka
+3,P106,Sabah,Bandau,Chegu,Baudi Bin Unggut,,male,bumiputera,,,,,USNO
+3,P127,Sarawak,Simunjan,Tuan,Bojeng Bin Andot,,male,bumiputera,,,,,Bumiputera
+3,P108,Sabah,Tuaran,Tuan,Buja Bin Gumbilai,,male,bumiputera,,,,,USNO
+3,P144,Sarawak,Limbang,Tuan,Awang Bungsu Bin Abdullah,,male,bumiputera,,,,,SNAP
+3,P123,Sarawak,Santubong,Tuan Haji,Awang Wal Bin Awang Abu,,male,bumiputera,,,,,Bumiputera
+3,P055,Perak,Telok Anson,Tuan,Chan Fu King,,male,chinese,,,,,DAP
+3,P060,Pahang,Bentong,Tuan,Chan Siang Sun,,male,chinese,,,,,Perikatan - MCA
+3,P049,Perak,Ulu Kinta,Tuan,Chan Yoon Onn,,male,chinese,,,,,PPP
+3,P132,Sarawak,Sarikei,Tuan,Chen Ko Ming,,male,chinese,,,,,SCA
+3,P080,Negeri Sembilan,Seremban Timor,Dr.,Chen Man Hin,,male,chinese,,,,,DAP
+3,P099,Johor,Kluang Selatan,Dr.,Chu Chee Peng,,male,chinese,,,,,Perikatan - MCA
+3,P034,Pulau Pinang,Pulau Pinang Utara,Tuan,Peter Paul Dason,,male,indian,,,,,DAP
+3,P037,Pulau Pinang,Dato Kramat,Tuan,V. David,,male,indian,,,,,Gerakan
+3,P128,Sarawak,Batang Lupar,Tuan,Edwin Anak Tangkun,,male,bumiputera,,,,,SNAP
+3,P053,Perak,Kampar,Tuan,Fan Yew Teng,,male,chinese,,,,,DAP
+3,P094,Johor,Batu Pahat Dalam,Datin Hajjah,Fatimah Binti Haji Abdul Majid,,female,bumiputera,,,,,Perikatan - UMNO
+3,P071,Selangor,Bangsar,Tuan,Goh Hock Guan,,male,chinese,,,,,DAP
+3,P010,Kedah,Jerai,Tuan,Hanafiah Bin Hussain,,male,bumiputera,,,,,Perikatan - UMNO
+3,P048,Perak,Parit,Tuan,Hashim Bin Gera,,male,bumiputera,,,,,PAS
+3,P073,Selangor,Damansara,Tuan,Hor Cheok Foon,,male,chinese,,,,,DAP
+3,P045,Perak,Sitiawan,Tuan,Richard Ho Ung Hun,,male,chinese,,,,,DAP
+3,P025,Terengganu,Besut,Tuan,Hussain Bin Haji Sulaiman,,male,bumiputera,,,,,Perikatan - UMNO
+3,P096,Johor,Johor Tenggara,Tan Sri,Syed Jaafar Bin Hassan Albar,,male,bumiputera,,,,,Perikatan - UMNO
+3,P078,Selangor,Ulu Selangor,Tan Sri,Khaw Kai Boh,,male,chinese,,,,,Perikatan - MCA
+3,P134,Sarawak,Bandar Sibu,Tuan,Khoo Peng Loong,,male,chinese,,,,,SUPP
+3,P131,Sarawak,Saratok,Tuan,Edmund Langgu Anak Saga,,male,bumiputera,,,,,SNAP
+3,P136,Sarawak,Mukah,Tuan,Latip Bin Haji Idris,,male,bumiputera,,,,,Bumiputera
+3,P058,Perak,Tanjong Malim,Tuan,Lee Seck Fun,,male,chinese,,,,,Perikatan - MCA
+3,P052,Perak,Batu Gajah,Tuan,Lim Cho Hock,,male,chinese,,,,,DAP
+3,P036,Pulau Pinang,Tanjong,Dr.,Lim Chong Eu,,male,chinese,,,,,Gerakan
+3,P086,Melaka,Bandar Melaka,Tuan,Lim Kit Siang,,male,chinese,,,,,DAP
+3,P006,Kedah,Alor Star,Tuan,Lim Pee Hung,,male,chinese,,,,,Perikatan - MCA
+3,P057,Perak,Batang Padang,Tuan,Loh Jee Mee,,male,chinese,,,,,DAP
+3,P070,Selangor,Setapak,Tuan,Walter Loh Poh Khan,,male,chinese,,,,,DAP
+3,P116,Sabah,Sandakan,Tuan,Peter Lo Su Yin,,male,chinese,,,,,SCA
+3,P143,Sarawak,Baram,Tuan,Luhat Wan,,male,bumiputera,,,,,SNAP
+3,P112,Sabah,Labuan,Tuan,Chik Johari Ondu Majakil,,male,bumiputera,,,,,USNO
+3,P130,Sarawak,Betong,Tuan,Andrew Mara Anak Walter Unjah,,male,bumiputera,,,,,SNAP
+3,P005,Kedah,Kota Star Utara,Tuan Haji,Mawardi Bin Lebai Teh,,male,bumiputera,,,,,PAS
+3,P061,Pahang,Kuantan,Dr.,Mohamed Bin Taib,,male,bumiputera,,,,,Perikatan - UMNO
+3,P113,Sabah,Sabah Dalam,Tuan,Mohamed Arif Bin Salleh,,male,bumiputera,,,,,USNO
+3,P020,Kelantan,Kota Bharu Hulu,Dato' Haji,Mohamed Asri Bin Haji Muda,,male,bumiputera,,,,,PAS
+3,P027,Terengganu,Kuala Trengganu Selatan,Tuan,Mohd. Daud Bin Abdul Samad,,male,bumiputera,,,,,PAS
+3,P039,Perak,Ulu Perak,Tuan,Mohd Nor Bin Md. Dahan,,male,bumiputera,,,,,Perikatan - UMNO
+3,P107,Sabah,Kota Belud,Tuan,Mohammad Said Bin Keruak,,male,bumiputera,,,,,USNO
+3,P119,Sabah,Darvel,Tuan,Mohd. Salleh Bin Dato' Panglima Abdullah,,male,bumiputera,,,,,USNO
+3,P075,Selangor,Kuala Langat,Tuan,Mohd. Tahir Bin Abdul Majid,,male,bumiputera,,,,,Perikatan - UMNO
+3,P063,Pahang,Temerloh,Tuan Haji,Mohamed Yusof Bin Mahmud,,male,bumiputera,,,,,Perikatan - UMNO
+3,P019,Kelantan,Bachok,Tuan Haji,Mohd. Zain Bin Abdullah,,male,bumiputera,,,,,PAS
+3,P030,Terengganu,Terengganu Tengah,Dato',Engku Muhsein Bin Engku Abdul Kadir,,male,bumiputera,,,,,Perikatan - UMNO
+3,P029,Terengganu,Kemaman,Tuan,Wan Mokhtar Bin Ahmad,,male,bumiputera,,,,,Perikatan - UMNO
+3,P002,Perlis,Perlis Selatan,Tuan Haji,Mokhtar Bin Haji Ismail,,male,bumiputera,,,,,Perikatan - UMNO
+3,P017,Kelantan,Pasir Mas Hilir,Tuan,Muhammad Fakhruddin Bin Haji Abdullah,,male,bumiputera,,,,,PAS
+3,P103,Johor,Segamat Utara,Tuan,Musa Bin Hitam,,male,bumiputera,,,,,Perikatan - UMNO
+3,P077,Selangor,Sabak Bernam,Dato' Haji,Mustapha Bin Haji Abdul Jabar,,male,bumiputera,,,,,Perikatan - UMNO
+3,P105,Sabah,Marudu,Tun Datu Haji,Mustapha Bin Datu Harun,,male,bumiputera,,,,,USNO
+3,P032,Pulau Pinang,Seberang Tengah,Tuan,Mustapha Bin Hussain,,male,bumiputera,,,,,Gerakan
+3,P129,Sarawak,Luboh Antu,Tuan,Jonathan Narwin Anak Jinggong,,male,bumiputera,,,,,SNAP
+3,P089,Johor,Muar Dalam,Dato',Syed Nasir Bin Nasir Ismail,,male,bumiputera,,,,,Perikatan - UMNO
+3,P043,Perak,Larut Selatan,Tuan,Ng Hoe Hun,,male,chinese,,,,,Gerakan
+3,P065,Selangor,Kuala Selangor,,Raja Nong Chik Bin Raja Ishak,,male,bumiputera,,,,,Perikatan - UMNO
+3,P001,Perlis,Perlis Utara,Tuan,Othman Bin Abdullah,,male,bumiputera,,,,,Perikatan - UMNO
+3,P109,Sabah,Kota Kinabalu,Dato',Pang Tet Tshung,,male,chinese,,,,,SCA
+3,P126,Sarawak,Serian,Pengarah,Rahun Anak Debak,,male,bumiputera,,,,,SNAP
+3,P041,Perak,Krian Darat,Tuan,Ramli Bin Omar,,male,bumiputera,,,,,Perikatan - UMNO
+3,P050,Perak,Ipoh,Tuan,R.C.M. Rayan @ R.C. Mahadeva Rayan,,male,,,,,,PPP
+3,P091,Johor,Muar Pantai,Tuan,Seah Teng Ngiab,,male,,,,,,Perikatan - MCA
+3,P084,Negeri Sembilan,Seremban Barat,Dr.,S. Seevaratnam,,,,,,,,DAP
+3,P051,Perak,Menglembu,Dato',S.P. Seenivasagam,,,,,,,,PPP
+3,P035,Pulau Pinang,Pulau Pinang Selatan,Tuan,Thomas Gabriel Selvaraj,,male,,,,,,Gerakan
+3,P011,Kedah,Baling,Tuan Haji,Shafie Bin Abdullah,,male,bumiputera,,,,,Perikatan - UMNO
+3,P121,Sarawak,Bau Lundu,Tuan,Sinyium Anak Mutit,,male,bumiputera,,,,,SUPP
+3,P093,Johor,Batu Pahat,Tuan,Soh Ah Teck,,male,,,,,,Perikatan - MCA
+3,P082,Negeri Sembilan,Port Dickson,Dr.,A. Soorian,,,,,,,,DAP
+3,P056,Perak,Bagan Datoh,Tuan,Sulaiman Bin Bulon,,male,bumiputera,,,,,Perikatan - UMNO
+3,P022,Kelantan,Pasir Puteh,Tuan,Wan Sulaiman Bin Haji Ibrahim,,male,bumiputera,,,,,PAS
+3,P081,Negeri Sembilan,Rembau Tampin,Dr.,Sulaiman Bin Mohamed Attas,,male,bumiputera,,,,,Perikatan - UMNO
+3,P040,Perak,Krian Laut,Tuan,Sulaiman Bin Haji Taib,,male,bumiputera,,,,,Perikatan - UMNO
+3,P044,Perak,Bruas,Tuan,Su Liang Yu,,male,,,,,,PPP
+3,P111,Sabah,Kimanis,,Pengiran Tahir Bin Pengiran Petra,,male,bumiputera,,,,,USNO
+3,P014,Kedah,Kulim Bandar Bharu,Tuan,Tai Kuan Yang,,male,,,,,,Perikatan - MCA
+3,P042,Perak,Larut Utara,Tuan,Tajuddin Bin Ali,,male,bumiputera,,,,,Perikatan - UMNO
+3,P066,Selangor,Batu,Dr.,Tan Chee Khoon,,,,,,,,Gerakan
+3,P031,Pulau Pinang,Bagan,Tuan,Tan Cheng Bee,,male,,,,,,Perikatan - MCA
+3,P095,Johor,Kluang Utara,Tuan,Tiah Eng Bee,,male,,,,,,Perikatan - MCA
+3,P110,Sabah,Penampang,Tuan,James Stephen Tibok,,male,,,,,,USNO
+3,P135,Sarawak,Rajang,Tuan,Tibuoh Anak Rantai,,male,bumiputera,,,,,SUPP
+3,P141,Sarawak,Bintulu,Tuan,Ting Ming Kiong,,male,,,,,,SCA
+3,P138,Sarawak,Kanowit,Tuan,Joseph Unting Anak Umang,,male,bumiputera,,,,,Bebas
+3,P033,Pulau Pinang,Seberang Selatan,Tuan,V. Verappan,,male,,,,,,Gerakan
+3,P142,Sarawak,Miri,Dato',James Wong Kim Min,,,,,,,,SNAP
+3,P120,Sabah,Tawau,Tuan,Yeh Pao Tzu,,male,,,,,,SCA
+3,P072,Selangor,Bukit Bintang,Tuan,Yeoh Teck Chye,,male,,,,,,Gerakan
+3,P125,Sarawak,Pandawan,Tuan,Stephen Yong Kuet Tze,,male,,,,,,SUPP
+3,P008,Kedah,Kota Star Selatan,Tuan Haji,Yusof Bin Haji Abdullah @ Haji Yusof Rawa,,male,bumiputera,,,,,PAS
+3,P133,Sarawak,Payang,Dato' Haji,Abdul Rahman Bin Ya'kub,,male,bumiputera,,,,,Bumiputera
+3,P021,Kelantan,Pasir Mas Hulu,Tengku,Zaid Bin Tengku Ahmad,,male,bumiputera,,,,,PAS
+4,,,,Tan Sri Haji,Nik Ahmed Kamil,,male,,,,Yang Dipertua Dewan Rakyat,,
+4,P071,Pahang,Pekan,Y.A.B. Tun Haji,Abdul Razak Bin Datuk Hussein,,male,bumiputera,,Perdana Menteri,,,BN - UMNO
+4,P109,Johor,Sri Gading,Y.A.B. Datuk,Hussein Bin Datuk Onn,,male,bumiputera,,Timbalan Perdana Menteri,,,BN - UMNO
+4,P095,Melaka,Alor Gajah,Tuan,Abdul Ghafar Bin Baba,,male,bumiputera,,,,,BN - UMNO
+4,P100,Johor,Segamat,Datuk,Lee San Choon,,,,,,,,BN - MCA
+4,P079,Selangor,Pelabohan Klang,Tan Sri,Manickavasagam,,,,,,,,BN - MIC
+4,P022,Kelantan,Nilam Puri,Datuk Haji,Mohamed Asri Bin Haji Muda,,male,bumiputera,,,,,BN - PAS
+4,P072,Pahang,Temerloh,Datuk Haji,Hamzah Bin Datuk Abu Samah,,male,bumiputera,,,,,BN - UMNO
+4,P132,Sarawak,Bandar Kuching,Datuk,Ong Kee Hui,,,,,,,,BN - SUPP
+4,P065,Pahang,Lipis,Tan Sri Haji,Muhammad Ghazali Bin Shafie,,male,bumiputera,,,,,BN - UMNO
+4,P120,Sabah,Kinabalu,Datuk Haji,Abdul Ghani Gilong,,male,bumiputera,,,,,BN - USNO
+4,P078,Selangor,Ulu Langat,Tan Sri,Lee Siok Yew,,,,,,,,BN - MCA
+4,P102,Johor,Tenggaroh,Tan Sri,Abdul Kadir Bin Yusof,,male,bumiputera,,,,,BN - UMNO
+4,P082,Selangor,Kuala Langat,Puan Hajjah,Aishah Binti Haji Abdul Ghani,,female,bumiputera,,,,,BN - UMNO
+4,P112,Johor,Pontian,Datuk,Ali Bin Haji Ahmad,,male,bumiputera,,,,,BN - UMNO
+4,P019,Kelantan,Kota Baru,Y.M. Tengku,Ahmad Rithaudeen Al Haj Bin Tengku Ismail,,,,,,,,BN - UMNO
+4,P023,Kelantan,Tanah Merah,Tuan Haji,Mohamed Bin Yaacob,,male,bumiputera,,,,,BN - UMNO
+4,P075,Selangor,Ulu Selangor,Tuan,Michael Chen Wing Sum,,male,,,,,,BN - MCA
+4,P099,Johor,Labis,Datuk,Musa Hitam,,,,,,,,BN - UMNO
+4,P004,Kedah,Kubang Pasu,Dr.,Mahathir Bin Mohamad,,male,bumiputera,,,,,BN - UMNO
+4,P134,Sarawak,Samarahan,Datuk Haji,Abdul Taib Bin Mahmud,,male,bumiputera,,,,,BN - PBB
+4,P092,Negeri Sembilan,Kuala Pilah,Datuk,Abdul Samad Bin Idris,,male,bumiputera,,,,,BN - UMNO
+4,P066,Pahang,Jerantut,Tuan,Shariff Ahmad,,male,,,,,,BN - UMNO
+4,P034,Terengganu,Kemaman,Datuk Haji,Wan Abdul Kadir Bin Ismail,,male,bumiputera,,,,,BN - UMNO
+4,P113,Johor,Pulai,Datuk,Mohamed Bin Rahmat,,male,bumiputera,,,,,BN - UMNO
+4,P073,Selangor,Sabak Bernam,Datuk Haji,Mustapha Bin Haji Abdul Jabar,,male,bumiputera,,,,,BN - UMNO
+4,P064,Perak,Bagan Datok,Tuan Haji,Hassan Adli Bin Haji Arshad,,male,bumiputera,,,,,BN - PAS
+4,P070,Pahang,Bentong,Tuan,Chan Siang Sun,,male,,,,,,BN - MCA
+4,P097,Melaka,Batu Berendam,Tan Sri,Chong Hon Nyan,,,,,,,,BN - MCA
+4,P024,Kelantan,Machang,Datuk,Abdullah Ahmad,,,,,,,,BN - UMNO
+4,P094,Negeri Sembilan,Tampin,Tuan,Mokhtar Bin Haji Hashim,,male,bumiputera,,,,,BN - UMNO
+4,P008,Kedah,Kota Setar,Tuan,Abu Bakar Bin Umar,,male,bumiputera,,,,,BN - PAS
+4,P060,Perak,Lumut,Tuan,Richard Ho Ung Hun,,male,,,,,,BN - MCA
+4,P133,Sarawak,Santubong,Dr,Sulaiman Bin Haji Daud,,male,bumiputera,,,,,BN - PBB
+4,P049,Perak,Taiping,Tuan,Paul Leong Khee Seong,,male,,,,,,BN - Gerakan
+4,P045,Perak,Larut,Datuk Sri Haji,Kamaruddin Bin Haji Mat Isa,,male,bumiputera,,,,,BN - UMNO
+4,P047,Perak,Bagan Serai,Tuan Haji,Ramli Bin Omar,,male,bumiputera,,,,,BN - UMNO
+4,P068,Pahang,Raub,Tuan,Abdullah Bin Majid,,male,bumiputera,,,,,BN - UMNO
+4,P086,Wilayah Persekutuan Kuala Lumpur,Damanasara,Tuan,S. Subramaniam,,male,,,,,,BN - MIC
+4,P032,Terengganu,Kuala Terengganu,Tuan,Mustapha Bin Ali,,male,bumiputera,,,,,BN - PAS
+4,P039,Pulau Pinang,Nibong Tebal,Dr,Goh Cheng Teik,,,,,,,,BN - Gerakan
+4,P106,Johor,Muar,Dr,Neo Yee Pan,,,,,,,,BN - MCA
+4,P067,Pahang,Kuantan,Tuan,Mohd. Ali Bin M. Sharif,,male,bumiputera,,,,,BN - UMNO
+4,P089,Negeri Sembilan,Jelebu,Tuan,Rais Bin Yatim,,male,bumiputera,,,,,BN - UMNO
+4,P017,Kelantan,Pengkalan Chepa,Tuan Haji,Nik Abdul Aziz Bin Nik Mat,,male,bumiputera,,,,,BN - PAS
+4,P051,Perak,Padang Rengas,Tan Sri,Abdul Aziz Bin Yeop,,male,bumiputera,,,,,BN - UMNO
+4,P111,Johor,Batu Pahat,Tuan,Abdul Jalal Bin Haji Abu Bakar,,male,bumiputera,,,,,BN - UMNO
+4,P143,Sarawak,Payang,Datuk Patinggi Haji,Abdul Rahman Bin Ya'kub,,male,bumiputera,,,,,BN - PBB
+4,P129,Sabah,Ulu Padas,Tuan Haji,Abdul Rashid Bin Haji Jais,,male,bumiputera,,,,,BN - USNO
+4,P033,Terengganu,Dungun,Tuan Haji,Abdul Wahab Bin Yunus,,male,bumiputera,,,,,BN - PAS
+4,P149,Sarawak,Kapit,Penghulu,Abit Anak Angkin,,,bumiputera,,,,,BN - PBB
+4,P061,Perak,Hilir Perak,Tuan,Abu Bakar Bin Arshad,,male,bumiputera,,,,,BN - UMNO
+4,P096,Melaka,Jasin,Tuan Haji,Ahmad Bin Haji Ithnin,,male,bumiputera,,,,,BN - UMNO
+4,P124,Sabah,Kinabatangan,,Pengiran Ahmad Bin Pengiran Indar,,male,bumiputera,,,,,BN - USNO
+4,P005,Kedah,Padang Terap,Tuan Haji,Ahmad Shukri Bin Haji Abd. Shukor,,male,bumiputera,,,,,BN - PAS
+4,P118,Sabah,Labuk Sugut,Tuan,Ajad Bin O.T.Oyung,,male,bumiputera,,,,,BN - USNO
+4,P037,Pulau Pinang,Permatang Pauh,Tuan,Ariffin Bin Haji Daud,,male,bumiputera,,,,,BN - UMNO
+4,P062,Perak,Telok Anson,Tuan,Au How Cheong,,male,,,,,,BN - Gerakan
+4,P015,Kedah,Kulim Bandar Bahru,Tuan,Azahari Bin Md. Taib,,male,bumiputera,,,,,BN - UMNO
+4,P059,Perak,Batang Padang,Tuan,Azharul Abidin Bin Haji Abdul Rahim,,male,bumiputera,,,,,BN - UMNO
+4,P119,Sabah,Tuaran,Tuan,Buja Bin Gumbilai,,male,bumiputera,,,,,BN - USNO
+4,P091,Negeri Sembilan,Seremban,Dr,Chen Man Hin,,,,,,,,DAP
+4,P058,Perak,Batu Gajah,Tuan,Chian Heng Kai,,male,,,,,,DAP
+4,P142,Sarawak,Sarikei,Tuan,Chieng Tiong Kai @ Chieng Sie Lung,,male,,,,,,BN - SUPP
+4,P107,Johor,Rengam,Tuan,Chin Hon Ngian,,male,,,,,,BN - MCA
+4,P136,Sarawak,Serian,Tuan,Richard Dampeng Anak Laki,,male,bumiputera,,,,,BN - SUPP
+4,P138,Sarawak,Batang Lupar,Tuan,Edwin Anak Tangkun,,male,bumiputera,,,,,SNAP
+4,P103,Johor,Ledang,Tuan,Embong Bin Yahya,,male,bumiputera,,,,,BN - UMNO
+4,P055,Perak,Menglembu,Tuan,Fan Yew Teng,,male,,,,,,DAP
+4,P088,Wilayah Persekutuan Kuala Lumpur,Sungai Besi,Tuan,Farn Seong Than,,male,,,,,,DAP
+4,P110,Johor,Semerah,Datin Hajjah,Fatimah Binti Haji Abdul Majid,,female,bumiputera,,,,,BN - UMNO
+4,P137,Sarawak,Simunjan,Tuan Haji,Hadadak Bin Haji D. Pasauk,,male,bumiputera,,,,,BN - PBB
+4,P050,Perak,Matang,Tuan,Hashim Bin Ghazali,,male,bumiputera,,,,,BN - UMNO
+4,P031,Terengganu,Kuala Nerus,Datuk,Nik Hassan Bin Abdul Rahman,,male,bumiputera,,,,,BN - UMNO
+4,P002,Perlis,Arau,Tuan,Syed Hassan Bin Syed Mohamed,,male,bumiputera,,,,,BN - UMNO
+4,P105,Johor,Ayer Hitam,Dr.,Hee Tien Lai @ Hee Ten Lai,,,,,,,,BN - MCA
+4,P069,Pahang,Maran,Tuan,Hishamuddin Bin Haji Yahaya,,male,bumiputera,,,,,BN - UMNO
+4,P108,Johor,Panti,Tan Sri,Syed Ja'afar Albar,,,bumiputera,,,,,BN - UMNO
+4,P114,Johor,Johor Bharu,Tuan,Ja'afar Bin Hamzah,,male,bumiputera,,,,,BN - UMNO
+4,P074,Selangor,Tanjong Karang,Tuan Haji,Jamil Bin Ishak,,male,bumiputera,,,,,BN - UMNO
+4,P145,Sarawak,Rajang,Tuan,Jawan Anak Empaling,,male,bumiputera,,,,,BN - SUPP
+4,P139,Sarawak,Lubok Antu,Tuan,Jonathan Narwin Anak Jinggong,,male,bumiputera,,,,,SNAP
+4,P141,Sarawak,Saratok,Tuan,Edmund Langgu Anak Saga,,male,bumiputera,,,,,SNAP
+4,P146,Sarawak,Mukah,Tuan,Latip Bin Haji Dris,,male,bumiputera,,,,,BN - PBB
+4,P090,Negeri Sembilan,Mantin,Tuan,Lee Boon Peng,,male,,,,,,BN - MCA
+4,P087,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur Bandar,Tuan,Lee Lam Thye,,male,,,,,,DAP
+4,P148,Sarawak,Kanowit,Tuan,Leo Moggie Anak Irok,,male,bumiputera,,,,,SNAP
+4,P080,Selangor,Shah Alam,Tuan,Lew Sip Hon,,male,,,,,,BN - MCA
+4,P140,Sarawak,Betong,Tuan,Liben Anak Kato @ Wairy Leben Anak Kato,,male,bumiputera,,,,,BN - PBB
+4,P014,Kedah,Padang Serai,Tuan,Lim Kian Hoon,,male,,,,,,BN - MCA
+4,P054,Perak,Ipoh,Tuan,Lim Cho Hock,,male,,,,,,DAP
+4,P042,Pulau Pinang,Tanjong,Dr,Lim Chong Eu,,,,,,,,BN - Gerakan
+4,P098,Melaka,Kota Melaka,Tuan,Lim Kit Siang,,male,,,,,,DAP
+4,P123,Sabah,Sandakan,Datuk,Lim Pui Ho,,,,,,,,BN - SCA
+4,P036,Pulau Pinang,Mata Kuching,Dr,Ling Liong Sik,,,,,,,,BN - MCA
+4,P077,Selangor,Selayang,Tuan,Walter Loh Poh Khan,,male,,,,,,BN - MCA
+4,P121,Sabah,Gaya,Datuk,Peter Lo Su Yin,,,,,,,,BN - SCA
+4,P153,Sarawak,Baram,Tuan,Luhat Wan,,male,,,,,,SNAP
+4,P029,Terengganu,Ulu Nerus,Tuan,Lukman Bin Abdul Kadir,,male,bumiputera,,,,,BN - PAS
+4,P116,Sabah,Bandau,Tuan,Madina Bin Unggut,,male,bumiputera,,,,,BN - USNO
+4,P041,Pulau Pinang,Bukit Bendera,Datuk,Albert Mah,,,,,,,,BN - MCA
+4,P063,Perak,Tanjong Malim,Tuan,Mak Hon Kam,,male,,,,,,BN - MCA
+4,P117,Sabah,Kota Belud,Tan Sri,Mohamed Said Bin Keruak,,male,bumiputera,,,,,BN - USNO
+4,P035,Pulau Pinang,Kepala Batas,Tuan,Mohamed Sopiee Bin Sheikh Ibrahim,,male,bumiputera,,,,,BN - UMNO
+4,P057,Perak,Parit,Tuan,Mohd. Bakri Bin Abdul Rais,,male,bumiputera,,,,,BN - UMNO
+4,P085,Wilayah Persekutuan Kuala Lumpur,Setapak,Tuan,Mohd. Idris Bin Haji Ibrahim,,male,bumiputera,,,,,BN - UMNO
+4,P128,Sabah,Silam,Tuan,Mohd. Salleh Bin Datuk Panglima Abdullah,,male,bumiputera,,,,,BN - USNO
+4,P126,Sabah,Hilir Padas,Tuan Haji,Mohd. Taufeck Bin O.K.K. Haji Asneh,,male,bumiputera,,,,,BN - USNO
+4,P020,Kelantan,Bachok,Tuan Haji,Mohd. Zain Bin Abdullah,,male,bumiputera,,,,,BN - PAS
+4,P030,Terengganu,Ulu Terengganu,Datuk,Engku Muhsein Bin Abdul Kadir,,male,bumiputera,,,,,BN - UMNO
+4,P115,Sabah,Marudu,Tun Datu Haji,Mustapha Bin Datu Harun,,male,bumiputera,,,,,BN - USNO
+4,P003,Kedah,Jerlun,Datuk,Syed Nahar Bin Tun Syed Sheh Shahabuddin,,male,bumiputera,,,,,BN - UMNO
+4,P104,Johor,Pagoh,Tan Sri,Syed Nasir Bin Ismail,,male,bumiputera,,,,,BN - UMNO
+4,P076,Selangor,Kuala Selangor,,Raja Nasron Bin Raja Ishak,,male,bumiputera,,,,,BN - UMNO
+4,P053,Perak,Kinta,Tuan,Ngan Siong Hin,,male,,,,,,DAP
+4,P016,Kelantan,Tumpat,Tengku,Noor Asiah Binti Tengku Ahmad,,female,bumiputera,,,,,BN - UMNO
+4,P081,Selangor,Petaling,Tuan,Oh Keng Seng,,male,,,,,,DAP
+4,P052,Perak,Kuala Kangsar,Puan,Oon Zariah Binti Abu Bakar,,female,bumiputera,,,,,BN - UMNO
+4,P007,Kedah,Alor Setar,Tuan,Oo Gin Sun,,male,,,,,,BN - MCA
+4,P130,Sabah,Tawau,Tuan,Pang Sui Chee @ Alex Pang,,male,,,,,,BN - SCA
+4,P093,Negeri Sembilan,Telok Kemang,Tuan,K.Pathamanaban,,male,,,,,,BN - MIC
+4,P131,Sarawak,Bau,Tuan,Patrick Anek Uren,,male,,,,,,SNAP
+4,P154,Sarawak,Limbang,Tuan,Racha Umong,,male,,,,,,BN - PBB
+4,P043,Pulau Pinang,Jelutong,Tuan,Rasiah Rajasingam,,male,,,,,,BN - Gerakan
+4,P027,Kelantan,Ulu Kelantan,Tengku,Razaleigh Bin Tengku Mohd. Hamzah,,male,bumiputera,,,,,BN - UMNO
+4,P048,Perak,Sungai Siput,Tuan,S. Samy Vellu,,male,,,,,,BN - MIC
+4,P011,Kedah,Jerai,Tuan,Sanusi Bin Junid,,male,bumiputera,,,,,BN - UMNO
+4,P006,Kedah,Kuala Kedah,Datuk,Senu Bin Abdul Rahman,,male,bumiputera,,,,,BN - UMNO
+4,P001,Perlis,Kangar,Tuan,Shaari Bin Jusoh,,male,bumiputera,,,,,BN - UMNO
+4,P010,Kedah,Baling,Tuan Haji,Shafie Bin Abdullah,,male,bumiputera,,,,,BN - UMNO
+4,P044,Perak,Gerik,Tuan,Shamsuddin Bin Din,,male,bumiputera,,,,,BN - UMNO
+4,P040,Pulau Pinang,Balik Pulau,Tuan,Shamsuri Bin Md. Salleh,,male,bumiputera,,,,,BN - UMNO
+4,P150,Sarawak,Ulu Rajang,Tuan,Sibat Anak Tagong @ Sibut Miyut Anak Tagong,,male,bumiputera,,,,,SNAP
+4,P147,Sarawak,Julau,Tuan,Thomas Salang Siden,,male,,,,,,SNAP
+4,P083,Selangor,Sepang,Tuan Haji,Suhaimi Bin Datuk Haji Kamaruddin,,male,bumiputera,,,,,BN - UMNO
+4,P025,Kelantan,Pasir Puteh,Tuan,Wan Sulaiman Bin Haji Ibrahim,,male,bumiputera,,,,,BN - PAS
+4,P046,Perak,Parit Buntar,Tuan,Sulaiman Bin Haji Taib,,male,bumiputera,,,,,BN - UMNO
+4,P056,Perak,Beruas,Tuan,Su Liang Yu,,male,,,,,,BN - PPP
+4,P125,Sabah,Kimanis,,Pengiran Tahir Bin Pengiran Patera,,male,bumiputera,,,,,BN - USNO
+4,P084,Wilayah Persekutuan Kuala Lumpur,Kepong,Dr,Tan Chee Khoon,,,,,,,,Pekemas
+4,P038,Pulau Pinang,Bukit Mertajam,Tuan,Tan Cheng Bee,,male,,,,,,BN - MCA
+4,P151,Sarawak,Bintulu,Tuan,Ting Ling Kiew,,male,,,,,,SNAP
+4,P144,Sarawak,Bandar Sibu,Tuan,Wee Ho Soon,,male,,,,,,BN - SUPP
+4,P152,Sarawak,Miri,Tuan,Yang Siew Siang,,male,,,,,,BN - SUPP
+4,P135,Sarawak,Padawan,Datuk,Stephen Yong Kuet Tze,,,,,,,,BN - SUPP
+4,P009,Kedah,Ulu Muda,Tuan Haji,Yusof Rawa @ Haji Yusuf Bin Haji Abdullah,,male,bumiputera,,,,,BN - PAS
+4,P018,Kelantan,Pasir Mas,Tengku,Zaid Al Haj Bin Tengku Ahmad,,,,,,,,BN - PAS
+4,P013,Kedah,Sungai Petani,Puan,Wan Zainab Binti M.A. Bakar,,female,bumiputera,,,,,BN - UMNO
+4,P028,Terengganu,Besut,Tuan,Zakaria Bin Haji Abdul Rahman,,male,bumiputera,,,,,BN - UMNO
+4,P021,Kelantan,Rantau Panjang,Tuan Haji,Zakaria Bin Ismail,,male,bumiputera,,,,,BN - PAS
+4,P127,Sabah,Keningau,Tuan,Stephen Robert Evans,,male,,,,,,BN - USNO
+4,P101,Johor,Kluang,Tuan,Loh Fook Yen,,male,,,,,,BN - MCA
+4,P012,Kedah,Kuala Muda,Tuan Haji,Mohamed Khir Johari,,male,,,,,,BN - UMNO
+4,P026,Kelantan,Kuala Krai,Tuan,Mohd. Zahari Bin Awang,,male,bumiputera,,,,,BN - PAS
+4,P122,Sabah,Penampang,Tuan,James Stephen Tibok,,male,,,,,,BN - USNO
+5,,,,Tan Sri Dato',Syed Nasir Bin Ismail,,male,bumiputera,,,Yang Dipertua Dewan Rakyat,,
+5,P109,Johor,Sri Gading,Y.A.B. Dato',Hussein Onn,,,,,Perdana Menteri,,,BN - UMNO
+5,P004,Kedah,Kubang Pasu,Y.A.B. Dato' Seri Dr.,Mahathir Bin Mohamad,,male,bumiputera,,Timbalan Perdana Menteri,,,BN - UMNO
+5,P100,Johor,Segamat,Dato',Lee San Choon,,,,,,,,BN - MCA
+5,P079,Selangor,Pelabuhan Kelang,Tan Sri,V. Manickavasagam,,,,,,,,BN - MIC
+5,P072,Pahang,Temerloh,Dato' Seri Haji,Hamzah Bin Haji Abdul Samah,,male,bumiputera,,,,,BN - UMNO
+5,P132,Sarawak,Bandar Kuching,Tan Sri,Ong Kee Hui,,,,,,,,BN - SUPP
+5,P065,Pahang,Lipis,Tan Sri Haji,Muhammad Ghazali Bin Shafie,,male,bumiputera,,,,,BN - UMNO
+5,P102,Johor,Tenggaroh,Tan Sri Dato' Haji,Abdul Kadir Bin Yusof,,male,bumiputera,,,,,BN - UMNO
+5,P082,Selangor,Kuala Langat,Datin Paduka Hajah,Aishah Binti Haji Abdul Ghani,,female,bumiputera,,,,,BN - UMNO
+5,P134,Sarawak,Samarahan,Datuk Amar Haji,Abdul Taib Bin Mahmud,,male,bumiputera,,,,,BN - PBB
+5,P019,Kelantan,Kota Baru,YM Tengku Dato',Ahmad Rithauddeen Al Haj Bin Tengku Ismail,,,,,,,,BN - UMNO
+5,P075,Selangor,Ulu Selangor,Dato',Michael Chen Wing Sum,,,,,,,,BN - MCA > BN - Gerakan
+5,P099,Johor,Labis,Dato',Musa Bin Hitam,,male,bumiputera,,,,,BN - UMNO
+5,P027,Kelantan,Ulu Kelantan,YM Tengku Tan Sri,Razaleigh Hamzah,,,,,,,,BN - UMNO
+5,P089,Negeri Sembilan,Jelebu,Datuk,Abdul Samad Bin Idris,,male,bumiputera,,,,,BN - UMNO
+5,P097,Melaka,Batu Berendam,Tan Sri,Chong Hon Nyan,,,,,,,,BN - MCA
+5,P066,Pahang,Jerantut,Dato',Shariff Ahmad,,,,,,,,BN - UMNO
+5,P113,Johor,Pulai,Dato',Mohamed Bin Rahmat,,male,bumiputera,,,,,BN - UMNO
+5,P060,Perak,Lumut,Dato',Richard Ho Ung Hun,,,,,,,,BN - MCA
+5,P049,Perak,Taiping,Tuan,Paul Leong Khee Seong,,male,,,,,,BN - Gerakan
+5,P032,Terengganu,Kuala Terengganu,Tuan,Abdul Manan Bin Othman,,male,bumiputera,,,,,BN - UMNO
+5,P148,Sarawak,Kanowit,Tuan,Leo Moggie Anak Irok,,male,bumiputera,,,,,BN - SNAP
+5,P045,Perak,Larut,Dato' Sri Haji,Kamaruddin Bin Mohd. Isa,,male,bumiputera,,,,,BN - UMNO
+5,P070,Pahang,Bentong,Dato',Chan Siang Sun,,,,,,,,BN - MCA
+5,P094,Negeri Sembilan,Tampin,Dato',Mokhtar Bin Haji Hashim,,male,bumiputera,,,,,BN - UMNO
+5,P133,Sarawak,Santubong,Dr.,Sulaiman Bin Haji Daud,,male,bumiputera,,,,,BN - PBB
+5,P047,Perak,Bagan Serai,Dato' Haji,Ramli Bin Omar,,male,bumiputera,,,,,BN - UMNO
+5,P039,Pulau Pinang,Nibong Tebal,Dr.,Goh Cheng Teik,,,,,,,,BN - Gerakan
+5,P106,Johor,Muar,Dato' Dr.,Neo Yee Pan,,,,,,,,BN - MCA
+5,P067,Pahang,Kuantan,Tuan,Mohd. Ali Bin M. Shariff,,male,bumiputera,,,,,BN - UMNO
+5,P141,Sarawak,Saratok,Tuan,Edmund Langgu Anak Saga,,male,bumiputera,,,,,BN - SNAP
+5,P077,Selangor,Selayang,Puan,Rafidah Aziz,,female,,,,,,BN - UMNO
+5,P093,Negeri Sembilan,Teluk Kemang,Tuan,K. Pathmanaban,,male,,,,,,BN - MIC
+5,P080,Selangor,Shah Alam,Dato',Lew Sip Hon,,,,,,,,BN - MCA
+5,P146,Sarawak,Mukah,Tuan Haji,Salleh Jafaruddin,,male,,,,,,BN - PBB
+5,P036,Pulau Pinang,Mata Kuching,Dr.,Ling Liong Sik,,,,,,,,BN - MCA
+5,P028,Terengganu,Besut,Tuan Haji,Zakaria Bin Haji Abdul Rahman,,male,bumiputera,,,,,BN - UMNO
+5,P005,Kedah,Padang Terap,Dato' Seri,Syed Ahmad Al Haj Bin Syed Mahmud Shahabuddin,,,bumiputera,,,,,BN - UMNO
+5,P029,Terengganu,Ulu Nerus,Dato',Abdullah Bin Abdul Rahman,,male,bumiputera,,,,,BN - UMNO
+5,P003,Kedah,Jerlun Langkawi,Tuan,Sanusi Bin Junid,,male,bumiputera,,,,,BN - UMNO
+5,P048,Perak,Sungai Siput,Tuan,S. Samy Vellu,,male,,,,,,BN - MIC
+5,P063,Perak,Tanjung Malim,Tuan,Mak Hon Kam,,male,,,,,,BN - MCA
+5,P071,Pahang,Pekan,Dato',Mohd. Najib Bin Tun Haji Abdul Razak,,male,bumiputera,,,,,BN - UMNO
+5,P026,Kelantan,Kuala Krai,Dr.,Nik Hussein Bin Haji Wan Abdul Rahman,,male,bumiputera,,,,,BN - UMNO
+5,P122,Sabah,Penampang,Tuan,Clarence E. Mansul,,male,,,,,,BN - BERJAYA
+5,P131,Sarawak,Mas Gading,Tuan,Patrick Anek Uren,,male,,,,,,BN - SNAP
+5,P153,Sarawak,Baram,Tuan,Luhat Wan,,male,,,,,,BN - SNAP
+5,P145,Sarawak,Rajang,Tuan,Jawan Anak Empaling,,male,bumiputera,,,,,BN - SUPP
+5,P111,Johor,Batu Pahat,Dato',Abdul Jalal Bin Haji Abu Bakar,,male,bumiputera,,,,,BN - UMNO
+5,P103,Johor,Ledang,Dato',Embong Bin Yahya,,male,bumiputera,,,,,BN - UMNO
+5,P114,Johor,Johor Bahru,Tuan,Shahrir Bin Abdul Samad,,male,bumiputera,,,,,BN - UMNO
+5,P035,Pulau Pinang,Kepala Batas,Tuan,Abdullah Bin Haji Ahmad,,male,bumiputera,,,,,BN - UMNO
+5,P076,Selangor,Kuala Selangor,Tuan,Abu Hassan Bin Haji Omar,,male,bumiputera,,,,,BN - UMNO
+5,P046,Perak,Parit Buntar,Tuan,Idris Bin Abdul Rauf,,male,bumiputera,,,,,BN - UMNO
+5,P095,Melaka,Alor Gajah,Tuan,Abdul Rahim Bin Datuk Tamby Chik,,male,bumiputera,,,,,BN - UMNO
+5,P121,Sabah,Gaya,Tuan,William Lye Chee Hien,,male,,,,,,BN - BERJAYA
+5,P024,Kelantan,Machang,Tuan,Mohd. Kassim @ Yahya Bin Ahmad,,male,bumiputera,,,,,BN - UMNO
+5,P116,Sabah,Bandau,Tuan,Abah Bin Mengimbal @ George Abah,,male,bumiputera,,,,,BN - BERJAYA
+5,P096,Melaka,Jasin,Tuan,Abdul Ghafar Bin Baba,,male,bumiputera,,,,,BN - UMNO
+5,P124,Sabah,Kinabatangan,Tuan,Abdul Ghani Bin Misbah,,male,bumiputera,,,,,BN - BERJAYA
+5,P015,Kedah,Kulim,Tuan,Abdul Kadir Sheikh Fadzir,,male,bumiputera,,,,,BN - UMNO
+5,P018,Kelantan,Pasir Mas,Tuan,Abdul Rahman Bin Daud,,male,bumiputera,,,,,BN - UMNO
+5,P142,Sarawak,Paloh,Datuk Patinggi Tan Sri (Dr) Haji,Abdul Rahman Bin Ya'kub,,male,bumiputera,,,,,BN - PBB
+5,P074,Selangor,Tanjung Karang,Tuan,Abdul Shukur Bin Haji Siraj,,male,bumiputera,,,,,BN - UMNO
+5,P008,Kedah,Kota Setar,Datuk Haji,Abu Bakar Bin Umar,,male,bumiputera,,,,,PAS
+5,P030,Terengganu,Ulu Terengganu,Tuan,Alias Bin Md. Ali,,male,bumiputera,,,,,BN - UMNO
+5,P125,Sabah,Kimanis,Tuan,A. K. Aliuddin Bin Pengiran Haji Mohd. Tahir,,male,bumiputera,,,,,IND
+5,P118,Sabah,Labuk Sugut,Tuan Haji,Ampong Bin Puyon,,male,bumiputera,,,,,BN - USNO
+5,P115,Sabah,Marudu,Datuk,Ashkar Hasbollah,,,,,,,,BN - USNO
+5,P062,Perak,Teluk Anson,Tuan,Au How Cheong,,male,,,,,,BN - Gerakan
+5,P033,Terengganu,Dungun,Tuan,Awang Bin Jabar,,male,bumiputera,,,,,BN - UMNO
+5,P059,Perak,Batang Padang,Tuan,Azharul Abidin Bin Haji Abdul Rahim,,male,bumiputera,,,,,BN - UMNO
+5,P137,Sarawak,Simunjan,Tuan,Bujang Bin Haji Ulis,,male,bumiputera,,,,,BN - PBB
+5,P098,Melaka,Kota Melaka,Tuan,Chan Ah Kow @ Chan Teck Chan,,male,,,,,,DAP
+5,P088,Wilayah Persekutuan Kuala Lumpur,Sungai Besi,Tuan,Chan Kok Kit @ Chan Kit,,male,,,,,,DAP
+5,P091,Negeri Sembilan,Seremban,Dr.,Chen Man Hin,,,,,,,,DAP
+5,P058,Perak,Batu Gajah,Tuan,Chian Heng Kai,,male,,,,,,DAP
+5,P143,Sarawak,Sarikei,Tuan,Chieng Tiong Kai,,male,,,,,,BN - SUPP
+5,P107,Johor,Renggam,Tuan,Chin Hon Ngian,,male,,,,,,BN - MCA
+5,P078,Selangor,Ulu Langat,Tuan,Chow Poh Kheng,,male,,,,,,BN - MCA
+5,P041,Pulau Pinang,Bukit Bendera,Tuan,Peter Paul Dason,,male,,,,,,DAP
+5,P086,Wilayah Persekutuan Kuala Lumpur,Damansara,Tuan,V. David,,male,,,,,,DAP
+5,P136,Sarawak,Serian,Tuan,Richard Damping Anak Laki,,male,bumiputera,,,,,BN - SUPP
+5,P138,Sarawak,Batang Lupar,Tuan,Edwin Anak Tangkun,,male,bumiputera,,,,,BN - SNAP
+5,P127,Sabah,Keningau,Datuk,Stephen Robert Evans,,,,,,,,BN - BERJAYA
+5,P123,Sabah,Sandakan,Tuan,Fung Ket Wing,,male,,,,,,DAP
+5,P129,Sabah,Ulu Padas,Datuk,Harris Bin Mohd. Salleh,,male,bumiputera,,,,,BN - BERJAYA
+5,P009,Kedah,Ulu Muda,Tuan,Hashim Bin Endut,,male,bumiputera,,,,,BN - UMNO
+5,P050,Perak,Matang,Tuan,Hashim Bin Ghazali,,male,bumiputera,,,,,BN - UMNO
+5,P064,Perak,Bagan Datok,Tuan Haji,Hassan Adli Bin Haji Arshad,,male,bumiputera,,,,,BN - UMNO
+5,P105,Johor,Ayer Hitam,Dr.,Hee Tien Lai,,,,,,,,BN - MCA
+5,P130,Sabah,Tawau,Tuan,Hiew Nyuk Ying,,male,,,,,,BN - BERJAYA
+5,P069,Pahang,Maran,Tuan,Hishamuddin Bin Yahaya,,male,bumiputera,,,,,BN - UMNO
+5,P023,Kelantan,Tanah Merah,Tuan,Hussein Bin Mahmood,,male,bumiputera,,,,,BN - UMNO
+5,P021,Kelantan,Rantau Panjang,Tuan,Ibrahim Bin Muhammad,,male,bumiputera,,,,,BN - UMNO
+5,P112,Johor,Pontian,Tuan Haji,Ikhwan Bin Nasir,,male,bumiputera,,,,,BN - UMNO
+5,P011,Kedah,Jerai,Tuan,Ismail Bin Arshad,,male,bumiputera,,,,,BN - UMNO
+5,P034,Terengganu,Kemaman,Tuan,Ismail @ Mansor Bin Said,,male,bumiputera,,,,,BN - UMNO
+5,P073,Selangor,Sabak Bernam,Tuan,Jamaluddin Bin Suhaimi,,male,bumiputera,,,,,BN - UMNO
+5,P061,Perak,Hilir Perak,Tuan,Kamaluddin Bin Maamor,,male,bumiputera,,,,,BN - UMNO
+5,P043,Pulau Pinang,Jelutong,Tuan,Karpal Singh,,male,indian,,,,,DAP
+5,P120,Sabah,Kinabalu,Tuan,Mark Koding,,male,,,,,,IND
+5,P090,Negeri Sembilan,Mantin,Tuan,Lee Boon Peng,,male,,,,,,BN - MCA
+5,P101,Johor,Keluang,Tuan,Lee Kaw,,male,,,,,,DAP
+5,P087,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur Bandar,Tuan,Lee Lam Thye,,male,,,,,,DAP
+5,P140,Sarawak,Betong,Tuan,Liben Anak Kato,,male,bumiputera,,,,,BN - PBB
+5,P054,Perak,Ipoh,Tuan,Lim Cho Hock,,male,,,,,,DAP
+5,P014,Kedah,Padang Serai,Tuan,Lim Kiam Hoon @ Lim Ah Ying,,male,,,,,,BN - MCA
+5,P081,Selangor,Petaling,Tuan,Lim Kit Siang,,male,,,,,,DAP
+5,P149,Sarawak,Kapit,Tuan,Leonard Linggi Anak Jugah,,male,bumiputera,,,,,BN - PBB
+5,P092,Negeri Sembilan,Kuala Pilah,Datuk,Mansor bin Othman,,male,bumiputera,,,,,BN - UMNO
+5,P044,Perak,Gerik,Tuan,Mohamad Tajol Rosli bin Mohamed Ghazali,,male,bumiputera,,,,,BN - UMNO
+5,P022,Kelantan,Nilam Puri,Tuan Haji,Mohamed bin Haji Ali,,male,bumiputera,,,,,BN - UMNO
+5,P012,Kedah,Kuala Muda,Tuan,Mohamed Khir Johari,,male,,,,,,BN - UMNO
+5,P117,Sabah,Kota Belud,Tan Sri Datuk Haji,Mohmed Said Keruak,,male,,,,,,BN - USNO
+5,P126,Sabah,Hilir Padas,Tuan Haji,Mohammad Taufeck bin O.K.K. Haji Asneh,,male,bumiputera,,,,,BN - USNO
+5,P057,Perak,Parit,Tuan,Mohd. Bakri bin Abdul Rais,,male,bumiputera,,,,,BN - UMNO
+5,P085,Wilayah Persekutuan Kuala Lumpur,Setapak,Tuan Haji,Mohd. Idris bin Haji Ibrahim,,male,bumiputera,,,,,BN - UMNO
+5,P010,Kedah,Baling,Tuan,Mohd. Napi @ Nakhai bin Haji Ahmad,,male,bumiputera,,,,,PAS
+5,P020,Kelantan,Bachok,Tuan Haji,Mohd. Zain bin Abdullah,,male,bumiputera,,,,,PAS
+5,P104,Johor,Pagoh,Tuan,Muhiyuddin bin Haji Mohamed Yassin,,male,bumiputera,,,,,BN - UMNO
+5,P139,Sarawak,Lubok Antu,Tuan,Jonathan Narwin Anak Jinggong,,male,bumiputera,,,,,BN - SNAP
+5,P017,Kelantan,Pengkalan Chepa,Tuan Haji,Nik Abdul Aziz bin Nik Mat,,male,bumiputera,,,,,PAS
+5,P031,Terengganu,Kuala Nerus,Datuk,Nik Hassan bin Abdul Rahman,,male,bumiputera,,,,,BN - UMNO
+5,P119,Sabah,Tuaran,Datuk,James Peter Ongkili,,,,,,,,BN - BERJAYA
+5,P007,Kedah,Alor Setar,Tuan,Oo Gin Sun,,male,,,,,,BN - MCA
+5,P055,Perak,Menglembu,Tuan,P. Patto,,male,,,,,,DAP
+5,P154,Sarawak,Bukit Mas,Tuan,Racha Umong,,male,,,,,,BN - PBB
+5,P128,Sabah,Silam,Datuk Haji,Sakaran bin Dandai,,male,bumiputera,,,,,BN - USNO
+5,P006,Kedah,Kuala Kedah,Datuk,Senu bin Abdul Rahman,,male,bumiputera,,,,,BN - UMNO
+5,P038,Pulau Pinang,Bukit Mertajam,Tuan,Seow Hun Khim,,male,,,,,,DAP
+5,P001,Perlis,Kangar,Tuan,Shaari bin Jusoh,,male,bumiputera,,,,,BN - UMNO
+5,P040,Pulau Pinang,Balik Pulau,Tuan,Shamsuri bin Md. Salleh,,male,bumiputera,,,,,BN - UMNO
+5,P110,Johor,Semerah,Tuan,Shariffah Dorah binti Mohammed,,female,bumiputera,,,,,BN - UMNO
+5,P150,Sarawak,Ulu Rajang,Tuan,Sibat Miyut Anak Tagong,,male,bumiputera,,,,,BN - SNAP
+5,P147,Sarawak,Julau,Tuan,Thomas Salang Siden,,male,,,,,,BN - SNAP
+5,P083,Selangor,Sepang,Tuan Haji,Suhaimi bin Datuk Haji Kamaruddin,,male,bumiputera,,,,,BN - UMNO
+5,P002,Perlis,Arau,Tuan,Syed Hassan bin Syed Mohamed,,male,bumiputera,,,,,BN - UMNO
+5,P152,Sarawak,Lambir,Tuan,Raymond Szetu Mei Thong,,male,,,,,,SAPO
+5,P068,Pahang,Raub,Dr.,Tan Koon Swan,,,,,,,,BN - MCA
+5,P084,Wilayah Persekutuan Kuala Lumpur,Kepong,Dato' Dr.,Tan Tiong Hong,,,,,,,,BN - Gerakan
+5,P016,Kelantan,Tumpat,YM Tengku,Nor Asiah binti Tengku Ahmad,,female,bumiputera,,,,,BN - UMNO
+5,P056,Perak,Bruas,Tuan,Ting Chek Moy,,male,,,,,,DAP
+5,P151,Sarawak,Bintulu,Tuan,Ting Ling Kiew,,male,,,,,,BN - SNAP
+5,P051,Perak,Padang Rengas,Tuan,Umar bin Haji Ismail,,male,bumiputera,,,,,BN - UMNO
+5,P025,Kelantan,Pasir Puteh,Tuan,Wan Mohd. Najib bin Wan Mohamad,,male,bumiputera,,,,,BN - UMNO
+5,P013,Kedah,Sungai Petani,Puan,Wan Zainab binti M.A. Bakar,,female,bumiputera,,,,,BN - UMNO
+5,P042,Pulau Pinang,Tanjong,Tuan,Wong Hoong Keat,,male,,,,,,DAP
+5,P144,Sarawak,Sibu,Dr.,Wong Soon Kai,,,,,,,,BN - SUPP
+5,P053,Perak,Kinta,Tuan,Yang Choong Fu,,male,,,,,,BN - MCA
+5,P052,Perak,Kuala Kangsar,Puan,"Yong Fatimah binti Mohd. Razali, A.M.N., P.J.K.",,female,bumiputera,,,,,BN - UMNO
+5,P135,Sarawak,Padawan,Datuk,"Stephen Yong Kuet Tze, P.N.B.S",,,,,,,,BN - SUPP
+5,P108,Johor,Panti,Tuan,Yusof bin Malim Kuning @ Abdul Rahman bin Mohd. Jani,,male,bumiputera,,,,,BN - UMNO
+5,P037,Pulau Pinang,Permatang Pauh,Tuan Haji,Zabidi bin Haji Ali,,male,bumiputera,,,,,PAS
+6,,,,Dato,Mohamed Zahir Bin Haji Ismail,,male,bumiputera,,,Yang Dipertua Dewan Rakyat,,
+6,P004,Kedah,Kubang Pasu,Y.A.B. Dato' Seri Dr,Mahathir Bin Mohamad.,,male,bumiputera,,Perdana Menteri,,,BN - UMNO
+6,P108,Johor,Panti,Y.A.B. Dato,Musa Hitam,,,,,Timbalan Perdana Menteri,,,BN - UMNO
+6,P091,Negeri Sembilan,Seremban,Dato',Lee San Choon,,,,,,,,BN - MCA
+6,P065,Pahang,Lipis,Tan Sri Haji,Muhammad Ghazali Bin Shafie,,male,bumiputera,,,,,BN - UMNO
+6,P082,Selangor,Kuala Langat,Datin Paduka Hajjah,Aishah Binti Haji Abdul Ghani,,female,bumiputera,,,,,BN - UMNO
+6,P019,Kelantan,Kota Baru,Tengku Dato',Ahmad Rithauddeen Al Haj Bin Tengku Ismail,,,,,,,,BN - UMNO
+6,P027,Kelantan,Ulu Kelantan,Tengku Tan Sri,Razaleigh Hamzah,,,,,,,,BN - UMNO
+6,P097,Melaka,Batu Berendam,Tan Sri,Chong Hon Nyan,,,,,,,,BN - MCA
+6,P049,Perak,Taiping,Dato',Paul Leong Khee Seong,,,,,,,,BN - Gerakan
+6,P032,Terengganu,Kuala Terengganu,Dato',Abdul Manan Bin Othman,,male,bumiputera,,,,,BN - UMNO
+6,P148,Sarawak,Kanowit,Dato',Leo Moggie Anak Irok,,,bumiputera,,,,,BN - SNAP
+6,P106,Johor,Muar,Dato' Dr,Neo Yee Pan,,,,,,,,BN - MCA
+6,P048,Perak,Sungei Siput,Dato',S. Samy Vellu,,,,,,,,BN - MIC
+6,P094,Negeri Sembilan,Tampin,Dato',Mokhtar Bin Haji Hashim,,male,bumiputera,,,,,BN - UMNO
+6,P052,Perak,Kuala Kangsar,Datin Paduka,Rafidah Aziz,,female,,,,,,BN - UMNO
+6,P133,Sarawak,Santubong,Datuk Dr,Sulaiman Bin Haji Daud,,male,bumiputera,,,,,BN - PBB
+6,P125,Sabah,Kimanis,Datuk,Pengiran Othman Bin Haji Pengiran Rauf,,male,bumiputera,,,,,BN - BERJAYA
+6,P003,Kedah,Jerlun,Dato',Sanusi Bin Junid,,male,bumiputera,,,,,BN - UMNO
+6,P035,Pulau Pinang,Kepala Batas,Dato',Abdullah Bin Haji Ahmad Badawi,,male,bumiputera,,,,,BN - UMNO
+6,P089,Negeri Sembilan,Jelebu,Dato',Rais Yatim,,,,,,,,BN - UMNO
+6,P063,Perak,Tanjong Malim,Dato',Mak Hon Kam,,,,,,,,BN - MCA
+6,P095,Melaka,Alor Gajah,Tuan,Mohd. Adib Bin Haji Mohd. Adam,,male,bumiputera,,,,,BN - UMNO
+6,P135,Sarawak,Padawan,Datuk Amar,Stephen Yong Kuet Tze,,,,,,,,BN - SUPP
+6,,,Ayer Hitam ,Dato' Dr.,Hee Tien Lai,,,,,,Timbalan Yang Di Pertua,,
+6,P070,Pahang,Bentong,Dato',Chan Siang Sun,,,,,,,,BN - MCA
+6,P039,Pulau Pinang,Nibong Tebal,Dr,Goh Cheng Teik,,,,,,,,BN - Gerakan
+6,P093,Negeri Sembilan,Telok Kemang,Dato',K. Pathmanaban,,,,,,,,BN - MIC
+6,P080,Selangor,Shah Alam,Dato',Lew Sip Hon,,,,,,,,BN - MCA
+6,P036,Pulau Pinang,Mata Kuching,Dr,Ling Liong Sik,,,,,,,,BN - MCA
+6,P028,Terengganu,Besut,Dato' Haji,Zakaria Bin Haji Abdul Rahman,,male,bumiputera,,,,,BN - UMNO
+6,P026,Kelantan,Kuala Krai,Dato' Dr,Nik Hussain Bin Abdul Rahman,,male,bumiputera,,,,,BN - UMNO
+6,P122,Sabah,Penampang,Datuk,Clarence E. Mansul,,,,,,,,BN - BERJAYA
+6,P107,Johor,Renggam,Dato',Chin Hon Ngian,,,,,,,,BN - MCA
+6,P114,Johor,Johor Bahru,Dato',Shahrir Bin Abdul Samad,,male,bumiputera,,,,,BN - UMNO
+6,P076,Selangor,Kuala Selangor,Dato',Abu Hassan Bin Haji Omar,,male,bumiputera,,,,,BN - UMNO
+6,P121,Sabah,Gaya,Tuan,William Lye Chee Hien,,male,,,,,,BN - BERJAYA
+6,P083,Selangor,Sepang,Dato' Haji,Mohamed Suhaimi Bin Dato' Haji Kamaruddin,,male,bumiputera,,,,,BN - UMNO
+6,P137,Sarawak,Simunjan,Tuan,Bujang Bin Haji Ulis,,male,bumiputera,,,,,BN - PBB
+6,P142,Sarawak,Paloh,,Abang Abu Bakar Bin Datu Bandar Abang Haji Mustapha,,male,bumiputera,,,,,BN - PBB
+6,P153,Sarawak,Baram,Tuan,Luhat Wan,,male,,,,,,BN - SNAP
+6,P024,Kelantan,Machang,Tuan,Mohd. Kassim Bin Ahmed,,male,bumiputera,,,,,BN - UMNO
+6,P078,Selangor,Ulu Langat,Datin Paduka,Chow Poh Khen Alias Rosemary Chong,,female,,,,,,BN - MCA
+6,P110,Johor,Semerah,Puan,Shariffah Dora Binti Syed Mohamed,,female,bumiputera,,,,,BN - UMNO
+6,P104,Johor,Pagoh,Tuan,Muhyiddin Bin Haji Mohd. Yassin,,male,bumiputera,,,,,BN - UMNO
+6,P100,Johor,Segamat,Tuan,S. Subramaniam,,male,,,,,,BN - MIC
+6,P068,Pahang,Raub,Dr,Tan Tiong Hong,,,,,,,,BN - MCA
+6,P077,Selangor,Selayang,Puan,Rahmah Binti Othman,,female,bumiputera,,,,,BN - UMNO
+6,P069,Pahang,Maran,Dato',Mohamed Khalil Yaakob,,,,,,,,BN - UMNO
+6,P072,Pahang,Temerloh,Tuan,Sabbaruddin Chik,,male,,,,,,BN - UMNO
+6,P092,Negeri Sembilan,Kuala Pilah,Puan,Napsiah Binti Omar,,female,bumiputera,,,,,BN - UMNO
+6,P037,Pulau Pinang,Permatang Pauh,Tuan,Anwar Bin Haji Ibrahim,,male,bumiputera,,,,,BN - UMNO
+6,P143,Sarawak,Sarikei,Tuan,Law Hieng Ding,,male,,,,,,BN - SUPP
+6,P145,Sarawak,Rajang,Tuan,Jawan Anak Empaling,,male,bumiputera,,,,,BN - SUPP
+6,P023,Kelantan,Tanah Merah,Tuan,Hussien Bin Mahmud,,male,bumiputera,,,,,BN - UMNO
+6,P090,Negeri Sembilan,Mantin,Dato',Lee Boon Peng,,,,,,,,BN - MCA
+6,P062,Perak,Telok Anson,Tuan,Au How Cheong,,male,,,,,,BN - Gerakan
+6,P151,Sarawak,Bintulu,Tuan,Ting Ling Kiew,,male,,,,,,BN - SNAP
+6,P015,Kedah,Kulim Bandar Bahru,Tuan,Abdul Kadir Bin Haji Sheikh Fadzir,,male,bumiputera,,,,,BN - UMNO
+6,P047,Perak,Bagan Serai,Tuan,Zainal Abidin Bin Zin,,male,bumiputera,,,,,BN - UMNO
+6,P001,Perlis,Kangar,Tuan,Radzi Bin Sheikh Ahmad,,male,bumiputera,,,,,BN - UMNO
+6,P096,Melaka,Jasin,Tuan,Abdul Ghafar Bin Baba,,male,bumiputera,,,,,BN - UMNO
+6,P124,Sabah,Kinabatangan,Tuan,Abdul Ghani Bin Misbah,,male,bumiputera,,,,,BN - BERJAYA
+6,P002,Perlis,Arau,Dr,Abdul Hamid Bin Pawanteh,,male,bumiputera,,,,,BN - UMNO
+6,P067,Pahang,Kuantan,Tuan Haji,Abdul Rahim Bin Abu Bakar,,male,bumiputera,,,,,BN - UMNO
+6,P046,Perak,Parit Buntar,Tuan,Abdul Rahman Bin Sulaiman,,male,bumiputera,,,,,BN - UMNO
+6,P134,Sarawak,Samarahan,Tuan Datuk Patinggi Haji,Abdul Taib Bin Mahmud,,male,bumiputera,,,,,BN - PBB
+6,P128,Sabah,Silam,Tuan,Abdillah Bin Haji Abdul Hamid,,male,bumiputera,,,,,IND
+6,P008,Kedah,Kota Setar,Dato Haji,Abu Bakar Bin Umar,,male,bumiputera,,,,,PAS
+6,P115,Sabah,Marudu,Tuan Haji,Affendy Bin Tun Haji Mohd. Fuad Stephens,,male,bumiputera,,,,,IND
+6,P057,Perak,Parit,Tuan,Ahmed Hambal Bin Yeop Majlis,,male,bumiputera,,,,,BN - UMNO
+6,P140,Sarawak,Betong,Datuk,Alfred Jabu Anak Numpang,,,bumiputera,,,,,BN - PBB
+6,P030,Terengganu,Ulu Terengganu,Tuan,Alias Bin Md. Ali,,male,bumiputera,,,,,BN - UMNO
+6,P139,Sarawak,Lubok Antu,Tuan,Andrew Janggi Muyang,,male,,,,,,BN - SNAP
+6,P033,Terengganu,Dungun,Tuan,Awang Bin Jabar,,male,bumiputera,,,,,BN - UMNO
+6,P059,Perak,Batang Padang,Tuan,Azharul Abidin Bin Haji Abdul Rahman,,male,bumiputera,,,,,BN - UMNO
+6,P099,Johor,Labis,Tuan,Bahari Bin Haron,,male,bumiputera,,,,,BN - UMNO
+6,P058,Perak,Batu Gajah,Tuan,Ban Hon Keong,,male,,,,,,BN - MCA
+6,P152,Sarawak,Lambir,Dr,George Chan Hong Nam,,,,,,,,BN - SUPP
+6,P088,Wilayah Persekutuan Kuala Lumpur,Sungai Besi,Tuan,Chan Kok Kit,,male,,,,,,DAP
+6,P012,Kedah,Kuala Muda,Tuan,Daim Bin Haji Zainuddin,,male,bumiputera,,,,,BN - UMNO
+6,P056,Perak,Beruas,Dato,Michael Chen Wing Sum,,,,,,,,BN - Gerakan
+6,P054,Perak,Ipoh,Tuan,Peter Chin Gan Oon,,male,,,,,,BN - MCA
+6,P111,Johor,Batu Pahat,Tuan,Daud Bin Haji Taha,,male,bumiputera,,,,,BN - UMNO
+6,P016,Kelantan,Tumpat,Tuan,Dusuki Bin Haji Ahmad,,male,bumiputera,,,,,BN - UMNO
+6,P141,Sarawak,Saratok,Tuan,Edmund Langgu Anak Saga,,male,bumiputera,,,,,IND
+6,P138,Sarawak,Batang Lupar,Datuk,Edwin Anak Tangkun,,,bumiputera,,,,,IND
+6,P123,Sabah,Sandakan,Tuan,Tung Fung Ket Wing,,male,,,,,,DAP
+6,P116,Sabah,Bandau,Tuan,Newman Gaban,,male,,,,,,BN - BERJAYA
+6,P041,Pulau Pinang,Bukit Bendera,Tuan,Gooi Hock Seng,,male,,,,,,DAP
+6,P079,Selangor,Pelabuhan Kelang,Tuan,V. Govindaraj,,male,,,,,,BN - MIC
+6,P129,Sabah,Ulu Padas,Datuk,Harris Bin Mohd. Salleh,,male,bumiputera,,,,,BN - BERJAYA
+6,P009,Kedah,Ulu Muda,Tuan Haji,Hashim Bin Haji Endut,,male,bumiputera,,,,,BN - UMNO
+6,P118,Sabah,Labuk Sugut,Tuan,Hassan Alban Bin Haji Sandukong,,male,bumiputera,,,,,IND
+6,P021,Kelantan,Rantau Panjang,Tuan,Hassan Bin Haji Mohamed,,male,bumiputera,,,,,PAS
+6,P031,Terengganu,Kuala Nerus,Tuan,Ibrahim Azmi Bin Hassan,,male,bumiputera,,,,,BN - UMNO
+6,P011,Kedah,Jerai,Tuan,Ismail Bin Arshad,,male,bumiputera,,,,,BN - UMNO
+6,P034,Terengganu,Kemaman,Tuan,Ismail Bin Said,,male,bumiputera,,,,,BN - UMNO
+6,P073,Selangor,Sabak Bernam,Dato,Jamaluddin Bin Haji Suhaimi,,male,bumiputera,,,,,BN - UMNO
+6,P150,Sarawak,Ulu Rajang,Tuan,Justine Anak Jinggot,,male,bumiputera,,,,,BN - SNAP
+6,P045,Perak,Larut,Dato' Sri Haji,Kamaruddin Bin Haji Mohd. Isa,,male,bumiputera,,,,,BN - UMNO
+6,P130,Sabah,Tawau,Tuan,Kan Yau Fa,,male,,,,,,BN - BERJAYA
+6,P043,Pulau Pinang,Jelutong,Tuan,Karpal Singh,,male,indian,,,,,DAP
+6,P102,Johor,Tenggaroh,Tuan,Khadri Bin Sabran,,male,bumiputera,,,,,BN - UMNO
+6,P120,Sabah,Kinabalu,Tuan,Mark Koding,,male,,,,,,BN - BERJAYA
+6,P042,Pulau Pinang,Tanjong,Dr,Koh Tsu Koon,,,,,,,,BN - Gerakan
+6,P075,Selangor,Ulu Selangor,Dato,Lee Kim Sai,,,,,,,,BN - MCA
+6,P087,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur Bandar,Tuan,Lee Lam Thye,,male,,,,,,DAP
+6,P146,Sarawak,Mukah,Tuan,Leo Michael Toyad,,male,,,,,,BN - PBB
+6,P149,Sarawak,Kapit,Datuk,Leonard Linggi Anak Jugah,,,bumiputera,,,,,BN - PBB
+6,P098,Melaka,Kota Melaka,Tuan,Lim Kit Siang,,male,,,,,,DAP
+6,P053,Perak,Kinta,Tuan,Lim Liang Seng,,male,,,,,,BN - MCA
+6,P144,Sarawak,Sibu,Tuan,Ling Sie Ming,,male,,,,,,DAP
+6,P029,Terengganu,Ulu Nerus,Tuan,Mamat Bin Abdul Rahman,,male,bumiputera,,,,,BN - UMNO
+6,P061,Perak,Hilir Perak,Tuan,Megat Junid Bin Megat Aob,,male,bumiputera,,,,,BN - UMNO
+6,P127,Sabah,Keningau,Tuan,Ahmad Shah Bin Dato' Hussein Tambakau,,male,bumiputera,,,,,BN - BERJAYA
+6,P050,Perak,Matang,Tuan,Mohamad Razlan Bin Haji Abdul Hamid,,male,bumiputera,,,,,BN - UMNO
+6,P044,Perak,Gerik,Tuan,Mohamed Tajol Rosli Bin Mohamed Ghazali,,male,bumiputera,,,,,BN - UMNO
+6,P022,Kelantan,Nilam Puri,Tuan Haji,Mohamed Bin Haji Ali,,male,bumiputera,,,,,BN - UMNO
+6,P113,Johor,Pulai,Dato',Mohamed Bin Rahmat,,male,bumiputera,,,,,BN - UMNO
+6,P071,Pahang,Pekan,Tuan,Mohamed Amin Bin Haji Daud,,male,bumiputera,,,,,BN - UMNO
+6,P006,Kedah,Kuala Kedah,Tuan Dato Haji,Mohammad Abu Bakar Bin Rautin Ibrahim,,male,bumiputera,,,,,BN - UMNO
+6,P085,Wilayah Persekutuan Kuala Lumpur,Setapak,Tuan,Mohammad Idris Bin Mohammad Basari,,male,bumiputera,,,,,BN - UMNO
+6,P117,Sabah,Kota Belud,Tuan,Mohammad Yahya Bin Lampong,,male,bumiputera,,,,,IND
+6,P126,Sabah,Hilir Padas,Tuan,Mohammed Yussof Bin Haji Yakob,,male,bumiputera,,,,,IND
+6,P020,Kelantan,Bachok,Tuan Haji,Mohd. Zain Bin Abdullah,,male,bumiputera,,,,,PAS
+6,P112,Johor,Pontian,Tuan,Mokhtaram Bin Rabidin,,male,bumiputera,,,,,BN - UMNO
+6,P154,Sarawak,Bukit Mas,Tuan,Mutang Tagal,,male,,,,,,BN - PBB
+6,P109,Johor,Sri Gading,Tuan,Mustaffa Bin Mohammad,,male,bumiputera,,,,,BN - UMNO
+6,P060,Perak,Lumut,Tuan,Ng Cheng Kuai,,male,,,,,,BN - MCA
+6,P103,Johor,Ledang,Dato,Ngah Bin A. Rahman,,male,bumiputera,,,,,BN - UMNO
+6,P017,Kelantan,Pengkalan Chepa,Tuan Haji,Nik Abdul Aziz Bin Nik Mat,,male,bumiputera,,,,,PAS
+6,P119,Sabah,Tuaran,Datuk,James Peter Ongkili,,,,,,,,BN - BERJAYA
+6,P007,Kedah,Alor Setar,Tuan,Oo Gin Sun,,male,,,,,,BN - MCA
+6,P131,Sarawak,Mas Gading,Tuan,Patrick Anek Uren,,male,,,,,,IND
+6,P101,Johor,Kluang,Tuan,Quah Wee Liam,,male,,,,,,BN - MCA
+6,P136,Sarawak,Serian,Tuan,Richard Damping Anak Laki,,male,bumiputera,,,,,BN - SUPP
+6,P051,Perak,Padang Rengas,Tuan,Saidin Bin Mat Piah,,male,bumiputera,,,,,BN - UMNO
+6,P038,Pulau Pinang,Bukit Mertajam,Tuan,Seow Hun Khim,,male,,,,,,BN - MCA
+6,P010,Kedah,Baling,Tuan Haji,Seroji Bin Haji Haron,,male,bumiputera,,,,,BN - UMNO
+6,P040,Pulau Pinang,Balik Pulau,Tuan,Shamsuri Bin Md. Salleh,,male,bumiputera,,,,,BN - UMNO
+6,P132,Sarawak,Bandar Kuching,Tuan,Sim Kwang Yang,,male,,,,,,DAP
+6,P005,Kedah,Padang Terap,Tan Sri Dato,Syed Ahmad Shahabuddin Al Haj,,,bumiputera,,,,,BN - UMNO
+6,P086,Wilayah Persekutuan Kuala Lumpur,Damansara,,Tan Koon Swan,,male,chinese,,,,,BN - MCA
+6,P014,Kedah,Padang Serai,,Tan Kok Hooi,,,chinese,,,,,BN - MCA
+6,P084,Wilayah Persekutuan Kuala Lumpur,Kepong,Dr,Tan Seng Giaw,,,,,,,,DAP
+6,P147,Sarawak,Julau,Tuan,Thomas Salang Siden,,male,,,,,,BN - SNAP
+6,P066,Pahang,Jerantut,Tuan,Wan Abu Bakar Bin Wan Mohamad,,male,bumiputera,,,,,BN - UMNO
+6,P018,Kelantan,Pasir Mas,Tuan,Wan Ibrahim Bin Wan Abdullah,,male,bumiputera,,,,,PAS
+6,P025,Kelantan,Pasir Puteh,Tuan,Wan Mohd. Najib Bin Wan Mohamed,,male,bumiputera,,,,,BN - UMNO
+6,P013,Kedah,Sungai Petani,Tuan,Wan Zainab Binti M. A. Bakar,,female,bumiputera,,,,,BN - UMNO
+6,P064,Perak,Bagan Datok,Tuan,Yahya Bin Haji Zakaria,,male,bumiputera,,,,,BN - UMNO
+6,P081,Selangor,Petaling,Tuan,Yeoh Poh San,,male,,,,,,BN - MCA
+6,P055,Perak,Menglembu,Tuan,Yew Foo Weng,,male,,,,,,BN - MCA
+6,P074,Selangor,Tanjong Karang,Datin Paduka,Zaleha Binti Ismail,,female,bumiputera,,,,,BN - UMNO
+7,,,,Tan Sri Dato',Mohamed Zahir Bin Haji Ismail,,male,bumiputera,,,Yang Dipertua Dewan Rakyat,,
+7,P004,Kedah,Kubang Pasu,Y.A.B. Dato' Seri Dr.,Mahathir Bin Mohamad,,male,bumiputera,,Perdana Menteri,,,BN - UMNO
+7,P114,Melaka,Jasin,Y.A.B.,Abdul Ghafar Bin Baba,,male,bumiputera,,Timbalan Perdana Menteri,,,BN - UMNO
+7,P118,Johor,Labis,Dato Dr.,Ling Liong Sik,,,,,,,,BN - MCA
+7,P056,Perak,Sungei Siput,Dato',S. Samy Vellu,,,,,,,,BN - MIC
+7,P062,Perak,Beruas,Dato' Dr.,Lim Keng Yaik,,,,,,,,BN - Gerakan
+7,P019,Kelantan,Kota Baru,Tengku Dato',Ahmad Rithauddeen Al Haj Bin Tengku Ismail,,,,,,,,BN - UMNO
+7,P029,Kelantan,Gua Musang,Tengku Tan Sri,Razaleigh Hamzah,,,,,,,,BN - UMNO
+7,P171,Sarawak,Kanowit,Datuk,Leo Moggie Anak Irok,,,bumiputera,,,,,BN - PBDS
+7,P061,Perak,Kuala Kangsar,Datin Paduka,Rafidah Aziz,,female,,,,,,BN - UMNO
+7,P156,Sarawak,Santubong,Dato' Dr.,Sulaiman Bin Haji Daud,,male,bumiputera,,,,,BN - PBB
+7,P003,Kedah,Jerlun Langkawi,Datuk Seri,Sanusi Bin Junid,,male,bumiputera,,,,,BN - UMNO
+7,P038,Pulau Pinang,Kepala Batas,Datuk,Abdullah Bin Haji Ahmad Badawi,,male,bumiputera,,,,,BN - UMNO
+7,P103,Negeri Sembilan,Jelebu,Dato',Rais Yatim,,,,,,,,BN - UMNO
+7,P158,Sarawak,Padawan,Datuk Amar,Stephen Yong Kuet Tze,,,,,,,,BN - SUPP
+7,P130,Johor,Johor Bahru,Dato,Shahrir Bin Abdul Samad,,male,bumiputera,,,,,BN - UMNO > BEBAS
+7,P041,Pulau Pinang,Permatang Pauh,Tuan,Anwar Bin Ibrahim,,male,bumiputera,,,,,BN - UMNO
+7,P085,Selangor,Kuala Selangor,Dato',Abu Hassan Bin Haji Omar,,male,bumiputera,,,,,BN - UMNO
+7,P011,Kedah,Merbok,Tuan,Daim Zainuddin,,male,,,,,,BN - UMNO
+7,P079,Pahang,Bentong,Dato',Chan Siang Sun,,,,,,,,BN - MCA
+7,P089,Selangor,Hulu Langat,Dato',Lee Kim Sai,,,,,,,,BN - MCA
+7,P076,Pahang,Pekan,Dato' Seri Haji,Mohd. Najib Bin Tun Haji Abdul Razak,,male,bumiputera,,,,,BN - UMNO
+7,P119,Johor,Mersing,Dato',Abdul Ajib Bin Ahmad,,male,bumiputera,,,,,BN - UMNO
+7,P138,Sabah,Kinabalu,Tuan,Kasitah Gaddam,,male,,,,,,BN - USNO
+7,P109,Negeri Sembilan,Telok Kemang,Dato',K.Pathmanaban,,,,,,,,BN - MIC
+7,P160,Sarawak,Simunjan,Tuan Haji,Bujang Bin Haji Ulis,,male,bumiputera,,,,,BN - PERMAS
+7,P165,Sarawak,Paloh,Dato',Abang Abu Bakar Bin Datu Bandar Abang Haji Mustapha,,male,bumiputera,,,,,BN - PBB
+7,P176,Sarawak,Baram,Tuan,Luhat Wan,,male,,,,,,BN - SNAP
+7,P027,Kelantan,Machang,Tuan,Mohd. Kassim Bin Ahmed,,male,bumiputera,,,,,BN - UMNO
+7,P115,Johor,Segamat,Dato',S. Subramaniam,,,,,,,,BN - MIC
+7,P092,Selangor,Shah Alam,Puan Hajjah,Rahmah Binti Othman,,female,bumiputera,,,,,BN - UMNO
+7,P080,Pahang,Temerloh,Dato' Haji,Sabbaruddin Chik,,male,,,,,,BN - UMNO
+7,P106,Negeri Sembilan,Kuala Pilah,Puan,Napsiah Binti Omar,,female,bumiputera,,,,,BN - UMNO
+7,P016,Kedah,Kulim,Dato',Abdul Kadir Bin Haji Sheikh Fadzir,,male,bumiputera,,,,,BN - UMNO
+7,P001,Perlis,Kangar,Dato',Radzi Bin Sheikh Ahmad,,male,bumiputera,,,,,BN - UMNO
+7,P007,Kedah,Alor Setar,Dato',Oo Gin Sun,,,,,,,,BN - MCA
+7,P052,Perak,Bagan Serai,Dato',Zainal Abidin Bin Zin,,male,bumiputera,,,,,BN - UMNO
+7,P067,Perak,Pasir Salak,Dato',Megat Junid Bin Megat Ayob,,male,bumiputera,,,,,BN - UMNO
+7,P031,Terengganu,Setiu,Dato' Dr,Mohamed Yusof Bin Haji Mohamed Noor,,male,bumiputera,,,,,BN - UMNO
+7,P125,Johor,Batu Pahat,Tuan Haji,Daud Bin Dato' Haji Taha,,male,bumiputera,,,,,BN - UMNO
+7,P093,Selangor,Klang,Tuan,Ng Cheng Kiat,,male,,,,,,BN - MCA
+7,P068,Perak,Lumut,Tuan,Ng Cheng Kuai,,male,,,,,,BN - MCA
+7,P049,Perak,Gerik,Dato',Mohd. Tajol Rosli Bin Mohd. Ghazali,,male,bumiputera,,,,,BN - UMNO
+7,P124,Johor,Sri Gading,Tuan,Mustaffa Bin Mohammad,,male,bumiputera,,,,,BN - UMNO
+7,P097,Wilayah Persekutuan Kuala Lumpur,Batu,Dato',Alexander Yu Lung Lee,,,,,,,,BN - Gerakan
+7,P074,Pahang,Jerantut,Tuan,Wan Abu Bakar Bin Wan Mohamed,,male,bumiputera,,,,,BN - UMNO
+7,P072,Pahang,Lipis,Tuan,Wang Choon Wing,,male,,,,,,BN - MCA
+7,P078,Pahang,Mentakab,Dr.,Siti Zahara Binti Haji Sulaiman,,female,bumiputera,,,,,BN - UMNO
+7,P111,Melaka,Selandar,Dato,Kok Wee Kiat,,,,,,,,BN - MCA
+7,P127,Johor,Senai,Tuan,Woon See Chin,,male,,,,,,BN - MCA
+7,P137,Sabah,Tuaran,Tuan,Kalakau Untol,,male,,,,,,BN - USNO
+7,P166,Sarawak,Sarikei,Tuan,Law Heng Ding,,male,,,,,,BN - SUPP
+7,P036,Terengganu,Dungun,Tuan Haji,Awang Bin Jabar,,male,bumiputera,,,,,BN - UMNO
+7,P017,Kelantan,Tumpat,Dato' Haji,Dusuki Bin Haji Ahmad,,male,bumiputera,,,,,BN - UMNO
+7,P087,Selangor,Selayang,Datin Paduka Hajjah,Zaleha Binti Ismail,,female,bumiputera,,,,,BN - UMNO
+7,P035,Terengganu,Hulu Terengganu,Tuan,Alias Bin Md. Ali,,male,bumiputera,,,,,BN - UMNO
+7,P073,Pahang,Raub,Puan,Teng Gaik Kwan,,female,,,,,,BN - MCA
+7,P013,Kedah,Baling,,Raja Ariffin Bin Raja Sulaiman,,male,bumiputera,,,,,BN - UMNO
+7,P175,Sarawak,Lambir,Tuan,Peter Chin Fah Kui,,male,,,,,,BN - SUPP
+7,P070,Perak,Telok Intan,Tuan,Ong Tin Kim,,male,,,,,,BN - Gerakan
+7,P133,Wilayah Persekutuan Labuan,Labuan,Tuan,Abdol Mulok @ Molle,,male,,,,,,IND
+7,P116,Johor,Ledang,Tuan,Abdul Ghani Bin Othman,,male,bumiputera,,,,,BN - UMNO
+7,P006,Kedah,Kota Setar,Dr.,Abdul Hadi Bin Derani,,male,bumiputera,,,,,BN - UMNO
+7,P148,Sabah,Limbawang,Datu,Abdul Hamid Bin Tun Datu Haji Mustapha,,male,bumiputera,,,,,BN - USNO
+7,P014,Kedah,Sungai Petani,Tuan Haji,Abdul Manaf Bin Haji Ahmad,,male,bumiputera,,,,,BN - UMNO
+7,P034,Terengganu,Marang,Tuan Haji,Abdul Rahman Bin Bakar,,male,bumiputera,,,,,BN - UMNO
+7,P051,Perak,Parit Buntar,Tuan,Abdul Rahman Bin Suliman,,male,bumiputera,,,,,BN - UMNO
+7,P100,Wilayah Persekutuan Kuala Lumpur,Lembah Pantai,Tuan Haji,Abdul Razak Bin Abu Samah,,male,bumiputera,,,,,BN - UMNO
+7,P157,Sarawak,Samarahan,Datuk Patinggi Haji,Abdul Taib Mahmud,,male,bumiputera,,,,,BN - PBB
+7,P025,Kelantan,Kok Lanas,Dato',Abdullah Ahmad,,,,,,,,BN - UMNO
+7,P018,Kelantan,Pengkalan Chepa,Tuan Haji,Abdullah Bin Haji Arshad,,male,bumiputera,,,,,PAS
+7,P053,Perak,Bukit Gantang,Toh Muda Dr.,Abdullah Fadzil Bin Che Wan,,male,bumiputera,,,,,BN - UMNO
+7,P075,Pahang,Kuantan,Tuan,Adam Bin Abdul Kadir,,male,bumiputera,,,,,BN - UMNO
+7,P005,Kedah,Padang Terap,Dato' Dr.,Affifudin Bin Haji Omar,,male,bumiputera,,,,,BN - UMNO
+7,P117,Johor,Pagoh,Tuan,Ahmad Bin Omar,,male,bumiputera,,,,,BN - UMNO
+7,P162,Sarawak,Lubuk Antu,Tuan,Andrew Janggi Muyang,,male,,,,,,BN - PBDS
+7,P094,Selangor,Kuala Langat,Tuan,Basri Bin Bajuri,,male,bumiputera,,,,,BN - UMNO
+7,P143,Sabah,Penampang,Tuan,Bernard Giluk Dompok,,male,,,,,,BN - PBS
+7,P107,Negeri Sembilan,Seremban,Dr.,Chen Man Hin,,,,,,,,DAP
+7,P015,Kedah,Padang Serai,Tuan,Chew Kam Hoy,,male,,,,,,BN - MCA
+7,P042,Pulau Pinang,Bukit Mertajam,Tuan,Chian Heng Kai @ Chiah Soo Ha,,male,,,,,,DAP
+7,P151,Sabah,Tawau,Tuan,Samson Chin Chee Tsu,,male,,,,,,DAP
+7,P122,Johor,Bakri,Tuan,Chua Jui Meng,,male,,,,,,BN - MCA
+7,P091,Selangor,Puchong,Dr.,V. David,,,,,,,,DAP
+7,P163,Sarawak,Betong,Tuan,Douglas Uggah Embas,,male,,,,,,BN - PBB
+7,P090,Selangor,Petaling Jaya,Dr.,Eng Seng Chai @ Ng Sing Sai,,,,,,,,DAP
+7,P140,Sabah,Sandakan,Tuan,Fung Ket Wing,,male,,,,,,DAP
+7,P144,Sabah,Gaya,Tuan,Gerard Math,,male,,,,,,DAP
+7,P010,Kedah,Jerai,Tuan,Ghazali Bin Ahmad,,male,bumiputera,,,,,BN - UMNO
+7,P043,Pulau Pinang,Nibong Tebal,Dr.,Goh Cheng Teik,,,,,,,,BN - Gerakan
+7,P044,Pulau Pinang,Bukit Bendera,Tuan,Gooi Hock Seng,,male,,,,,,DAP
+7,P026,Kelantan,Tanah Merah,Tuan,Hashim Bin Safin @ Shafain,,male,bumiputera,,,,,BN - UMNO
+7,P082,Selangor,Sabak Bernam,Tuan,Hussein Bin Haji Taib,,male,bumiputera,,,,,BN - UMNO
+7,P145,Sabah,Tanjong Aru,Tuan,Hsing Yin Shean @ Heng Yick Yin,,male,,,,,,DAP
+7,P108,Negeri Sembilan,Resah,Tuan,Hu Sepang,,male,,,,,,DAP
+7,P020,Kelantan,Pasir Mas,Tuan Haji,Ibrahim Bin Ali,,male,bumiputera,,,,,BN - UMNO
+7,P032,Terengganu,Kuala Nerus,Tuan Haji,Ibrahim Azmi Bin Hassan,,male,bumiputera,,,,,BN - UMNO
+7,P037,Terengganu,Kemaman,Tuan,Ismail @ Mansor Bin Said,,male,bumiputera,,,,,BN - UMNO
+7,P172,Sarawak,Kapit,Tuan,Jimbun Anak Pungga @ James Jimbun Anak Pungga,,male,bumiputera,,,,,BN - PBB
+7,P173,Sarawak,Ulu Rajang,Tuan,Justine Anak Temenggong Jinggut,,male,bumiputera,,,,,BN - SNAP
+7,P149,Sabah,Padas,Tuan,Kadoh Agundong,,male,,,,,,BN - PBS
+7,P083,Selangor,Tanjung Karang,Dato',Kamaruzaman Bin Ahmad,,male,bumiputera,,,,,BN - UMNO
+7,P046,Pulau Pinang,Jelutong,Tuan,R. Karpal Singh,,male,indian,,,,,DAP
+7,P058,Perak,Pasir Pinji,Tuan,Lau Dak Kee,,male,,,,,,DAP
+7,P159,Sarawak,Serian,Tuan,Lainus Anak Andrew Luwak,,male,bumiputera,,,,,IND
+7,P132,Johor,Pontian,Tuan,Law Lai Heng @ Goh Lai Heng,,male,,,,,,BN - MCA
+7,P099,Wilayah Persekutuan Kuala Lumpur,Bukit Bintang,Tuan,Lee Lam Thye,,male,,,,,,DAP
+7,P169,Sarawak,Mukah,Dr.,Leo Michael Toyad,,,,,,,,BN - PBB
+7,P054,Perak,Taiping,Dato',Paul Leong Khee Seong,,,,,,,,BN - Gerakan
+7,P101,Wilayah Persekutuan Kuala Lumpur,Seputih,Tuan,Liew Ah Kim,,male,,,,,,DAP
+7,P088,Selangor,Ampang Jaya,Dr.,Lim Ann Koon,,,,,,,,BN - MCA
+7,P113,Melaka,Kota Melaka,Tuan,Lim Guan Eng,,male,,,,,,DAP
+7,P045,Pulau Pinang,Tanjong,Tuan,Lim Kit Siang,,male,,,,,,DAP
+7,P120,Johor,Kluang,Puan,Ling Chooi Sieng,,female,,,,,,BN - MCA
+7,P071,Perak,Tanjong Malim,Tuan,Loke Yuen Yow,,male,,,,,,BN - MCA
+7,P135,Sabah,Bandau,Tuan,Madatang Bin Morejal,,male,bumiputera,,,,,BN - PBS
+7,P136,Sabah,Kota Belud,Tuan,Maidom Bin Pansai @ Paul Bin Pansai,,male,bumiputera,,,,,BN - PBS
+7,P139,Sabah,Jambongan,Tuan,Metah Bin Asang @ Michael Asang,,male,bumiputera,,,,,BN - PBS
+7,P077,Pahang,Maran,Tuan,Mohamad Bin Abdullah,,male,bumiputera,,,,,BN - UMNO
+7,P048,Pulau Pinang,Balik Pulau,Tuan,Mohamad Subky Bin Haji Abdul Raof,,male,bumiputera,,,,,BN - UMNO
+7,P081,Pahang,Rompin,Tuan,Mohamed Amin Bin Haji Daud,,male,bumiputera,,,,,BN - UMNO
+7,P022,Kelantan,Nilam Puri,Dato' Haji,Mohamed Bin Haji Ali,,male,bumiputera,,,,,BN - UMNO
+7,P028,Kelantan,Kuala Kerai,Tuan,Mohamed Bin Isa,,male,bumiputera,,,,,BN - UMNO
+7,P069,Perak,Bagan Datok,Tuan,Mohamed Bin Jamrah,,male,bumiputera,,,,,BN - UMNO
+7,P131,Johor,Pulai,Dato',Mohamed Bin Rahmat,,male,bumiputera,,,,,BN - UMNO
+7,P123,Johor,Muar,Tuan,Mohamed Sam Bin Haji Sailan,,male,bumiputera,,,,,BN - UMNO
+7,P126,Johor,Sungai Benut,Tuan,Mohamed Tawfik Bin Dr. Ismail,,male,bumiputera,,,,,BN - UMNO
+7,P021,Kelantan,Rantau Panjang,Tuan Haji,Mohamed Yaacob,,male,,,,,,BN - UMNO
+7,P008,Kedah,Kuala Kedah,Dato' Haji,Mohammad Abu Bakar Bin Rautin Ibrahim,,male,bumiputera,,,,,BN - UMNO
+7,P039,Pulau Pinang,Tasek Gelugor,Tuan,Mohammed Yusoff Bin Abdul Latib,,male,bumiputera,,,,,BN - UMNO
+7,P110,Melaka,Alor Gajah,Datuk Seri,Mohd. Adib Bin Haji Mohd. Adam,,male,bumiputera,,,,,BN - UMNO
+7,P104,Negeri Sembilan,Jempol,Tuan Haji,Mohd. Khalid Bin Mohd. Yunus,,male,bumiputera,,,,,BN - UMNO
+7,P105,Negeri Sembilan,Tampin,Tuan,Mohd. Noh Bin Rajab,,male,bumiputera,,,,,BN - UMNO
+7,P095,Selangor,Sepang,Tuan,Mohd. Sharif Bin Jajang,,male,bumiputera,,,,,BN - UMNO
+7,P112,Melaka,Batu Berendam,Tuan,Mohd. Tamrin Bin Abdul Ghafar,,male,bumiputera,,,,,BN - UMNO
+7,P023,Kelantan,Bachok,Tuan Haji,Mohd. Zain Bin Abdullah,,male,bumiputera,,,,,BN - HAMIM
+7,P050,Perak,Larut,Tuan,Mohd. Zihin Bin Mohd. Hassan,,male,bumiputera,,,,,BN - UMNO
+7,P128,Johor,Kota Tinggi,Dato',Musa Bin Hitam,,male,bumiputera,,,,,BN - UMNO
+7,P177,Sarawak,Bukit Mas,Tuan,Mutang Tagal,,male,,,,,,BN - PBB
+7,P063,Perak,Parit,Tuan,Nasruddin Bin Alang Saidin,,male,bumiputera,,,,,BN - UMNO
+7,P065,Perak,Kampar,Tuan,Ngoi Thiam Woh,,male,,,,,,DAP
+7,P168,Sarawak,Rajang,Tuan,Nicholas Munong Anak Ibau,,male,bumiputera,,,,,IND
+7,P147,Sabah,Kimanis,Tuan,Nurnikman Bin Abdullah,,male,bumiputera,,,,,BN - USNO
+7,P134,Sabah,Marudu,Tuan,Joe Ojihi Bin Supiring,,male,bumiputera,,,,,IND
+7,P146,Sabah,Papar,Tuan,Osu Bin Haji Sukam,,male,bumiputera,,,,,BN - USNO
+7,P009,Kedah,Pendang,Tuan,Othman Bin Abdul,,male,bumiputera,,,,,BN - UMNO
+7,P142,Sabah,Keningau,Datuk,Joseph Pairin Kitingan,,,,,,,,BN - PBS
+7,P066,Perak,Tapah,Tuan,M.G. Pandithan,,male,,,,,,BN - MIC
+7,P154,Sarawak,Mas Gading,Dr.,Patau Rubis,,,,,,,,BN - SNAP
+7,P059,Perak,Ipoh,Tuan,P.Patto,,male,,,,,,DAP
+7,P047,Pulau Pinang,Bayan Baru,Tuan,Peter Paul Dason,,male,,,,,,DAP
+7,P164,Sarawak,Saratok,Datuk,Peter Tinggom Anak Kamarau,,,bumiputera,,,,,BN - SNAP
+7,P141,Sabah,Kinabatangan,Tuan,Pitting Bin Haji Mohd. Ali,,male,bumiputera,,,,,BN - USNO
+7,P152,Sabah,Silam,Tuan,Railey Bin Jeffrey,,male,bumiputera,,,,,BN - USNO
+7,P055,Perak,Tasik Chenderoh,Dato' Haji,Saidin Bin Haji Mat Piah,,male,bumiputera,,,,,BN - UMNO
+7,P153,Sabah,Semporna,Datuk Haji,Sakaran Dandai,,male,,,,,,BN - USNO
+7,P002,Perlis,Arau,Tuan,Shahidan Bin Kassim,,male,bumiputera,,,,,BN - UMNO
+7,P121,Johor,Parit Sulong,Puan Hajjah,Shariffah Dorah Binti Dato' Syed Mohammed,,female,bumiputera,,,,,BN - UMNO
+7,P155,Sarawak,Bandar Kuching,Tuan,Sim Kwang Yang,,male,,,,,,DAP
+7,P084,Selangor,Hulu Selangor,Tuan,S.S. Subramaniam,,male,,,,,,BN - MIC
+7,P098,Wilayah Persekutuan Kuala Lumpur,Titiwangsa,Drs.,Suleiman Bin Mohamed,,male,bumiputera,,,,,BN - UMNO
+7,P161,Sarawak,Batang Lupar,Datuk,Daniel Tajem Anak Miri,,,bumiputera,,,,,BN - PBDS
+7,P102,Wilayah Persekutuan Kuala Lumpur,Sungai Besi,Tuan,Tan Kok Wai,,male,,,,,,DAP
+7,P064,Perak,Gopeng,Tuan,Tan Koon Swan,,male,,,,,,BN - MCA
+7,P096,Wilayah Persekutuan Kuala Lumpur,Kepong,Dr.,Tan Seng Giaw,,,,,,,,DAP
+7,P150,Sabah,Pensiangan,Tuan,Taimin Bin Lumaing,,male,bumiputera,,,,,BN - PBS
+7,P040,Pulau Pinang,Bagan,Tuan,Teoh Teik Huat,,male,,,,,,DAP
+7,P170,Sarawak,Julau,Tuan,Thomas Salang Siden,,male,,,,,,BN - PBDS
+7,P167,Sarawak,Sibu,Tuan,Tieu Sung Seng @ Tiu Siing Seng,,male,,,,,,BN - SUPP
+7,P060,Perak,Batu Gajah,Tuan,Ting Chek Ming,,male,,,,,,DAP
+7,P174,Sarawak,Bintulu,Tuan,Ting Ling Kiew,,male,,,,,,BN - SNAP
+7,P086,Selangor,Kapar,Tuan,D.P. Vijandran,,male,,,,,,BN - MIC
+7,P024,Kelantan,Pasir Puteh,Tuan,Wan Omar Bin Wan Majid,,male,bumiputera,,,,,BN - UMNO
+7,P057,Perak,Tambun,Tuan,Yahaya Bin Mohd. Shafie,,male,bumiputera,,,,,BN - UMNO
+7,P129,Johor,Tebrau,Puan,Siti Zainabon @ Zainab Binti Abu Bakar,,female,bumiputera,,,,,BN - UMNO
+7,P012,Kedah,Sik,Dato',Zainal Abidin Bin Johari,,male,bumiputera,,,,,BN - UMNO
+7,P030,Terengganu,Besut,Dato' Haji,Zakaria Bin Haji Abdul Rahman,,male,bumiputera,,,,,BN - UMNO
+7,P033,Terengganu,Kuala Terengganu,Tuan,Zubir Bin Embong,,male,bumiputera,,,,,BN - UMNO
+8,,,,Tan Sri Dato',Mohamed Zahir Bin Haji Ismail,,male,bumiputera,,,Yang Dipertua Dewan Rakyat,,
+8,P004,Kedah,Kubang Pasu,Y.A.B. Dato' Seri Dr,Mahathir Bin Mohamad,,male,bumiputera,,Perdana Menteri,,,BN - UMNO
+8,P114,Melaka,Jasin,Y.A.B.,Abdul Ghafar Bin Baba,,male,bumiputera,,Timbalan Perdana Menteri,,,BN - UMNO
+8,P118,Johor,Labis,Dato' Seri Dr.,Ling Liong Sik,,,,,,,,BN - MCA
+8,P056,Perak,Sungai Siput,Dato' Seri,S.Samy Vellu,,,,,,,,BN - MIC
+8,P062,Perak,Beruas,Dato' Seri Dr.,Lim Keng Yaik,,,,,,,,BN - Gerakan
+8,P170,Sarawak,Kanowit,Datuk,Leo Moggie Anak Irok,,,bumiputera,,,,,BN - PBDS
+8,P061,Perak,Kuala Kangsar,Dato' Seri,Rafidah Aziz,,,,,,,,BN - UMNO
+8,P156,Sarawak,Petra Jaya,Dato' Dr Haji,Sulaiman Bin Haji Daud,,male,bumiputera,,,,,BN - PBB
+8,P003,Kedah,Jerlun Langkawi,Datuk Seri,Sanusi Bin Junid,,male,bumiputera,,,,,BN - UMNO
+8,P041,Pulau Pinang,Permatang Pauh,Dato' Seri,Anwar Ibrahim,,,,,,,,BN - UMNO
+8,P085,Selangor,Kuala Selangor,Dato' Haji,Abu Hassan Bin Haji Omar,,male,bumiputera,,,,,BN - UMNO
+8,P011,Kedah,Merbok,Dato' Paduka,Daim Zainuddin,,,,,,,,BN - UMNO
+8,P089,Selangor,Hulu Langat,Dato',Lee Kim Sai,,,,,,,,BN - MCA
+8,P076,Pahang,Pekan,Dato' Seri Haji,Mohd. Najib Bin Tun Haji Abdul Razak,,male,bumiputera,,,,,BN - UMNO
+8,P131,Johor,Pulai,Dato',Mohamed Bin Rahmat,,male,bumiputera,,,,,BN - UMNO
+8,P080,Pahang,Temerluh,Dato',Sabbaruddin Chik,,,,,,,,BN - UMNO
+8,P106,Negeri Sembilan,Kuala Pilah,Dato',Napsiah Binti Omar,,female,bumiputera,,,,,BN - UMNO
+8,P030,Terengganu,Besut,Dato' Dr,Mohamad Yusof Bin Haji Mohamed Nor,,male,bumiputera,,,,,BN - UMNO
+8,P079,Pahang,Bentung,Dato',Lim Ah Lek,,,,,,,,BN - MCA
+8,P167,Sarawak,Kuala Rajang,Dato',Abang Abu Bakar Bin Datu Bandar Abang Haji Mustapha,,male,bumiputera,,,,,BN - PBB
+8,P168,Sarawak,Sarikei,Tuan,Law Hieng Ding,,male,,,,,,BN - SUPP
+8,P064,Perak,Gopeh,Dr,Ting Chew Peh,,,,,,,,BN - MCA
+8,P153,Sabah,Semporna,Tan Sri Datuk Haji,Sakaran Bin Dandai,,male,bumiputera,,,,,BN - UMNO
+8,P128,Johor,Kota Tinggi,Tuan,Syed Hamid Bin Syed Jaafar Albar,,male,bumiputera,,,,,BN - UMNO
+8,P088,Selangor,Ampang Jaya,Tuan,Ong Tee Keat,,male,,,,,,BN - MCA
+8,P141,Sabah,Kinabatangan,Tuan Haji,Juhar Bin Haji Mahiruddin,,male,bumiputera,,,,,BN - UMNO
+8,P067,Perak,Pasir Salak,Dato',Megat Junid Bin Megat Ayob,,male,bumiputera,,,,,BN - UMNO
+8,P125,Johor,Batu Pahat,Tuan Haji,Daud Bin Dato' Haji Taha,,male,bumiputera,,,,,BN - UMNO
+8,P049,Perak,Gerik,Dato',Mohd. Tajol Rosli Bin Mohd. Ghazali,,male,bumiputera,,,,,BN - UMNO
+8,P097,Wilayah Persekutuan Kuala Lumpur,Batu,Dato',Alexander Yu Lung Lee,,,,,,,,BN - Gerakan
+8,P074,Pahang,Jerantut,Dato',Wan Abu Bakar Bin Mohamed,,male,bumiputera,,,,,BN - UMNO
+8,P078,Pahang,Mentakab,Dato' Dr,Siti Zaharah Binti Haji Sulaiman,,female,bumiputera,,,,,BN - UMNO
+8,P071,Perak,Tanjong Malim,Dato',Loke Yuen Yow,,,,,,,,BN - MCA
+8,P146,Sabah,Papar,Tuan,Osu Bin Haji Sukam,,male,bumiputera,,,,,BN - UMNO
+8,P152,Sabah,Silam,Tuan,Railey Bin Haji Jeffrey,,male,bumiputera,,,,,BN - UMNO
+8,P087,Selangor,Selayang,Datin Paduka Hajah,Zaleha Binti Ismail,,female,bumiputera,,,,,BN - UMNO
+8,P013,Kedah,Baling,Raja Dato',Ariffin Bin Raja Sulaiman,,male,bumiputera,,,,,BN - UMNO
+8,P104,Negeri Sembilan,Jempol,Dato' Haji,Mohd. Khalid Bin Mohd. Yunus,,male,bumiputera,,,,,BN - UMNO
+8,P173,Sarawak,Mukah,Dr,Leo Michael Toyad,,,,,,,,BN - PBB
+8,P053,Perak,Bukit Gantang,Dato' Dr,Abdullah Fadzil Bin Che Wan,,male,bumiputera,,,,,BN - UMNO
+8,P116,Johor,Ledang,Tuan,Abdul Ghani Bin Othman,,male,bumiputera,,,,,BN - UMNO
+8,P098,Wilayah Persekutuan Kuala Lumpur,Titiwangsa,Dato' Drs,Suleiman Bin Mohamed,,male,bumiputera,,,,,BN - UMNO
+8,P048,Pulau Pinang,Balik Pulau,Tuan,Mohamed Farid Bin Ariffin,,male,bumiputera,,,,,BN - UMNO
+8,P073,Pahang,Raub,Puan,Teng Gaik Kwan,,female,,,,,,BN - MCA
+8,P178,Sarawak,Miri,Tuan,Peter Chin Fah Kui,,male,,,,,,BN - SUPP
+8,P016,Kedah,Kulim,Dato',Abdul Kadir Bin Haji Sheikh Fadzir,,male,bumiputera,,,,,BN - UMNO
+8,P122,Johor,Bakri,Tuan,Chua Jui Meng,,male,,,,,,BN - MCA
+8,P054,Perak,Taiping,Tuan,Kerk Choo Ting,,male,,,,,,BN - Gerakan
+8,P031,Terengganu,Setiu,Dato' Haji Tengku,Mahmud Bin Tengku Mansor,,male,bumiputera,,,,,BN - UMNO
+8,P124,Johor,Sri Gading,Tuan,Mohd. Yasin Bin Kamari,,male,bumiputera,,,,,BN - UMNO
+8,P108,Negeri Sembilan,Rasah,Dato,Wong See Wah,,,,,,,,BN - MCA
+8,P166,Sarawak,Saratok,Datuk,Peter Tinggom Anak Kamarau,,,bumiputera,,,,,BN - SNAP
+8,P072,Pahang,Lipis,Dato',Chan Kong Chong,,,,,,,,BN - MCA
+8,P111,Melaka,Selandar,Dr,Fong Chan Oon,,,,,,,,BN - MCA
+8,P012,Kedah,Sik,Dato Dr Haji,Abdul Hamid Bin Haji Othman,,male,bumiputera,,,,,BN - UMNO
+8,P051,Perak,Parit Buntar,Dato',Abdul Raman Bin Suliman,,male,bumiputera,,,,,BN - UMNO
+8,P009,Kedah,Pendang,Tuan,Othman Bin Abdul,,male,bumiputera,,,,,BN - UMNO
+8,P069,Perak,Bagan Datok,Dato,Mohamed Bin Jamrah,,male,bumiputera,,,,,BN - UMNO
+8,P037,Terengganu,Kemaman,Dato',Ismail Bin Said,,male,bumiputera,,,,,BN - UMNO
+8,P105,Negeri Sembilan,Tampin,Tuan,Mohd. Noh Bin Rajab,,male,bumiputera,,,,,BN - UMNO
+8,P165,Sarawak,Betong,Tuan,Douglas Uggah Embas,,male,,,,,,BN - PBB
+8,P039,Pulau Pinang,Tasik Gelugor,Tuan,Mohd. Shariff Bin Haji Omar,,male,bumiputera,,,,,BN - UMNO
+8,P158,Sarawak,Padawan,Tuan,Yong Khoon Seng,,male,,,,,,BN - SUPP
+8,P132,Johor,Pontian,Tuan,Ong Ka Ting,,male,,,,,,BN - MCA
+8,P075,Pahang,Kuantan,Dato' Haji,Fauzi Bin Abdul Rahman,,male,bumiputera,,,,,BN - UMNO
+8,P133,Wilayah Persekutuan Labuan,Labuan,Tuan,Abdol Mulok Bin Awang Damit,,male,bumiputera,,,,,BN - UMNO
+8,P119,Johor,Mersing,Dato',Abdul Ajib Bin Ahmad,,male,bumiputera,,,,,BN - UMNO
+8,P034,Terengganu,Marang,Tuan,Abdul Hadi Bin Haji Awang,,male,bumiputera,,,,,APU - PAS
+8,P126,Johor,Sungai Benut,Tuan Haji,Abdul Hamid Bin Abdul Rahman,,male,bumiputera,,,,,BN - UMNO
+8,P033,Terengganu,Kuala Terengganu,Datuk Haji,Manan Bin Othman,,male,bumiputera,,,,,APU - S46
+8,P123,Johor,Muar,Tuan,Abdul Malek Munip,,male,bumiputera,,,,,BN - UMNO
+8,P032,Terengganu,Kuala Nerus,Datuk Haji,Abdul Rashid Bin Muhammad,,male,bumiputera,,,,,BN - UMNO
+8,P159,Sarawak,Kota Semarahan,Datuk Patinggi Tan Sri Haji,Abdul Taib Mahmud,,male,bumiputera,,,,,BN - PBB
+8,P176,Sarawak,Hulu Rajang,Tuan,Billy Abit Joo,,male,,,,,,BEBAS
+8,P018,Kelantan,Pengkalan Chepa,Tuan Haji,Nik Abdullah Bin Haji Arshad,,male,bumiputera,,,,,APU - PAS
+8,P005,Kedah,Padang Terap,Dato' Dr,Affifudin Bin Haji Omar,,male,bumiputera,,,,,BN - UMNO
+8,P047,Pulau Pinang,Bayan Baru,Tuan,Ahmad Bin Nor,,male,bumiputera,,,,,GR - DAP
+8,P117,Johor,Pagoh,Tuan,Ahmad Bin Omar,,male,bumiputera,,,,,BN - UMNO
+8,P027,Kelantan,Machang,Tuan,Ahmad Shukri Bin Haji Hassan,,male,bumiputera,,,,,APU - S46
+8,P035,Terengganu,Hulu Terengganu,Dato',Alias Bin Md. Ali,,male,bumiputera,,,,,BN - UMNO
+8,P134,Sabah,Marudu,Datuk,Amir Kahar Bin Tun Datu Mustapha,,male,bumiputera,,,,,BN - UMNO
+8,P036,Terengganu,Dungun,Tuan Haji,Awang Bin Jabar,,male,bumiputera,,,,,BN - UMNO
+8,P094,Selangor,Kuala Langat,Datuk Haji,Basri Bin Bajuri,,male,bumiputera,,,,,BN - UMNO
+8,P143,Sabah,Penampang,Datuk,Bernard Giluk Dompok,,,,,,,,GR - PBS
+8,P023,Kelantan,Bachok,Tuan Haji,Buniyamin Bin Yaakob,,male,bumiputera,,,,,APU - PAS
+8,P042,Pulau Pinang,Bukti Mertajam,Tuan,Chian Heng Kai,,male,,,,,,GR - DAP
+8,P007,Kedah,Alor Setar,Tuan,Chor Chee Heung,,male,,,,,,BN - MCA
+8,P091,Selangor,Puchong,Dr,V. David,,,,,,,,GR - DAP
+8,P093,Selangor,Klang,Tuan,Fong Kui Lun,,male,,,,,,GR - DAP
+8,P060,Perak,Batu Gajah,Tuan,Foo Tiew Kok,,male,,,,,,GR - DAP
+8,P135,Sabah,Bandau,Tuan,George Sangkin,,male,,,,,,GR - PBS
+8,P010,Kedah,Jerai,Tuan Haji,Ghazali Bin Ahmad,,male,bumiputera,,,,,BN - UMNO
+8,P044,Pulau Pinang,Bukit Bendera,Tuan,Gooi Hock Seng,,male,,,,,,GR - DAP
+8,P055,Perak,Tasek Chenderoh,Tuan Haji,Hamzah Bin Mohamed Zain,,male,bumiputera,,,,,BN - UMNO
+8,P179,Sarawak,Baram,Tuan,Harrison Ngau Laing,,male,,,,,,BEBAS
+8,P020,Kelantan,Pasir Mas,Tuan Haji,Ibrahim Bin Ali,,male,bumiputera,,,,,APU - S46
+8,P110,Melaka,Alor Gajah,Tuan Haji,Ibrahim Bin Jendol,,male,bumiputera,,,,,BN - UMNO
+8,P028,Kelantan,Kuala Krai,Tuan Haji,Ibrahim Bin Mahmood,,male,bumiputera,,,,,APU - PAS
+8,P026,Kelantan,Tanah Merah,Tuan Haji,Ibrahim Bin Pateh Mohammad,,male,bumiputera,,,,,APU - S46
+8,P014,Kedah,Sungai Petani,,Che Ibrahim Bin Mustafa,,male,bumiputera,,,,,BN - UMNO
+8,P103,Negeri Sembilan,Jelebu,Lt. Kol.,Ibrahim Bin Sareh,,male,bumiputera,,,,,BN - UMNO
+8,P019,Kelantan,Kota Bharu,Puan Hajah,Ilani Binti Dato Haji Isahak,,female,bumiputera,,,,,APU - S46
+8,P001,Perlis,Kangar,Tuan Haji,Ishak Bin Arshad,,male,bumiputera,,,,,BN - UMNO
+8,P081,Pahang,Rompin,Dr Haji,Jamaluddin Bin Haji Jarjis,,male,bumiputera,,,,,BN - UMNO
+8,P164,Sarawak,Lubok Antu,Tuan,Jawah Anak Gerang,,male,bumiputera,,,,,BN - PBDS
+8,P175,Sarawak,Kapit,Tuan,James Jimbun Anak Pungga,,male,bumiputera,,,,,BN - PBB
+8,P174,Sarawak,Selangau,Tuan,Joseph Mauh Ak Ikeh,,male,,,,,,BEBAS
+8,P052,Perak,Bagan Serai,Tuan,Qamaruzaman Bin Haji Ismail,,male,bumiputera,,,,,BN - UMNO
+8,P120,Johor,Kluang,Tuan,Kang Chow Oh,,male,,,,,,BN - MCA
+8,P046,Pulau Pinang,Jelutong,Tuan,R. Karpal Singh,,male,indian,,,,,GR - DAP
+8,P058,Perak,Pasir Pinji,Tuan,Kerk Kim Hock,,male,,,,,,GR - DAP
+8,P090,Selangor,Petaling Jaya,Dr,Kua Kia Soong,,,,,,,,GR - DAP
+8,P066,Perak,Tapah,Dato',K. Kumaran,,,,,,,,BN - MIC
+8,P140,Sabah,Sandakan,Tuan,Lai Lun Tze,,male,,,,,,GR - PBS
+8,P059,Perak,Ipoh,Tuan,Lau Dak Kee,,male,,,,,,GR - DAP
+8,P172,Sarawak,Sibu,Tuan,Robert Lau Hoi Chew,,male,,,,,,BN - SUPP
+8,P101,Wilayah Persekutuan Kuala Lumpur,Seputeh,Tuan,Liew Ah Kim,,male,,,,,,GR - DAP
+8,P113,Melaka,Kota Melaka,Tuan,Lim Guan Eng,,male,,,,,,GR - DAP
+8,P040,Pulau Pinang,Bagan,Tuan,Lim Hock Seng,,male,,,,,,GR - DAP
+8,P045,Pulau Pinang,Tanjong,Tuan,Lim Kit Siang,,male,,,,,,GR - DAP
+8,P015,Kedah,Padang Serai,Puan,Lim Lay Hoon,,female,,,,,,BN - MCA
+8,P068,Perak,Lumut,Datin,Ling Chooi Sieng,,female,,,,,,BN - MCA
+8,P086,Selangor,Kapar,Dato',M. Mahalingam,,,,,,,,BN - MIC
+8,P082,Selangor,Sabak Bernam,Tuan Haji,Mahbud Bin Haji Hashim,,male,bumiputera,,,,,BN - UMNO
+8,P136,Sabah,Kota Belut,Tuan,Maidom P. Pansai,,male,,,,,,GR - PBS
+8,P109,Negeri Sembilan,Telok Kemang,Dr.,T. Marimuthu,,,,,,,,BN - MIC
+8,P139,Sabah,Jambongan,Tuan,Michael Asang,,male,,,,,,GR - PBS
+8,P180,Sarawak,Bukit Mas,Tuan,Michael Lisa Kaya @ Gor Kaya,,male,,,,,,BN - PBB
+8,P077,Pahang,Maran,Tuan Haji,Mohamad Bin Abdullah,,male,bumiputera,,,,,BN - UMNO
+8,P022,Kelantan,Nilam Puri,Tuan Haji,Mohamad Bin Sabu,,male,bumiputera,,,,,APU - PAS
+8,P100,Wilayah Persekutuan Kuala Lumpur,Lembah Pantai,Tuan,Mohamad Kamal Bin Hussain,,male,bumiputera,,,,,BN - UMNO
+8,P130,Johor,Johor Baru,Tuan,Mohamad Khaled Bin Nordin,,male,bumiputera,,,,,BN - UMNO
+8,P025,Kelantan,Kok Lanas,Tuan Haji,Mohamad Shukri Bin Haji Mohamed,,male,bumiputera,,,,,APU - S46
+8,P008,Kedah,Kuala Kedah,Dato' Haji,Mohammad Abu Bakar Bin Rautin Ibrahim,,male,bumiputera,,,,,BN - UMNO
+8,P095,Selangor,Sepang,Tuan Haji,Mohd. Sharif Bin Jajang,,male,bumiputera,,,,,BN - UMNO
+8,P112,Melaka,Batu Berendam,Tuan,Mohd. Tamrin Bin Abdul Ghafar,,male,bumiputera,,,,,BN - UMNO
+8,P050,Perak,Larut,Tuan Haji,Mohd. Zihin Bin Haji Mohd. Hassan,,male,bumiputera,,,,,BN - UMNO
+8,P137,Sabah,Tuaran,Datuk,Monggoh Orow,,,,,,,,GR - PBS
+8,P148,Sabah,Limbawang,Tun Datu Haji,Mustapha Bin Datu Harun,,male,bumiputera,,,,,BN - UMNO
+8,P063,Perak,Parit,Tuan,Nasruddin Bin Haji Alang Saidin,,male,bumiputera,,,,,BN - UMNO
+8,P057,Perak,Tambun,Dr,Nawawi Bin Mat Awin,,male,bumiputera,,,,,BN - UMNO
+8,P147,Sabah,Kimanis,Tuan,Nurnikman Bin Abdullah,,male,bumiputera,,,,,GR - PBS
+8,P070,Perak,Teluk Intan,Tuan,Ong Tin Kim,,male,,,,,,BN - Gerakan
+8,P138,Sabah,Kinabalu,Dr,Osman Minudin,,,,,,,,GR - PBS
+8,P142,Sabah,Keningau,Datuk,Joseph Pairin Kitingan,,,,,,,,GR - PBS
+8,P084,Selangor,Hulu Selangor,Tuan,G. Palanivel,,male,,,,,,BN - MIC
+8,P154,Sarawak,Mas Gading,Dr,Patau Rubis,,,,,,,,BN - SNAP
+8,P043,Pulau Pinang,Nibong Tebal,Datuk,Dominic Joseph Puthucheary,,,,,,,,BN - Gerakan
+8,P149,Sabah,Padas,Tuan,Raden Malleh,,male,,,,,,GR - PBS
+8,P092,Selangor,Shah Alam,Puan Hajah,Rakibah Binti Haji Abdul Manap,,female,bumiputera,,,,,BN - UMNO
+8,P160,Sarawak,Serian,Tuan,Richard Riot Anak Jaem,,male,bumiputera,,,,,BEBAS
+8,P155,Sarawak,Santubong,Puan,Rohani Binti Abd. Karim,,female,bumiputera,,,,,BN - PBB
+8,P121,Johor,Parit Sulung,Tuan,Ruhanie Bin Ahmad,,male,bumiputera,,,,,BN - UMNO
+8,P029,Kelantan,Gua Musang,Tengku Tan Sri,Razaleigh Hamzah,,,,,,,,APU - S46
+8,P083,Selangor,Tanjong Karang,Tuan,Saidin @ Yusof Bin Adam,,male,bumiputera,,,,,BN - UMNO
+8,P021,Kelantan,Rantau Panjang,Dr,Sanusi Bin Daeng Mariok,,male,bumiputera,,,,,APU - PAS
+8,P002,Perlis,Arau,Tuan,Shahidan Bin Kassim,,male,bumiputera,,,,,BN - UMNO
+8,P157,Sarawak,Bandar Kuching,Tuan,Sim Kwang Yang,,male,,,,,,GR - DAP
+8,P129,Johor,Tebrau,Puan,Siti Zainabon Binti Abu Bakar,,female,bumiputera,,,,,BN - UMNO
+8,P115,Johor,Segamat,Tuan,S.S. Subramanian,,male,,,,,,BN - MIC
+8,P150,Sabah,Pensiangan,Tuan,Taiman Bin Lumaing,,male,bumiputera,,,,,GR - PBS
+8,P163,Sarawak,Sri Aman,Datuk,Daniel Tajem Anak Miri,,,bumiputera,,,,,BN - PBDS
+8,P102,Wilayah Persekutuan Kuala Lumpur,Sungai Besi,Tuan,Tan Kok Wai,,male,,,,,,GR - DAP
+8,P096,Wilayah Persekutuan Kuala Lumpur,Kepong,Dr,Tan Seng Giaw,,,,,,,,GR - DAP
+8,P169,Sarawak,Julau,Tuan,Thomas Salang Siden,,male,,,,,,BN - PBDS
+8,P161,Sarawak,Batang Sadong,Tuan,Wahab Bin Suhaili,,male,bumiputera,,,,,BN - PBB
+8,P006,Kedah,Kota Setar,,Wan Mohd. Hanafiah Bin Wan Mohd. Saman,,male,bumiputera,,,,,BN - UMNO
+8,P017,Kelantan,Tumpat,Tuan Haji,Wan Mohd. Jamil Bin Wan Mahmood,,male,bumiputera,,,,,APU - PAS
+8,P162,Sarawak,Batang Lupar,,Wan Junaidi Bin Tuanku Jaafar,,male,bumiputera,,,,,BN - PBB
+8,P024,Kelantan,Pasir Puteh,,Wan Omar Bin Wan Najib,,male,bumiputera,,,,,APU - S46
+8,P099,Wilayah Persekutuan Kuala Lumpur,Bukit Bintang,Tuan,Wee Choo Keong,,male,,,,,,GR - DAP
+8,P065,Perak,Kampar,Tuan,Wong Win On,,male,,,,,,GR - DAP
+8,P145,Sabah,Tanjong Aru,Tuan,Vun Shin Choi @ Joseph Voon,,male,,,,,,GR - PBS
+8,P177,Sarawak,Bintulu,Datuk Amar,James Wong Kim Min,,,,,,,,BN - SNAP
+8,P171,Sarawak,Lanang,Tuan,Jason Wong Sing Nang,,male,,,,,,GR - DAP
+8,P127,Johor,Senai,Tuan,Woon See Chin,,male,,,,,,BN - MCA
+8,P151,Sabah,Tawau,Tuan,Geoffrey Yee Ling Fook,,male,,,,,,GR - PBS
+8,P107,Negeri Sembilan,Seremban,Tuan,Yim Chee Hong,,male,,,,,,BN - MCA
+8,P144,Sabah,Gaya,Tuan,Philip Yong Chiew Lip,,male,,,,,,GR - PBS
+9,,,,Tan Sri Dato',Mohamed Zahir Bin Haji Ismail,,male,bumiputera,,,Yang Dipertua Dewan Rakyat,,
+9,P006,Kedah,Kubang Pasu,Y.A.B. Dato' Seri Dr,Mahathir Bin Mohamad,,male,bumiputera,,Perdana Menteri,,,BN - UMNO
+9,P044,Pulau Pinang,Permatang Pauh,Y.A.B. Dato' Seri,Anwar Bin Ibrahim,,male,bumiputera,,Timbalan Perdana Menteri,,,BN - UMNO > BEBAS
+9,P128,Johor,Labis,Dato' Seri Dr,Ling Liong Sik,,,,,,,,BN - MCA
+9,P059,Perak,Sungai Siput,Dato' Seri,S. Samy Vellu,,,,,,,,BN - MIC
+9,P065,Perak,Beruas,Dato' Seri Dr,Lim Keng Yaik,,,,,,,,BN - Gerakan
+9,P182,Sarawak,Kanowit,Datuk,Leo Moggie Anak Irok,,,bumiputera,,,,,BN - PBDS
+9,P064,Perak,Kuala Kangsar,Dato' Seri,Rafidah Aziz,,,,,,,,BN - UMNO
+9,P168,Sarawak,Petra Jaya,Datuk Amar Dr. Haji,Sulaiman Bin Haji Daud,,male,bumiputera,,,,,BN - PBB
+9,P089,Selangor,Kuala Selangor,Dato' Haji,Abu Hassan Bin Haji Omar,,male,bumiputera,,,,,BN - UMNO
+9,P080,Pahang,Pekan,Dato' Seri Haji,Mohd. Najib Bin Tun Haji Abdul Razak,,male,bumiputera,,,,,BN - UMNO
+9,P142,Johor,Pulai,Dato',Mohamed Bin Rahmat,,male,bumiputera,,,,,BN - UMNO
+9,P084,Pahang,Temerloh,Dato',Sabbaruddin Chik,,,,,,,,BN - UMNO
+9,P083,Pahang,Bentong,Dato',Lim Ah Lek,,,,,,,,BN - MCA
+9,P179,Sarawak,Kuala Rajang,Dato',Abang Abu Bakar Bin Datu Bandar Abang Haji Mustapha,,male,bumiputera,,,,,BN - PBB
+9,P180,Sarawak,Sarikei,Datuk,Law Hieng Ding,,,,,,,,BN - SUPP
+9,P067,Perak,Gopeng,Dato' Dr,Ting Chew Peh,,,,,,,,BN - MCA
+9,P139,Johor,Kota Tinggi,Dato',Syed Hamid Bin Syed Jaafar Albar,,male,bumiputera,,,,,BN - UMNO
+9,P026,Kelantan,Peringat,Dato' Haji,Annuar Bin Haji Musa,,male,bumiputera,,,,,BN - UMNO
+9,P041,Pulau Pinang,Kepala Batas,Datuk,Abdullah Bin Haji Ahmad Badawi,,male,bumiputera,,,,,BN - UMNO
+9,P153,Sabah,Papar,Datuk,Osu Bin Haji Sukam,,male,bumiputera,,,,,BN - UMNO
+9,P127,Johor,Pagoh,Tan Sri Dato' Haji,Muhyiddin Bin Haji Mohd. Yassin,,male,bumiputera,,,,,BN - UMNO
+9,P091,Selangor,Gombak,Datin Paduka Hajah,Zaleha Binti Ismail,,female,bumiputera,,,,,BN - UMNO
+9,P132,Johor,Bakri,Tuan,Chua Jui Meng,,male,,,,,,BN - MCA
+9,P013,Kedah,Sik,Dato' Dr Haji,Abdul Hamid Bin Haji Othman,,male,bumiputera,,,,,BN - UMNO
+9,P030,Kelantan,Jeli,Dato',Mustapa Bin Mohamed,,male,bumiputera,,,,,BN - UMNO
+9,P092,Selangor,Ampang Jaya,Tuan,Ong Tee Keat,,male,,,,,,BN - MCA
+9,P162,Sabah,Kinabatangan,Tuan Haji,Juhar Bin Haji Mahiruddin,,male,bumiputera,,,,,BN - UMNO
+9,P070,Perak,Pasir Salak,Dato',Megat Junid Bin Megat Ayob,,male,bumiputera,,,,,BN - UMNO
+9,P052,Perak,Gerik,Dato',Mohd. Tajol Rosli Bin Mohd Ghazali,,male,bumiputera,,,,,BN - UMNO
+9,P079,Pahang,Paya Besar,Dato' Dr,Siti Zaharah Binti Haji Sulaiman,,female,bumiputera,,,,,BN - UMNO
+9,P074,Perak,Tanjong Malim,Dato',Loke Yuen Yow,,,,,,,,BN - MCA
+9,P163,Sabah,Silam,Datuk,Railey Bin Haji Jaffrey,,male,bumiputera,,,,,BN - UMNO
+9,P016,Kedah,Baling,Raja Dato',Ariffin Bin Raja Sulaiman,,male,bumiputera,,,,,BN - UMNO
+9,P114,Negeri Sembilan,Jempol,Dato' Haji,Mohd. Khalid Bin Mohd. Yunus,,male,bumiputera,,,,,BN - UMNO
+9,P185,Sarawak,Mukah,Dr,Leo Michael Toyad,,,,,,,,BN - PBB
+9,P056,Perak,Bukit Gantang,Dato' Dr,Abdullah Fadzil Bin Che Wan,,male,bumiputera,,,,,BN - UMNO
+9,P107,Wilayah Perseketuan Kuala Lumpur,Titiwangsa,Dato' Drs,Suleiman Bin Mohamed,,male,bumiputera,,,,,BN - UMNO
+9,P076,Pahang,Raub,Dato',Teng Gaik Kwan,,,,,,,,BN - MCA
+9,P190,Sarawak,Miri,Tuan,Peter Chin Fah Kui,,male,,,,,,BN - SUPP
+9,P018,Kedah,Kulim Bandar Baharu,Dato',Abdul Kadir Bin Haji Sheikh Fadzir,,male,bumiputera,,,,,BN - UMNO
+9,P057,Perak,Taiping,Tuan,Kerk Choo Ting,,male,,,,,,BN - Gerakan
+9,P034,Terengganu,Setiu,Dato' Haji Tengku,Mahmud Bin Tengku Mansor,,male,bumiputera,,,,,BN - UMNO
+9,P118,Negeri Sembilan,Rasah,Dato',Wong See Wah,,,,,,,,BN - MCA
+9,P178,Sarawak,Saratok,Datuk,Peter Tinggom Anak Kamarau,,,bumiputera,,,,,BN - SNAP
+9,P121,Melaka,Selandar,Datuk Dr,Fong Chan Onn,,,,,,,,BN - MCA
+9,P090,Selangor,Selayang,Dato',Chan Kong Choy,,,,,,,,BN - MCA
+9,P144,Johor,Pontian,Tuan,Ong Ka Ting,,male,,,,,,BN - MCA
+9,P069,Perak,Tapah,Dato',K. Kumaran,,,,,,,,BN - MIC
+9,P007,Kedah,Padang Terap,Dato' Dr,Affifudin Bin Haji Omar,,male,bumiputera,,,,,BN - UMNO
+9,P042,Pulau Pinang,Tasek Gelugor,Datuk Dr,Ibrahim Bin Saad,,male,bumiputera,,,,,BN - UMNO
+9,P036,Terengganu,Kuala Terengganu,Dato',Abu Bakar Bin Daud,,male,bumiputera,,,,,BN - UMNO
+9,P122,Melaka,Batu Berendam,Datuk,Mohd. Ali Bin Mohd. Rustam,,male,bumiputera,,,,,BN - UMNO
+9,P125,Johor,Segamat,Dato',S. Subramaniam,,,,,,,,BN - MIC
+9,P046,Pulau Pinang,Nibong Tebal,Dr,Goh Cheng Teik,,,,,,,,BN - Gerakan
+9,P058,Perak,Chenderoh,Datuk Haji,Mohamed Nazri Bin Abdul Aziz,,male,bumiputera,,,,,BN - UMNO
+9,P140,Johor,Tebrau,Cik,Siti Zainab @ Zainabon Binti Abu Bakar,,,bumiputera,,,,,BN - UMNO
+9,P033,Terengganu,Besut,Tuan,Idris Bin Jusoh,,male,bumiputera,,,,,BN - UMNO
+9,P099,Selangor,Kapar,Dato',M.Mahalingam,,,,,,,,BN - MIC
+9,P115,Negeri Sembilan,Tampin,Dato',Mohd. Noh Bin Rajab,,male,bumiputera,,,,,BN - UMNO
+9,P177,Sarawak,Betong,Tuan,Douglas Unggah Embas,,male,,,,,,BN - PBB
+9,P170,Sarawak,Padawan,Tuan,Yong Khoon Seng,,male,,,,,,BN - SUPP
+9,P078,Pahang,Kuantan,Dato' Haji,Fauzi Bin Haji Abdul Rahman,,male,bumiputera,,,,,BN - UMNO
+9,P081,Pahang,Maran,Dato' Haji,Mohamad Bin Abdullah,,male,bumiputera,,,,,BN - UMNO
+9,P001,Perlis,Padang Besar,Tuan,Azmi Bin Khalid,,male,bumiputera,,,,,BN - UMNO
+9,P101,Selangor,Kuala Langat,Dr,Shafie Bin Mohd. Salleh,,male,bumiputera,,,,,BN - UMNO
+9,P009,Kedah,Alor Setar,Tuan,Chor Chee Heung,,male,,,,,,BN - MCA
+9,P136,Johor,Tenggara,Tuan,Hishamuddin Bin Tun Hussein,,male,bumiputera,,,,,BN - UMNO
+9,P004,Kedah,Langkawi,Dato',Abu Bakar Bin Taib,,male,bumiputera,,,,,BN - UMNO
+9,P112,Wilayah Perseketuan Kuala Lumpur,Bandar Tun Razak,Tuan,Tan Chai Ho,,male,,,,,,BN - MCA
+9,P164,Sabah,Semporna,Datuk,Mohd. Shafie Bin Haji Apdal,,male,bumiputera,,,,,BN - UMNO
+9,P109,Wilayah Perseketuan Kuala Lumpur,Lembah Pantai,Puan,Shahrizat Binti Abdul Jalil,,female,bumiputera,,,,,BN - UMNO
+9,P088,Selangor,Hulu Selangor,Tuan,G. Palanivel,,male,,,,,,BN - MIC
+9,P145,Wilayah Persekutuan Labuan,Labuan,Tuan,Abdul Mulok Bin Haji Awang Damit,,male,bumiputera,,,,,BN - UMNO
+9,P133,Johor,Muar,Tuan,Abdul Aziz Bin Mohd. Yassin,,male,bumiputera,,,,,BN - UMNO
+9,P037,Terengganu,Marang,Tuan Haji,Abdul Hadi Bin Haji Awang,,male,bumiputera,,,,,APU - PAS
+9,P137,Johor,Sungai Benut,Tuan Haji,Abdul Hamid Bin Abdul Rahman,,male,bumiputera,,,,,BN - UMNO
+9,P054,Perak,Parit Buntar,Tuan Haji,Abdul Rahman Bin Haji Sulaiman,,male,bumiputera,,,,,BN - UMNO
+9,P171,Sarawak,Kota Samarahan,Datuk Patinggi Tan Sri Haji,Abdul Taib Mahmud,,male,bumiputera,,,,,BN - PBB
+9,P075,Pahang,Lipis,Dato Haji,Abu Dahari Bin Osman,,male,bumiputera,,,,,BN - UMNO
+9,P120,Melaka,Alor Gajah,Datuk,Abu Seman Bin Haji Yusoff,,male,bumiputera,,,,,BN - UMNO
+9,P116,Negeri Sembilan,Kuala Pilah,Tuan Haji,Abu Zahar Bin Dato' Nika Ujang,,male,bumiputera,,,,,BN - UMNO
+9,P077,Pahang,Jerantut,Tuan,Ahmad Kamaruzaman Bin Mohamed Baria,,male,bumiputera,,,,,BN - UMNO
+9,P159,Sabah,Beluran,Tuan,Asmat Nungka,,male,,,,,,BN - UMNO
+9,P035,Terengganu,Kuala Nerus,Tuan Haji,Ahmad Rahin Bin Mohd. Said,,male,bumiputera,,,,,BN - UMNO
+9,P072,Perak,Bagan Datok,Datuk,Ahmad Zahid Bin Hamidi,,male,bumiputera,,,,,BN - UMNO
+9,P066,Perak,Parit,Puan,Ainon Khairiyah Binti Mohd. Abas,,female,bumiputera,,,,,BN - UMNO
+9,P160,Sabah,Libaran,Tuan,Akbarkhan Bin Abdul Rahman,,male,bumiputera,,,,,BN - UMNO
+9,P146,Sabah,Marudu,Datu,Amir Kahar Bin Tun Datu Mustapha,,male,bumiputera,,,,,GR - PBS
+9,P012,Kedah,Yan,Tuan Haji,Badruddin Bin Amiruldin,,male,bumiputera,,,,,BN - UMNO
+9,P093,Selangor,Hulu Langat,Tuan,Badrul Hisham Bin Abdul Aziz,,male,bumiputera,,,,,BN - UMNO
+9,P188,Sarawak,Hulu Rajang,Tuan,Billy Abit Joo,,male,,,,,,BN - PBDS
+9,P025,Kelantan,Bachok,Tuan Haji,Buniyamin Bin Yaakob,,male,bumiputera,,,,,APU - PAS
+9,P061,Perak,Ipoh Timur,Tuan,Chang Kon You,,male,,,,,,BN - MCA
+9,P015,Kedah,Sungai Petani,Tuan,Che Ibrahim Bin Mustafa,,male,bumiputera,,,,,BN - UMNO
+9,P047,Pulau Pinang,Bukit Bendera,Tuan,Chia Kwang Chye,,male,,,,,,BN - Gerakan
+9,P189,Sarawak,Bintulu,Tuan,Chiew Chiu Sing,,male,,,,,,GR - DAP
+9,P104,Wilayah Perseketuan Kuala Lumpur,Batu,Datuk,Joseph Chong Chek Ah,,,,,,,,BN - Gerakan > IND
+9,P165,Sabah,Tawau,Puan,Chua Soon Bui,,female,,,,,,BN - SAPP
+9,P014,Kedah,Merbok,Tun,Daim Bin Haji Zainuddin,,male,bumiputera,,,,,BN - UMNO
+9,P082,Pahang,Mentakab,Tuan,Fu Ah Kiow,,male,,,,,,BN - MCA
+9,P134,Johor,Sri Gading,Tuan,Hamzah Bin Ramli,,male,bumiputera,,,,,BN - UMNO
+9,P005,Kedah,Jerlun,Datuk,Hanafi Bin Ramli,,male,bumiputera,,,,,BN - UMNO
+9,P126,Johor,Ledang,Tuan,Hashim Bin Ismail,,male,bumiputera,,,,,BN - UMNO
+9,P156,Sabah,Kinabalu,Tuan,Henrynus Amin,,male,,,,,,GR - PBS
+9,P068,Perak,Kampar,Tuan,Hew See Tong,,male,,,,,,BN - MCA
+9,P062,Perak,Ipoh Barat,Tuan,Ho Cheong Sing,,male,,,,,,BN - MCA
+9,P117,Negeri Sembilan,Seremban,Dato',Hon Choon Kim,,,,,,,,BN - MCA
+9,P130,Johor,Kluang,Tuan,Hoo Seong Chang,,male,,,,,,BN - MCA
+9,P060,Perak,Tambun,Tuan Haji,Husni Bin Hanadzlah,,male,bumiputera,,,,,BN - UMNO
+9,P031,Kelantan,Kuala Krai,Tuan Haji,Ibrahim Bin Mahmood,,male,bumiputera,,,,,APU - PAS
+9,P027,Kelantan,Tanah Merah,Tuan,Ibrahim Bin Pateh Mohamad,,male,bumiputera,,,,,APU - S46
+9,P021,Kelantan,Kota Baharu,Tuan Hajah,Ilani Binti Dato' Haji Isahak,,female,bumiputera,,,,,APU - S46
+9,P191,Sarawak,Baram,Tuan,Jacob Dungau Sagan,,male,,,,,,BN - SNAP
+9,P085,Pahang,Rompin,Dato' Dr Haji,Jamaluddin Bin Haji Mohd. Jarjis,,male,bumiputera,,,,,BN - UMNO
+9,P187,Sarawak,Kapit,Tuan,James Jimbun Anak Pungga,,male,bumiputera,,,,,BN - PBB
+9,P176,Sarawak,Lubok Antu,Tuan,Jawah Anak Gerang,,male,bumiputera,,,,,BN - PBDS
+9,P175,Sarawak,Sri Aman,Tuan,Jimmy Lim @ Jimmy Donald,,male,,,,,,BN - PBDS
+9,P186,Sarawak,Selangau,,Joseph Mauh Anak Ikeh,,,bumiputera,,,,,BN - PBDS
+9,P157,Sabah,Keningau,Datuk,Joseph Pairin Kitingan,,,,,,,,GR - PBS
+9,P105,Wilayah Perseketuan Kuala Lumpur,Wangsa Maju,Dato' Dr,Kamal Bin Salleh,,male,bumiputera,,,,,BN - UMNO
+9,P003,Perlis,Arau,Tuan,Kamarudin Bin Ahmad,,male,bumiputera,,,,,BN - UMNO
+9,P049,Pulau Pinang,Jelutong,Tuan,R. Karpal Singh,,male,indian,,,,,GR - DAP
+9,P119,Negeri Sembilan,Telok Kemang,Dr,L.Krishnan,,,,,,,,BN - MIC
+9,P161,Sabah,Sandakan,Tuan,Lau Ngan Siew,,male,,,,,,BN - LDP
+9,P099,Selangor,Kapar,Dr.,G. Leelavathi,,,,,,,,BN - MIC
+9,P110,Wilayah Perseketuan Kuala Lumpur,Seputeh,Tuan,Liew Ah Kim,,male,,,,,,GR - DAP
+9,P123,Melaka,Kota Melaka,Tuan,Lim Guan Eng,,male,,,,,,GR - DAP
+9,P048,Pulau Pinang,Tanjong,Tuan,Lim Kit Siang,,male,,,,,,GR - DAP
+9,P094,Selangor,Petaling Jaya Utara,Tuan,Vincent Lim Kuo Phau,,male,,,,,,BN - MCA
+9,P017,Kedah,Padang Serai,Tuan,Lim Lay Hoon,,male,,,,,,BN - MCA
+9,P138,Johor,Senai,Tuan,Lim Si Cheng,,male,,,,,,BN - MCA
+9,P095,Selangor,Petaling Jaya Selatan,Tuan,Lim Siang Chai,,male,,,,,,BN - MCA
+9,P086,Selangor,Sabak Bernam,Tuan Haji,Mahbud Bin Haji Hashim,,male,bumiputera,,,,,BN - UMNO
+9,P135,Johor,Batu Pahat,Tuan,Mansor Bin Masikon,,male,bumiputera,,,,,BN - UMNO
+9,P147,Sabah,Bandau,Dr,Maximus Johnity Ongkili,,,,,,,,GR - PBS
+9,P002,Perlis,Kangar,Tuan,Md. Isa Bin Sabu,,male,bumiputera,,,,,BN - UMNO
+9,P192,Sarawak,Bukit Mas,Tuan,Michael Lisa Kaya,,male,,,,,,BN - PBB
+9,P024,Kelantan,Kubang Kerian,Tuan Haji,Mohamad Bin Sabu,,male,bumiputera,,,,,APU - PAS
+9,P028,Kelantan,Pasir Puteh,Tuan Haji,Mohamed Bin Haji Abdullah,,male,bumiputera,,,,,APU - S46
+9,P141,Johor,Johor Baru,Tuan,Mohamed Khaled Bin Nordin,,male,bumiputera,,,,,BN - UMNO
+9,P020,Kelantan,Pengkalan Chepa,Tuan Haji,Nik Mohd. Amar Bin Haji Nik Abdullah,,male,bumiputera,,,,,APU - PAS
+9,P053,Perak,Larut,Dato' Haji,Mohd. Zihin Bin Haji Mohd. Hassan,,male,bumiputera,,,,,BN - UMNO
+9,P039,Terengganu,Dungun,Tuan,Mokhtaruddin Bin Wan Yusof,,male,bumiputera,,,,,BN - UMNO
+9,P038,Terengganu,Hulu Terengganu,Tuan Haji,Mustafa Bin Muda,,male,bumiputera,,,,,BN - UMNO
+9,P087,Selangor,Tanjong Karang,Tuan,Noh Bin Omar,,male,bumiputera,,,,,BN - UMNO
+9,P051,Pulau Pinang,Balik Pulau,Dr.,Nungsari Bin Ahmad Radhi,,male,bumiputera,,,,,BN - UMNO
+9,P154,Sabah,Beaufort,Datuk,Nurnikman Bin Abdullah,,male,bumiputera,,,,,BN - UMNO
+9,P073,Perak,Teluk Intan,Tuan,Ong Tin Kim,,male,,,,,,BN - Gerakan
+9,P011,Kedah,Pendang,Tuan,Othman Bin Abdul,,male,bumiputera,,,,,BN - UMNO
+9,P166,Sarawak,Mas Gading,Dr.,Patau Rubis,,,,,,,,BN - SNAP
+9,P043,Pulau Pinang,Bagan,Tuan,P.Patto,,male,,,,,,GR - DAP
+9,P152,Sabah,Penampang,Tuan,Paul Noutin,,male,,,,,,GR - PBS
+9,P150,Sabah,Gaya,Tuan,Philip Yong Chew Lip,,male,,,,,,BN - SAPP
+9,P055,Perak,Bagan Serai,Dato' Haji,Qamaruz Zaman Bin Haji Ismail,,male,bumiputera,,,,,BN - UMNO
+9,P158,Sabah,Tenom,Tuan,Raden Malleh,,male,,,,,,GR - PBS
+9,P040,Terengganu,Kemaman,Dr,Ramli Bin Taib,,male,bumiputera,,,,,BN - UMNO
+9,P172,Sarawak,Serian,Tuan,Richard Riot Anak Jaem,,male,bumiputera,,,,,BN - SUPP
+9,P184,Sarawak,Sibu,Tuan,Robert Lau Hoi Chew,,male,,,,,,BN - SUPP
+9,P167,Sarawak,Santubong,Puan,Rohani Binti Abd. Karim,,female,bumiputera,,,,,BN - PBB
+9,P131,Johor,Parit Sulung,Tuan,Ruhanie Bin Haji Ahmad,,male,bumiputera,,,,,BN - UMNO
+9,P098,Selangor,Shah Alam,Tuan,Salamon Bin Selamat,,male,bumiputera,,,,,BN - UMNO
+9,P148,Sabah,Kota Belud,Datuk,Salleh Bin Tun Said,,male,bumiputera,,,,,BN - UMNO
+9,P023,Kelantan,Rantau Panjang,Dr,Sanusi Bin Daeng Mariok,,male,bumiputera,,,,,APU - PAS
+9,P102,Selangor,Sepang,Puan,Seripah Noli Binti Syed Hussin,,female,bumiputera,,,,,BN - UMNO
+9,P181,Sarawak,Julau,Datuk,S'ng Chee Hua,,,,,,,,BN - SUPP
+9,P169,Sarawak,Bandar Kuching,Datuk,Song Swee Guan,,,,,,,,BN - SUPP
+9,P173,Sarawak,Batang Sadong,Puan,Sukinam Domo,,female,,,,,,BN - PBB
+9,P029,Kelantan,Machang,Dato' Haji,Sukri Bin Haji Mohamed,,male,bumiputera,,,,,APU - S46
+9,P045,Pulau Pinang,Bukit Mertajam,Dr,Tan Chong Keng,,,,,,,,BN - MCA
+9,P106,Wilayah Perseketuan Kuala Lumpur,Segambut,Dr,Tan Kee Kwong,,,,,,,,BN - Gerakan
+9,P111,Wilayah Perseketuan Kuala Lumpur,Cheras,Tuan,Tan Kok Wai,,male,,,,,,GR - DAP
+9,P103,Wilayah Perseketuan Kuala Lumpur,Kepong,Dr,Tan Seng Giaw,,,,,,,,GR - DAP
+9,P100,Selangor,Kelang,Dr,Tan Yee Kewangan,,,,,,,,BN - MCA
+9,P032,Kelantan,Gua Musang,Tuan Tengku Tan Sri,Razaleigh Hamzah,,male,,,,,,APU - S46
+9,P183,Sarawak,Lanang,Tuan,Tiong Thai King,,male,,,,,,BN - SUPP
+9,P143,Johor,Gelang Patah,Tuan,Tue Si @ Chang See Tan,,male,,,,,,BN - MCA
+9,P008,Kedah,Pokok Sena,Tuan,Wan Hanafiah Bin Wan Mat Saman,,male,bumiputera,,,,,BN - UMNO
+9,P174,Sarawak,Batang Lupar,Tuan,Wan Junaidi Bin Tuanku Jaafar,,male,bumiputera,,,,,BN - PBB
+9,P019,Kelantan,Tumpat,Tuan Haji,Wan Mohd. Jamil Bin Wan Mahmood,,male,bumiputera,,,,,APU - PAS
+9,P108,Wilayah Perseketuan Kuala Lumpur,Bukit Bintang,Tuan,Wee Choo Keong,,male,,,,,,GR - DAP
+9,P050,Pulau Pinang,Bayan Baru,Tuan,Wong Kam Hoong,,male,,,,,,BN - MCA
+9,P096,Selangor,Serdang,Dato',Yap Pian Hon,,,,,,,,BN - MCA
+9,P071,Perak,Lumut,Dr.,Yap Yit Thong,,,,,,,,BN - MCA
+9,P151,Sabah,Tanjong Aru,Dr.,Yee Moh Chai,,,,,,,,GR - PBS
+9,P063,Perak,Batu Gajah,Dr.,Yeong Chee Wah,,,,,,,,BN - MCA
+9,P149,Sabah,Tuaran,Tuan,Yunof Edward Maringking,,male,,,,,,GR - PBS
+9,P113,Negeri Sembilan,Jelebu,Tuan,Yunus Bin Rahmat,,male,bumiputera,,,,,BN - UMNO
+9,P155,Sabah,Sipitang,Dr. Haji,Yusof Bin Haji Yacob,,male,bumiputera,,,,,BN - UMNO
+9,P129,Johor,Mersing,Tuan,Zainal Abidin Bin Osman,,male,bumiputera,,,,,BN - UMNO
+9,P022,Kelantan,Pasir Mas,Tuan,Zainuddin Bin Mohamad Nor,,male,bumiputera,,,,,APU - S46
+9,P010,Kedah,Kuala Kedah,Dato' Haji,Zakaria Bin Mohd Said,,male,bumiputera,,,,,BN - UMNO
+9,P108,Wilayah Perseketuan Kuala Lumpur,Bukit Bintang,Dr.,Lee Chong Meng,,,,,,,,GR - DAP
+9,,,Gua Musang(mulai 4 September 1995),Tengku,Razaleigh Hamzah,,,,,,,,
+9,P043,Pulau Pinang,Bagan,Tuan,Lim Hock Seng,,male,,,,,,GR - DAP
+9,P075,Pahang,Lipis,Tuan,Amihamzah bin Ahmad,,male,bumiputera,,,,,BN - UMNO
+9,P073,Perak,Teluk Intan,Tuan,M. Kulasegaran,,male,,,,,,BN - Gerakan
+9,P089,Selangor,Kuala Selangor,Dato',Jamaluddin bin Adnan,,male,bumiputera,,,,,BN - UMNO
+10,,,,Tun Dato' Seri (Dr),Mohamed Zahir Bin Haji Ismail,,male,bumiputera,,,Yang Dipertua Dewan Rakyat,,
+10,P006,Kedah,Kubang Pasu,Y.A.B. Dato Seri Dr.,Mahathir Bin Mohamad,,male,bumiputera,,Perdana Menteri,,,BN - UMNO
+10,P041,Pulau Pinang,Kepala Batas,Y.A.B Dato' Seri,Abdullah Bin Haji Ahmad Badawi,,male,bumiputera,,Timbalan Perdana Menteri,,,BN - UMNO
+10,P128,Johor,Labis,Dato' Seri Dr.,Ling Liong Sik,,,,,,,,BN - MCA
+10,P059,Perak,Sungai Siput,Dato' Seri,S.Samy Vellu,,,,,,,,BN - MIC
+10,P065,Perak,Beruas,Dato' Seri Dr.,Lim Keng Yaik,,,,,,,,BN - Gerakan
+10,P014,Kedah,Merbok,Tun Dato',Daim Zainuddin,,,,,,,,BN - UMNO
+10,P183,Sarawak,Kanowit,Datuk Amar,Leo Moggie anak Irok,,,bumiputera,,,,,BN - PRS
+10,P064,Perak,Kuala Kangsar,Dato' Seri,Rafidah Aziz,,,,,,,,BN - UMNO
+10,P080,Pahang,Pekan,Dato' Sri Haji,Mohd Najib Bin Tun Haji Abdul Razak,,male,bumiputera,,,,,BN - UMNO
+10,P181,Sarawak,Sarikei,Datuk,Law Hieng Ding,,,,,,,,BN - SUPP
+10,P139,Johor,Kota Tinggi,Datuk Seri Panglima,Syed Hamid Bin Syed Jaafar Albar,,male,bumiputera,,,,,BN - UMNO
+10,P127,Johor,Pagoh,Tan Sri Dato' Haji,Muhyddin Bin Haji Mohd. Yassin,,male,bumiputera,,,,,BN - UMNO
+10,P132,Johor,Bakri,Datuk,Chua Jui Meng,,,,,,,,BN - MCA
+10,P079,Pahang,Paya Besar,Dato' Dr,Siti Zaharah Binti Sulaiman,,female,bumiputera,,,,,BN - UMNO
+10,P078,Pahang,Kuantan,Tan Sri Dato' Seri,Mohd Khalil Bin Yaakob,,male,bumiputera,,,,,BN - UMNO
+10,P018,Kedah,Kulim,Datuk,Abdul Kadir Bin Haji Sheikh Fadzir,,male,bumiputera,,,,,BN - UMNO
+10,P121,Melaka,Selandar,Datuk Dr,Fong Chan Onn,,,,,,,,BN - MCA
+10,P144,Johor,Pontian,Dato',Ong Ka Ting,,,,,,,,BN - MCA
+10,P058,Perak,Chenderoh,Dato Haji,Mohamed Nazri Bin Tan Sri Abd. Aziz,,male,bumiputera,,,,,BN - UMNO
+10,P001,Perlis,Padang Besar,Dato' Haji,Azmi Bin Khalid,,male,bumiputera,,,,,BN - UMNO
+10,P136,Johor,Tenggara,Dato',Hishamuddin Bin Tun Hussein,,male,bumiputera,,,,,BN - UMNO
+10,P156,Sabah,Kinabalu,Tan Sri,Bernard Giluk Dompok,,,,,,,,BN - UPKO
+10,P113,Negeri Sembilan,Jelebu,Dato' Dr.,Rais Bin Yatim,,male,bumiputera,,,,,BN - UMNO
+10,P180,Sarawak,Kuala Rajang,Datuk,Mohd. Effendi Bin Norwawi,,male,bumiputera,,,,,BN - PBB
+10,,,,Senator Tan Sri Datuk,Kasitah Bin Gaddam,,male,bumiputera,,,,,
+10,,,,Senator Tan Sri Dato' Seri,Musa Bin Mohamed,,male,bumiputera,,,,,
+10,P054,Perak,Parit Buntar,Senator Brig. Jen (B) Datuk Seri,Abdul Hamid Bin Haji Zainal Abidin,,male,bumiputera,,,,,BA - PAS
+10,,,,Senator Datuk Tengku,Adnan Bin Tengku Mansor,,male,bumiputera,,,,,
+10,P081,Pahang,Maran,Dato' Haji,Muhamad bin Abdullah,,male,bumiputera,,,Timbalan Yang Dipertua Dewan Rakyat,,BN - UMNO
+10,P138,Johor,Senai,Datuk,Lim Si Cheng,,,,,,Timbalan Yang Dipertua Dewan Rakyat,,BN - MCA
+10,P114,Negeri Sembilan,Jempol,Dato' Haji,Mohd. Khalid Bin Mohd. Yunus,,male,bumiputera,,,,,BN - UMNO
+10,P186,Sarawak,Mukah,Datuk Dr.,Leo Michael Toyad,,,,,,,,BN - PBB
+10,P107,Federal Territory of Kuala Lumpur,Titiwangsa,Dato',Drs. Suleiman bin Mohamed,,male,bumiputera,,,,,BN - UMNO
+10,P191,Sarawak,Miri,Datuk,Peter Chin Fah Kui,,,,,,,,BN - SUPP
+10,P057,Perak,Taiping,Dato',Kerk Choo Ting,,,,,,,,BN - Gerakan
+10,P090,Selangor,Selayang,Dato',Chan Kong Choy,,,,,,,,BN - MCA
+10,P125,Johor,Segamat,Dato',S. Subramaniam,,,,,,,,BN - MIC
+10,P164,Sabah,Semporna,Datuk,Mohd Shafie Bin Haji Apdal,,male,bumiputera,,,,,BN - UMNO
+10,P178,Sarawak,Betong,Datuk,Douglas Unggah Embas,,,,,,,,BN - PBB
+10,P101,Selangor,Kuala Langat,Dato' Dr Haji,Shafie Bin Haji Mohd. Salleh,,male,bumiputera,,,,,BN - UMNO
+10,P009,Kedah,Alor Setar,Dato',Chor Chee Heung,,,,,,,,BN - MCA
+10,P112,Federal Territory of Kuala Lumpur,Bandar Tun Razak,Datuk,Tan Chai Ho,,,,,,,,BN - MCA
+10,P109,Federal Territory of Kuala Lumpur,Lembah Pantai,Dato' Hajah,Shahrizat Binti Abdul Jalil,,female,bumiputera,,,,,BN - UMNO
+10,P088,Selangor,Hulu Selangor,Dato',G. Palanivel,,,,,,,,BN - MIC
+10,P092,Selangor,Ampang Jaya,Datuk Ir.,Ong Tee Keat,,,,,,,,BN - MCA
+10,P070,Perak,Pasir Salak,Tan Sri,Ramli Bin Ngah Talib,,male,bumiputera,,,,,BN - UMNO
+10,P086,Selangor,Sabak Bernam,Datuk Haji,Zainal Bin Dahalan,,male,bumiputera,,,,,BN - UMNO
+10,P055,Perak,Bagan Serai,Dato',Zainal Abidin Bin Zin,,male,bumiputera,,,,,BN - UMNO
+10,P077,Pahang,Jerantut,Tengku Dato' Seri,Azlan Ibni Sultan Abu Bakar,,,,,,,,BN - UMNO
+10,P141,Johor,Johor Baru,Tuan,Mohamed Khaled Bin Haji Nordin,,male,bumiputera,,,,,BN - UMNO
+10,P154,Sabah,Beaufort,Datuk,Anifah Aman @ Haniff Amman,,,,,,,,BN - UMNO
+10,P106,Federal Territory of Kuala Lumpur,Segambut,Dr.,Tan Kee Kwong,,,,,,,,BN - Gerakan
+10,P166,Sarawak,Mas Gading,Dr.,Tiki anak Lafe,,,bumiputera,,,,,BN - SPDP
+10,P076,Pahang,Raub,Dato' Dr.,Ng Yen Yen,,,,,,,,BN - MCA
+10,P129,Johor,Mersing,Dr.,Abdul Latiff Bin Ahmad,,male,bumiputera,,,,,BN - UMNO
+10,P117,Negeri Sembilan,Seremban,Dato',Hon Choon Kim,,,,,,,,BN - MCA
+10,P004,Kedah,Langkawi,Dato',Abu Bakar Bin Taib,,male,bumiputera,,,,,BN - UMNO
+10,P124,Melaka,Jasin,Datuk Seri,Abu Zahar Bin Haji Isnin,,male,bumiputera,,,,,BN - UMNO
+10,P052,Perak,Gerik,Puan,Kamsiyah Binti Yeop,,female,bumiputera,,,,,BN - UMNO
+10,P087,Selangor,Tanjong Karang,Tuan Haji,Noh Bin Haji Omar,,male,bumiputera,,,,,BN - UMNO
+10,P095,Selangor,Petaling Jaya Selatan,Tuan Ir.,Donald Lim Siang Chai,,male,,,,,,BN - MCA
+10,P170,Sarawak,Stampin,Tuan,Yong Khoon Seng,,,,,,,,BN - SUPP
+10,P126,Johor,Ledang,Tuan,Hashim Bin Ismail,,male,bumiputera,,,,,BN - UMNO
+10,P047,Pulau Pinang,Bukit Bendera,Tuan,Chia Kwang Chye,,male,,,,,,BN - Gerakan
+10,P050,Pulau Pinang,Bayan Baru,Tuan,Wong Kam Hoong,,male,,,,,,BN - MCA
+10,P119,Negeri Sembilan,Telok Kemang,Tuan,S. Anpalagan A/L Sami Reddy,,male,indian,,,,,BN - MIC
+10,P133,Johor,Muar,Dr.,Robia Binti Dato' Kosai,,female,bumiputera,,,,,BN - UMNO
+10,P069,Perak,Tapah,Tuan,P. Veerasingam A/L Suppiah,,male,indian,,,,,BN - MIC
+10,P158,Sabah,Tenom,Tuan,Rizalman @ Sumen Bin Abdullah,,male,bumiputera,,,,,BN - UMNO
+10,P167,Sarawak,Santubong,Puan Hajah,Rohani Binti Haji Abd. Karim,,female,bumiputera,,,,,BN - PBB
+10,P015,Kedah,Sungai Petani,Dato',Mahadzir Bin Mohd. Khir,,male,bumiputera,,,,,BN - UMNO
+10,P122,Melaka,Batu Berendam,Tun,Abdul Ghafar Bin Baba,,male,bumiputera,,,,,BN - UMNO
+10,P037,Terengganu,Marang,Tuan Haji,Abdul Hadi Bin Haji Awang,,male,bumiputera,,,,,BA - PAS
+10,P137,Johor,Sungai Benut,Tuan Haji,Abdul Hamid Bin Abdul Rahman,,male,bumiputera,,,,,BN - UMNO
+10,P002,Perlis,Kangar,Tan Sri Dr.,Abdul Hamid Bin Pawanteh,,male,bumiputera,,,,,BN - UMNO
+10,P142,Johor,Pulai,Datuk,Abdul Kadir Bin Annuar,,male,bumiputera,,,,,BN - UMNO
+10,P129,Johor,Mersing,Dr.,Abdul Latiff Bin Ahmad,,male,bumiputera,,,,,BN - UMNO
+10,P040,Terengganu,Kemaman,Tuan,Abdul Rahman Bin Yusof,,male,bumiputera,,,,,BA - KeADILan
+10,P171,Sarawak,Kota Samarahan,Tan Sri Datuk Patinggi Haji,Abdul Taib Mahmud,,male,bumiputera,,,,,BN - PBB
+10,P056,Perak,Bukit Gantang,Dato' Dr.,Abdullah Fadzil Bin Che Wan,,male,bumiputera,,,,,BN - UMNO
+10,P005,Kedah,Jerlun,Dr.,Abu Bakar Bin Othman,,male,bumiputera,,,,,BA - PAS
+10,P120,Melaka,Alor Gajah,Datuk Wira,Abu Seman Bin Haji Yusof,,male,bumiputera,,,,,BN - UMNO
+10,P060,Perak,Tambun,Tuan Haji,Ahmad Husni Bin Mohd. Hanadzlah,,male,bumiputera,,,,,BN - UMNO
+10,P072,Perak,Bagan Datoh,Datuk,Ahmad Zahid Bin Hamidi,,male,bumiputera,,,,,BN - UMNO
+10,P188,Sarawak,Kapit,Tuan,Alexander Nanta Linggi,,male,,,,,,BN - PBB
+10,P028,Kelantan,Pasir Puteh,Tuan,Alwi Bin Jusoh,,male,bumiputera,,,,,BA - PAS
+10,P075,Pahang,Lipis,Tuan Haji,Amihamzah Bin Ahmad,,male,bumiputera,,,,,BN - UMNO
+10,P146,Sabah,Marudu,Datu,Amirkahar Bin Tun Datu Haji Mustapha,,male,bumiputera,,,,,BN - UMNO
+10,P093,Selangor,Hulu Langat,Tuan Haji,Badrul Hisham Bin Abdul Aziz,,male,bumiputera,,,,,BN - UMNO
+10,P143,Johor,Gelang Patah,Tuan,Chang See Ten,,male,,,,,,BN - MCA
+10,P034,Terengganu,Setiu,Tuan Haji,Che Ghani Bin Ambak,,male,bumiputera,,,,,BA - PAS
+10,P094,Selangor,Petaling Jaya,Puan,Chew Mei Fun,,female,,,,,,BN - MCA
+10,P045,Pulau Pinang,Bukit Mertajam,Puan,Chong Eng,,female,,,,,,BA - DAP
+10,P048,Pulau Pinang,Tanjong,Tuan,Chow Kon Yeow,,male,,,,,,BA - DAP
+10,P011,Kedah,Pendang,Datuk,Fadzil Bin Md. Noor,,male,bumiputera,,,,,BA - PAS
+10,P108,Federal Territory of Kuala Lumpur,Bukit Bintang,Tuan,Fong Kui Lun,,male,,,,,,BA - DAP
+10,P063,Perak,Batu Gajah,Puan,Fong Po Kuan,,female,,,,,,BA - DAP
+10,P082,Pahang,Mentakab,Tuan,Fu Ah Kiow,,male,,,,,,BN - MCA
+10,P046,Pulau Pinang,Nibong Tebal,Tuan,Goh Kheng Huat,,male,,,,,,BA - DAP
+10,P118,Negeri Sembilan,Rasah,Datuk,Goh Siow Huat,,,,,,,,BN - MCA
+10,P054,Perak,Parit Buntar,Dato' Dr.,Hasan Bin Ali,,male,bumiputera,,,,,BA - PAS
+10,P033,Terengganu,Besut,Tuan,Hassan Bin Mohamed,,male,bumiputera,,,,,BA - PAS
+10,P193,Sarawak,Bukit Mas,Tuan,Henry Sum Agong,,male,,,,,,BN - PBB
+10,P068,Perak,Kampar,Dato',Hew See Tong,,,,,,,,BN - MCA
+10,P062,Perak,Ipoh Barat,Tuan,Ho Cheong Sing,,male,,,,,,BN - MCA
+10,P130,Johor,Kluang,Tuan,Hoo Seong Chang,,male,,,,,,BN - MCA
+10,P024,Kelantan,Kubang Kerian,Tuan Haji,Husam Bin Haji Musa,,male,bumiputera,,,,,BA - PAS
+10,P022,Kelantan,Pasir Mas,Tuan Haji,Ismail Bin Noh,,male,bumiputera,,,,,BA - PAS
+10,P192,Sarawak,Baram,Tuan,Jacob Dungau Sagan,,male,,,,,,BN - SPDP
+10,P089,Selangor,Kuala Selangor,Tuan,Sayuti bin Mohamed Said,,male,bumiputera,,,,,BN - UMNO
+10,P085,Pahang,Rompin,Dato' Dr Haji,Jamaluddin Bin Dato' Mohd. Jarjis,,male,bumiputera,,,,,BN - UMNO
+10,P172,Sarawak,Mambong,Dr.,James Dawos Mamit,,,,,,,,BN - PBB
+10,P177,Sarawak,Lubok Antu,Tuan,Jawah anak Gerang,,male,bumiputera,,,,,BN - PRS
+10,P176,Sarawak,Sri Aman,Tuan,Jimmy Donald,,male,,,,,,BN - PRS
+10,P187,Sarawak,Selangau,Tuan,Joseph Mauh anak Ikeh,,male,bumiputera,,,,,BN - PRS
+10,P157,Sabah,Keningau,Datuk Seri Panglima,Joseph Pairin Kitingan,,,,,,,,PBS
+10,P182,Sarawak,Julau,Tuan,Joseph Salang anak Gandum,,male,bumiputera,,,,,BN - PRS
+10,P160,Sabah,Libaran,Tuan,Juslie Bin Ajirol,,male,bumiputera,,,,,BN - UMNO
+10,P019,Kelantan,Tumpat,Dato' Haji,Kamarudin Bin Jaaffar,,male,bumiputera,,,,,BA - PAS
+10,P097,Selangor,Subang,Tan Sri Dato' Dr,K.S Nijhar,,,,,,,,BN - MIC
+10,P123,Melaka,Kota Melaka,Tuan,Kerk Kim Hock,,male,,,,,,BA - DAP
+10,P099,Selangor,Kapar,Puan,Komala Devi A/P M. Perumal,,female,indian,,,,,BN - MIC
+10,P071,Perak,Lumut,Tuan,Kong Cho Ha,,male,,,,,,BN - MCA
+10,P161,Sabah,Sandakan,Datuk,Lau Ngan Siew,,,,,,,,BN - LDP
+10,P049,Pulau Pinang,Jelutong,Tuan,Lee Kah Choon,,male,,,,,,BN - Gerakan
+10,P017,Kedah,Padang Serai,Puan,Lim Bee Kau,,female,,,,,,BN - MCA
+10,P043,Pulau Pinang,Bagan,Tuan,Lim Hock Seng,,male,,,,,,BA - DAP
+10,P095,Selangor,Petaling Jaya Selatan,Ir.,Lim Siang Chai,,,,,,,,BN - MCA
+10,P083,Pahang,Bentong,Tuan,Liow Tiong Lai,,male,,,,,,BN - MCA
+10,P074,Perak,Tanjong Malim,Dato',Loke Yuen Yow,,,,,,,,BN - MCA
+10,P035,Terengganu,Kuala Nerus,Tuan,M. Shukrimum Bin Shamsudin,,male,bumiputera,,,,,BA - PAS
+10,P149,Sabah,Tuaran,Tuan,Madius Bin Tangau,,male,bumiputera,,,,,BN - UPKO
+10,P073,Perak,Teluk Intan,Tuan,Mah Siew Keong,,male,,,,,,BN - Gerakan
+10,P008,Kedah,Pokok Sena,Tuan,Mahfuz Bin Omar,,male,bumiputera,,,,,BA - PAS
+10,P003,Perlis,Arau,Puan Hajah,Mastika Junaidah Binti Husin,,female,bumiputera,,,,,BN - UMNO
+10,P066,Perak,Parit,Tuan Haji,Mat Basir Bin Rahmat,,male,bumiputera,,,,,BA - PAS
+10,P147,Sabah,Bandau,Dr.,Maximus Johnity Ongkili,,,,,,,,PBS
+10,P134,Johor,Sri Gading,Datuk,Mohamad bin Haji Aziz,,male,bumiputera,,,,,BN - UMNO
+10,P010,Kedah,Kuala Kedah,Tuan,Mohamad Bin Sabu,,male,bumiputera,,,,,BA - PAS
+10,P031,Kelantan,Kuala Krai,Tuan,Mohamed Nasir Bin Che Daud,,male,bumiputera,,,,,BA - PAS
+10,P140,Johor,Tebrau,Datuk,Mohd. Ali Bin Hassan,,male,bumiputera,,,,,BN - UMNO
+10,P030,Kelantan,Jeli,Tuan,Mohd. Apandi Bin Haji Mohamad,,male,bumiputera,,,,,BA - PAS
+10,P148,Sabah,Kota Belud,Datuk Seri Panglima,Mohd. Salleh Bin Tun Md. Said Keruak,,male,bumiputera,,,,,BN - UMNO
+10,P084,Pahang,Temerloh,Datuk,Mohd. Sarit Bin Haji Yusoh,,male,bumiputera,,,,,BN - UMNO
+10,P029,Kelantan,Machang,Tuan,Mohd Yusoff @ Yusoff Bin Mohd. Nor,,male,bumiputera,,,,,BA - PAS
+10,P051,Pulau Pinang,Balik Pulau,Datuk,Mohd Zain Bin Omar,,male,bumiputera,,,,,BN - UMNO
+10,P098,Selangor,Shah Alam,Tuan,Mohd. Zin Bin Mohamed,,male,bumiputera,,,,,BN - UMNO
+10,P162,Sabah,Kinabatangan,Tuan,Moktar Bin Radin,,male,bumiputera,,,,,BN - UMNO
+10,P026,Kelantan,Peringat,Tuan,Muhammad Bin Mustafa,,male,bumiputera,,,,,BA - KeADILan
+10,P038,Terengganu,Hulu Terengganu,Tuan,Muhyidin Bin Haji Abdul Rashid,,male,bumiputera,,,,,BA - PAS
+10,P039,Terengganu,Dungun,Tuan,Mustafa Bin Ali,,male,bumiputera,,,,,BA - PAS
+10,P116,Negeri Sembilan,Kuala Pilah,Datuk,Napsiah Binti Omar,,female,bumiputera,,,,,BN - UMNO
+10,P012,Kedah,Yan,Tuan,Nasharudin Bin Mat Isa,,male,bumiputera,,,,,BA - PAS
+10,P104,Federal Territory of Kuala Lumpur,Batu,Tuan,Ng Lip Yong @ Ng Lip Sat,,male,,,,,,BN - Gerakan
+10,P020,Kelantan,Pengkalan Chepa,Tuan Haji,Nik Mohd. Amar Bin Haji Nik Abdullah,,male,bumiputera,,,,,BA - PAS
+10,P153,Sabah,Papar,Datuk,Osu Bin Haji Sukam,,male,bumiputera,,,,,BN - UMNO
+10,P179,Sarawak,Saratok,Datuk,Peter Tinggom Anak Kamarau,,,bumiputera,,,,,BN - SNAP
+10,P152,Sabah,Penampang,Tuan,Philip Benedict Lasimbang,,male,,,,,,BN - UPKO
+10,P163,Sabah,Silam,Datuk,Railey Bin Haji Jeffrey,,male,bumiputera,,,,,BN - UMNO
+10,P053,Perak,Larut,Raja Datuk,Ahmad Zainuddin Bin Raja Haji Omar,,male,bumiputera,,,,,BN - UMNO
+10,P021,Kelantan,Kota Baharu,Tuan,Ramli Bin Ibrahim,,male,bumiputera,,,,,BA - KeADILan
+10,P032,Kelantan,Gua Musang,Tengku,Razaleigh Bin Hamzah,,male,bumiputera,,,,,BN - UMNO
+10,P173,Sarawak,Serian,Tuan,Richard Riot anak Jaem,,male,bumiputera,,,,,BN - SUPP
+10,P185,Sarawak,Sibu,Tuan,Robert Lau Hoi Chew,,male,,,,,,BN - SUPP
+10,P159,Sabah,Beluran,Tuan,Ronald Kiandee,,male,,,,,,BN - UMNO
+10,P131,Johor,Parit Sulung,Datuk,Ruhanie Bin Haji Ahmad,,male,bumiputera,,,,,BN - UMNO
+10,P027,Kelantan,Tanah Merah,Tuan,Saupi Bin Daud,,male,bumiputera,,,,,BA - KeADILan
+10,P102,Selangor,Sepang,Puan,Seripah Noli Binti Syed Hussin,,female,bumiputera,,,,,BN - UMNO
+10,P013,Kedah,Sik,Prof. Dato' Haji,Shahnon Bin Ahmad,,male,bumiputera,,,,,BA - PAS
+10,P115,Negeri Sembilan,Tampin,Tuan,Shaziman Bin Abu Mansor,,male,bumiputera,,,,,BN - UMNO
+10,P165,Sabah,Tawau,Tuan,Shim Paw Fatt,,male,,,,,,BN - SAPP
+10,P135,Johor,Batu Pahat,Tuan,Siam Bin Kasrin,,male,bumiputera,,,,,BN - UMNO
+10,P169,Sarawak,Bandar Kuching,Datuk,Song Swee Guan,,,,,,,,BN - SUPP
+10,P145,Federal Territory of Labuan,Labuan,Datuk,Suhaili Bin Abdul Rahman,,male,bumiputera,,,,,BN - UMNO
+10,P174,Sarawak,Batang Sadong,Puan,Sukinam Domo,,female,,,,,,BN - PBB
+10,P168,Sarawak,Petra Jaya,Datuk Seri Amar Dr Haji,Sulaiman Bin Haji Daud,,male,bumiputera,,,,,BN - PBB
+10,P036,Terengganu,Kuala Terengganu,Dr,Syed Azman Bin Syed Ahmad Nawawi,,male,bumiputera,,,,,BA - PAS
+10,P016,Kedah,Baling,Tuan,Taib Azzamudden Bin Md. Taib,,male,bumiputera,,,,,BA - PAS
+10,P111,Federal Territory of Kuala Lumpur,Cheras,Tuan,Tan Kok Wai,,male,,,,,,BA - DAP
+10,P103,Federal Territory of Kuala Lumpur,Kepong,Dr,Tan Seng Giaw,,,,,,,,BA - DAP
+10,P100,Selangor,Klang,Dr.,Tan Yee Kew,,,,,,,,BN - MCA
+10,P110,Federal Territory of Kuala Lumpur,Seputeh,Puan,Teresa Kok Suh Sim,,female,,,,,,BA - DAP
+10,P061,Perak,Ipoh Timur,Tuan,Thong Fah Chong,,male,,,,,,BN - MCA
+10,P067,Perak,Gopeng,Dato' Dr,Ting Chew Peh,,,,,,,,BN - MCA
+10,P190,Sarawak,Bintulu,Datuk,Tiong King Sing,,,,,,,,BN - SPDP
+10,P184,Sarawak,Lanang,Tuan,Tiong Thai King,,male,,,,,,BN - SUPP
+10,P044,Pulau Pinang,Permatang Pauh,Datin Seri Dr.,Wan Azizah Binti Wan Ismail,,female,bumiputera,,,,,BA - KeADILan
+10,P175,Sarawak,Batang Lupar,Tuan Haji,Wan Junaidi Bin Tuanku Jaafar,,male,bumiputera,,,,,BN - PBB
+10,P025,Kelantan,Bachok,Tuan,Wan Nik Bin Wan Yusoff,,male,bumiputera,,,,,BA - PAS
+10,P096,Selangor,Serdang,Dato',Yap Pian Hon,,,,,,,,BN - MCA
+10,P151,Sabah,Tanjong Aru,Dr,Yee Moh Chai,,,,,,,,PBS
+10,P150,Sabah,Gaya,Datuk,Yong Teck Lee,,,,,,,,BN - SAPP
+10,P155,Sabah,Sipitang,Datuk Dr. Haji,Yusof Bin Haji Yacob,,male,bumiputera,,,,,BN - UMNO
+10,P091,Selangor,Gombak,Datin Paduka Hajah,Zaleha Binti Ismail,,female,bumiputera,,,,,BN - UMNO
+10,P007,Kedah,Padang Terap,Prof.,Madya Zawawi Bin Haji Ahmad,,male,bumiputera,,,,,BA - PAS
+10,P105,Federal Territory of Kuala Lumpur,Wangsa Maju,Dato',Zulhasnan Bin Rafique,,male,bumiputera,,,,,BN - UMNO
+10,P011,Kedah,Pendang,Dato',Othman bin Abdul,,male,bumiputera,,,,,BA - PAS
+10,P150,Sabah,Gaya,Tuan,Liew Tek Chan,,male,,,,,,BN - SAPP
+10,P119,Negeri Sembilan,Telok Kemang,Tuan,S.Sothinathan,,male,,,,,,BN - MIC
+11,,,,Tun Dato Seri Dr.,Mohamed Zahir Bin Haji Ismail,,male,bumiputera,,,Yang Dipertua Dewan Rakyat,,
+11,,,,Tan Sri Dato' Seri DiRaja (Dr.),Ramli Bin Ngah Talib,,male,bumiputera,,,Yang Dipertua Dewan Rakyat,,
+11,P041,Pulau Pinang,Kepala Batas,Y.A.B. Dato' Seri,Abdullah Bin Haji Ahmad Badawi,,male,bumiputera,,Perdana Menteri,,,BN - UMNO
+11,P085,Pahang,Pekan,Y.A.B. Dato' Sri Haji,Mohd. Najib Bin Tun Haji Abdul Razak,,male,bumiputera,,Timbalan Perdana Menteri,,,BN - UMNO
+11,P165,Johor,Tanjong Piai,Dato' Seri,Ong Ka Ting,,,,,,,,BN - MCA
+11,P062,Perak,Sungai Siput,Dato' Seri,S. Samy Vellu,,,,,,,,BN - MIC
+11,P068,Perak,Beruas,Dato' Seri Dr.,Lim Keng Yaik,,,,,,,,BN - Gerakan
+11,P179,Sabah,Ranau,Tan Sri Datuk Seri Panglima,Bernard Giluk Dompok,,,,,,,,BN - UPKO
+11,P067,Perak,Kuala Kangsar,Dato' Seri,Rafidah Binti Aziz,,female,bumiputera,,,,,BN - UMNO
+11,P156,Johor,Kota Tinggi,Datuk Seri Panglima,Syed Hamid Bin Syed Jaafar Albar,,male,bumiputera,,,,,BN - UMNO
+11,P143,Johor,Pagoh,Tan Sri Dato' Haji,Muhyiddin Bin Haji Mohd. Yassin,,male,bumiputera,,,,,BN - UMNO
+11,P135,Melaka,Alor Gajah,Datuk Seri Dr,Fong Chan Onn,,,,,,,,BN - MCA
+11,P061,Perak,Padang Rengas,Dato' Seri Haji,Mohamed. Nazri Bin Tan Sri Abdul Aziz,,male,bumiputera,,,,,BN - UMNO
+11,P001,Perlis,Padang Besar,Dato' Seri Haji,Azmi Bin Khalid,,male,bumiputera,,,,,BN - UMNO
+11,P153,Johor,Sembrong,Dato' Sri,Hishamuddin Bin Tun Hussein,,male,bumiputera,,,,,BN - UMNO
+11,P126,Negeri Sembilan,Jelebu,Datuk Seri Utama Dr.,Rais Bin Yatim,,male,bumiputera,,,,,BN - UMNO
+11,P121,Wilayah Persekutuan Kuala Lumpur,Lembah Pantai,Dato' Sri,Shahrizat Binti Abdul Jalil,,female,bumiputera,,,,,BN - UMNO
+11,P091,Pahang,Rompin,Dato' Sri Dr. Haji,Jamaluddin Bin Dato' Mohd. Jarjis,,male,bumiputera,,,,,BN - UMNO
+11,P097,Selangor,Selayang,Dato' Sri,Chan Kong Choy,,,,,,,,BN - MCA
+11,,,,Senator Tan Sri,Nor Mohamed Bin Yakcop (Dilantik),,male,bumiputera,,,,,
+11,P217,Sarawak,Miri,Datuk,Peter Chin Fah Kui,,,,,,,,BN - SUPP
+11,P189,Sabah,Semporna,Datuk,Mohd. Shafie Bin Haji Apdal,,male,bumiputera,,,,,BN - UMNO
+11,P108,Selangor,Shah Alam,Dato' Seri,Abdul Aziz Bin Shamsudin,,male,bumiputera,,,,,BN - UMNO
+11,P159,Johor,Pasir Gudang,Dato' Seri,Mohamed Khaled Bin Haji Nordin,,male,bumiputera,,,,,BN - UMNO
+11,P030,Kelantan,Jeli,Dato',Mustapa Bin Mohamed,,male,bumiputera,,,,,BN - UMNO
+11,P002,Perlis,Kangar,Dato' Seri,Mohd. Radzi Bin Sheikh Ahmad,,male,bumiputera,,,,,BN - UMNO
+11,P168,Sabah,Kota Marudu,Datuk Dr.,Maximus Johnity Ongkili,,,,,,,,BN - PBS
+11,P142,Johor,Labis,Datuk Dr.,Chua Soi Lek,,,,,,,,BN - MCA
+11,P157,Johor,Pengerang,Datuk,Azalina Binti Dato' Othman Said,,female,bumiputera,,,,,BN - UMNO
+11,P033,Terengganu,Besut,Datuk Dr.,Abdullah Bin Md. Zain,,male,bumiputera,,,,,BN - UMNO
+11,P014,Kedah,Merbok,Datuk,Zainudin Bin Maidin,,male,bumiputera,,,,,BN - UMNO
+11,P118,Wilayah Persekutuan Kuala Lumpur,Setiawangsa,Dato' Haji,Zulhasnan Bin Rafique,,male,bumiputera,,,,,BN - UMNO
+11,P125,Wilayah Persekutuan Putrajaya,Putrajaya,Datuk Seri Tengku,Adnan Bin Tengku Mansor,,male,bumiputera,,,,,BN - UMNO
+11,,,,Senator Dato Sri,Mohd. Effendi Bin Norwawi (Dilantik),,male,bumiputera,,,,,
+11,P018,Kedah,Kulim Bandar Baharu,Dato' Seri,Abdul Kadir Bin Haji Sheikh Fadzir,,male,bumiputera,,,,,BN - UMNO
+11,P127,Negeri Sembilan,Jempol,Tan Sri,Mohd. Isa Bin Abdul Samad,,male,bumiputera,,,,,BN - UMNO
+11,,,Kuala Langat (Sehingga 14 Februari 2006),Dato' Sri Dr. Haji,Shafie Bin Haji Mohd. Salleh,,male,bumiputera,,,,,
+11,P200,Sarawak,Batang Sadong,Dato' Sri Haji,Adenan Bin Satem,,male,bumiputera,,,,,BN - PBB
+11,P212,Sarawak,Mukah,Datuk Dr.,Leo Michael Toyad,,,,,,,,BN - PBB
+11,P163,Johor,Kulai,Datuk,Lim Si Cheng,,,,,,,,BN - MCA
+11,P178,Sabah,Sipitang,Datuk Dr. Haji,Yusof Bin Haji Yacob,,male,bumiputera,,,,,BN - UMNO
+11,P060,Perak,Taiping,Datuk,M. Kayveas,,,,,,,,BN - PPP
+11,P204,Sarawak,Betong,Datuk,Douglas Uggah Embas,,,,,,,,BN - PBB
+11,P124,Wilayah Persekutuan Kuala Lumpur,Bandar Tun Razak,Datuk,Tan Chai Ho,,,,,,,,BN - MCA
+11,P094,Selangor,Hulu Selangor,Dato',G. Palanivel,,,,,,,,BN - MIC
+11,P100,Selangor,Pandan,Datuk Ir.,Ong Tee Keat,,,,,,,,BN - MCA
+11,P042,Pulau Pinang,Tasek Gelugor,Dato' Seri Haji,Mohd. Shariff Bin Omar,,male,bumiputera,,,,,BN - UMNO
+11,P058,Perak,Bagan Serai,Dato',Zainal Abidin Bin Zin,,male,bumiputera,,,,,BN - UMNO
+11,P081,Pahang,Jerantut,Dato' Seri Tengku,Azlan Ibni Almarhum Sultan Abu Bakar,,,,,,,,BN - UMNO
+11,P176,Sabah,Kimanis,Datuk,Anifah Bin Aman @ Haniff Amman,,male,bumiputera,,,,,BN - UMNO
+11,P192,Sarawak,Mas Gading,Datuk Dr.,Tekhee @ Tiki Ak Lafe,,,,,,,,BN - SPDP
+11,P080,Pahang,Raub,Dato' Dr.,Ng Yen Yen,,,,,,,,BN - MCA
+11,P154,Johor,Mersing,Datuk Haji Dr.,Abdul Latiff Bin Ahmad,,male,bumiputera,,,,,BN - UMNO
+11,P128,Negeri Sembilan,Seremban,Dato',Hon Choon Kim,,,,,,,,BN - MCA
+11,P105,Selangor,P.J. Selatan,Dato',Donald Lim Siang Chai,,,,,,,,BN - MCA
+11,P083,Pahang,Kuantan,Dato',Fu Ah Kiow,,,,,,,,BN - MCA
+11,P095,Selangor,Tanjung Karang,Dato' Haji,Noh Bin Haji Omar,,male,bumiputera,,,,,BN - UMNO
+11,P055,Perak,Lenggong,Dato',Khansiyah @ Khamsiyah Binti Yeop,,,bumiputera,,,,,BN - UMNO
+11,P048,Pulau Pinang,Bukit Bendera,Datuk Seri,Chia Kwang Chye,,,,,,,,BN - Gerakan
+11,P132,Negeri Sembilan,Telok Kemang,Dato',S. Sothinathan,,,,,,,,BN - MIC
+11,P072,Perak,Tapah,Dato',Veerasingam A/L Suppiah,,male,indian,,,,,BN - MIC
+11,P052,Pulau Pinang,Bayan Baru,Dato',Wong Kam Hoong,,,,,,,,BN - MCA
+11,P063,Perak,Tambun,Dato' Haji,Ahmad Husni Bin Mohamad Hanadzlah,,male,bumiputera,,,,,BN - UMNO
+11,P075,Perak,Bagan Datok,Datuk,Ahmad Zahid Bin Hamidi,,male,bumiputera,,,,,BN - UMNO
+11,P211,Sarawak,Sibu,Datuk,Robert Lau Hoi Chew,,,,,,,,BN - SUPP
+11,P208,Sarawak,Julau,Dato',Joseph Salang Ak. Gandum,,,,,,,,BN - PRS
+11,P074,Perak,Lumut,Dato',Kong Cho Ha.,,,,,,,,BN - MCA
+11,P076,Perak,Teluk Intan,Dato',Mah Siew Keong.,,,,,,,,BN - Gerakan
+11,P113,Selangor,Sepang,Dato' Ir.,Mohd. Zin Bin Mohamed,,male,bumiputera,,,,,BN - UMNO
+11,P133,Negeri Sembilan,Tampin,Dato',Shaziman Bin Abu Mansor,,male,bumiputera,,,,,BN - UMNO
+11,P177,Sabah,Beaufort,Dato' Hajah,Azizah Binti Datuk Seri Panglima Hj. Mohd. Dun,,female,bumiputera,,,,,BN - UMNO
+11,P037,Terengganu,Marang,Datuk,Abdul Rahman Bin Bakar,,male,bumiputera,,,,,BN - UMNO
+11,P025,Kelantan,Bachok,Dato' Dr.,Awang Adek Bin Hussin,,male,bumiputera,,,,,BN - UMNO
+11,P213,Sarawak,Selangau,Tuan,Joseph Entulu Belaun,,male,,,,,,BN - PRS
+11,P006,Kedah,Kubang Pasu,Dato',Mohd. Johari Bin Baharom,,male,bumiputera,,,,,BN - UMNO
+11,P134,Melaka,Masjid Tanah,Datuk Wira,Abu Seman Bin Haji Yusop,,male,bumiputera,,,,,BN - UMNO
+11,P047,Pulau Pinang,Nibong Tebal,Dato' Haji,Zainal Abidin Bin Haji Osman,,male,bumiputera,,,,,BN - UMNO
+11,P115,Wilayah Persekutuan Kuala Lumpur,Batu,Tuan,Ng Lip Yong,,male,,,,,,BN - Gerakan
+11,P089,Pahang,Bentong,Dato',Liow Tiong Lai,,,,,,,,BN - MCA
+11,P016,Kedah,Baling,Dato' Dr.,Mashitah Binti Ibrahim,,female,bumiputera,,,,,BN - UMNO
+11,P053,Pulau Pinang,Balik Pulau,Dato' Seri Dr.,Hilmi Bin Yahaya,,male,bumiputera,,,,,BN - UMNO
+11,P140,Johor,Segamat,Dr.,S. Subramaniam,,,,,,,,BN - MIC
+11,P196,Sarawak,Stampin,Dato',Yong Khoon Seng,,,,,,,,BN - SUPP
+11,P110,Selangor,Klang,Datin Paduka Dr.,Tan Yee Kew,,female,,,,,,BN - MCA
+11,P040,Terengganu,Kemaman,Tuan,Ahmad Shabery Bin Cheek.,,male,bumiputera,,,,,BN - UMNO
+11,P201,Sarawak,Batang Lupar,Datuk Hajah,Rohani Binti Haji Abd. Karim,,female,bumiputera,,,,,BN - PBB
+11,P029,Kelantan,Machang,Dato' Paduka,Sazmi Bin Miah,,male,bumiputera,,,,,BN - UMNO
+11,P109,Selangor,Kapar,Puan,Komala Devi A/P Perumal,,female,indian,,,,,BN - MIC
+11,P106,Selangor,Petaling Jaya Utara,Datin Paduka,Chew Mei Fun.,,female,,,,,,BN - MCA
+11,P137,Melaka,Bukit Katil,Datuk Dr.,Mohd. Ruddin Bin Ab. Ghani,,male,bumiputera,,,,,BN - UMNO
+11,P152,Johor,Kluang,Tuan,Hoo Seong Chang,,male,,,,,,BN - MCA
+11,P116,Wilayah Persekutuan Kuala Lumpur,Wangsa Maju,Tuan,Yew Teong Look,,male,,,,,,BN - MCA
+11,P155,Johor,Tenggara,Datuk Dr.,Adham Bin Baba,,male,bumiputera,,,,,BN - UMNO
+11,P008,Kedah,Pokok Sena,Dato' Paduka Haji,Abdul Rahman Bin Ibrahim,,male,bumiputera,,,,,BN - UMNO
+11,P050,Pulau Pinang,Jelutong,Dato',Lee Kah Choon,,,,,,,,BN - Gerakan
+11,P111,Selangor,Kota Raja,Tuan,S.A. Vigneswaran,,male,,,,,,BN - MIC
+11,P093,Selangor,Sungai Besar,Puan,Noriah Binti Kasnon,,female,bumiputera,,,,,BN - UMNO
+11,P188,Sabah,Silam,Datuk Haji,Samsu Baharun Bin Haji Abd. Rahman,,male,bumiputera,,,,,BN - UMNO
+11,P038,Terengganu,Hulu Terengganu,Dato' Tengku Putera Tengku,Awang,,,,,,,,BN - UMNO
+11,P015,Kedah,Sungai Petani,Dato',Mahadzir Bin Mohd. Khir,,male,bumiputera,,,,,BN - UMNO
+11,P010,Kedah,Kuala Kedah,Tuan,Hashim Bin Jahaya,,male,bumiputera,,,,,BN - UMNO
+11,P036,Terengganu,Kuala Terengganu,Dato',Razali Bin Ismail,,male,bumiputera,,,,,BN - UMNO
+11,P087,Pahang,Kuala Krau,Tuan Haji,Ismail Bin Haji Mohamed Said,,male,bumiputera,,,,,BN - UMNO
+11,P161,Johor,Pulai,Datuk,Nur Jazlan Bin Mohamed,,male,bumiputera,,,,,BN - UMNO
+11,P034,Terengganu,Setiu,Tuan,Mohd Yusop Bin Majid,,male,bumiputera,,,,,BN - UMNO
+11,P092,Selangor,Sabak Bernam,Dato' Haji,Mat Yasir Bin Haji Ikhsan,,male,bumiputera,,,,,BN - UMNO
+11,P004,Kedah,Langkawi,Dato' Paduka,Abu Bakar Bin Taib,,male,bumiputera,,,,,BN - UMNO
+11,P032,Kelantan,Gua Musang,Tengku,Razaleigh Hamzah,,,,,,,,BN - UMNO
+11,P197,Sarawak,Kota Samarahan,Pehin Sri Tan Sri (Dr.) Haji,Abdul Taib Bin Mahmud,,male,bumiputera,,,,,BN - PBB
+11,P145,Johor,Bakri,Dato',Chua Jui Meng,,,,,,,,BN - MCA
+11,P180,Sabah,Keningau,Datuk Seri Panglima,Joseph Pairin Kitingan,,,,,,,,BN - PBS
+11,P071,Perak,Gopeng,Tan Sri Dato' Seri Dr.,Ting Chew Peh,,,,,,,,BN - MCA
+11,P207,Sarawak,Sarikei,Tan Sri Datuk Seri,Law Hieng Ding,,,,,,,,BN - SUPP
+11,P084,Pahang,Paya Besar,Dato' Seri Dr.,Siti Zaharah Binti Sulaiman,,female,bumiputera,,,,,BN - UMNO
+11,P057,Perak,Parit Buntar,Brig. Jen (B) Dato' Seri,Abdul Hamid Bin Ngah @ Hj. Zainal Abidin,,male,bumiputera,,,,,BN - UMNO
+11,P169,Sabah,Kota Belud,Datuk Seri Panglima,Mohd. Salleh Bin Tun Said,,male,bumiputera,,,,,BN - UMNO
+11,P151,Johor,Simpang Renggam,Dato' Seri,Kerk Choo Ting,,,,,,,,BN - Gerakan
+11,P077,Perak,Tanjong Malim,Dato',Loke Yuen Yow,,,,,,,,BN - MCA
+11,P117,Wilayah Persekutuan Kuala Lumpur,Segambut,Dato' Dr.,Tan Kee Kwong,,,,,,,,BN - Gerakan
+11,P009,Kedah,Alor Setar,Dato',Chor Chee Heung,,,,,,,,BN - MCA
+11,P017,Kedah,Padang Serai,Dato',Lim Bee Kau,,,,,,,,BN - MCA
+11,P102,Selangor,Serdang,Dato',Yap Pian Hon,,,,,,,,BN - MCA
+11,P193,Sarawak,Santubong,Datuk Dr. Haji,Wan Junaidi Bin Tuanku Jaafar,,male,bumiputera,,,,,BN - PBB
+11,P160,Johor,Johor Bahru,Dato',Shahrir Bin Samad,,male,bumiputera,,,,,BN - UMNO
+11,P218,Sarawak,Baram,Dato',Jacob Dungau Sagan,,,,,,,,BN - SPDP
+11,P202,Sarawak,Sri Aman,Tuan,Jimmy Donald,,male,,,,,,BN - PRS
+11,P070,Perak,Kampar,Tan Sri Dato',Hew See Tong,,,,,,,,BN - MCA
+11,P203,Sarawak,Lubok Antu,Tuan,Jawah Anak Gerang,,male,bumiputera,,,,,BN - PRS
+11,P199,Sarawak,Serian,Datuk,Richard Riot Anak Jaem,,,bumiputera,,,,,BN - SUPP
+11,P215,Sarawak,Hulu Rajang,Tuan,Billy Abit Joo,,male,,,,,,BN - PRS
+11,P210,Sarawak,Lanang,Datuk,Tiong Thai King,,,,,,,,BN - SUPP
+11,P088,Pahang,Temerloh,Dato',Mohd. Sarit Bin Haji Yusoh,,male,bumiputera,,,,,BN - UMNO
+11,P172,Sabah,Kota Kinabalu,Datuk Dr.,Yee Moh Chai,,,,,,,,BN - PBS
+11,P167,Sabah,Kudat,Datuk,Abdul Rahim Bin Bakri,,male,bumiputera,,,,,BN - UMNO
+11,P183,Sabah,Beluran,Datuk,Ronald Kiandee,,,,,,,,BN - UMNO
+11,P216,Sarawak,Bintulu,Datuk Seri,Tiong King Sing,,,,,,,,BN - SPDP
+11,P214,Sarawak,Kapit,Tuan,Alexander Nanta Linggi,,male,,,,,,BN - PBB
+11,P107,Selangor,Subang,Tan Sri Dato' Dr.,K.S. Nijhar,,,,,,,,BN - MIC
+11,P130,Negeri Sembilan,Rasah,Dato',Goh Siow Huat,,,,,,,,BN - MCA
+11,P149,Johor,Sri Gading,Datuk Haji,Mohamad Bin Haji Aziz,,male,bumiputera,,,,,BN - UMNO
+11,P187,Sabah,Kinabatangan,Datuk,Bung Moktar Bin Radin,,male,bumiputera,,,,,BN - UMNO
+11,P056,Perak,Larut,Dato',Raja Ahmad Zainuddin Bin Raja Haji Omar,,male,bumiputera,,,,,BN - UMNO
+11,P173,Sabah,Putatan,Datuk Dr.,Makin @ Marcus Mojigoh,,,,,,,,BN - UPKO
+11,P171,Sabah,Sepanggar,Tuan,Eric E. Majimbun,,male,,,,,,BN - SAPP
+11,P209,Sarawak,Kanowit,Tuan,Aaron Ago Anak Dagang,,male,bumiputera,,,,,BN - PRS
+11,P205,Sarawak,Saratok,Tuan,Jelaing Anak Mersat,,male,bumiputera,,,,,BN - SPDP
+11,P194,Sarawak,Petra Jaya,Tuan,Fadillah Bin Yusof,,male,bumiputera,,,,,BN - PBB
+11,P104,Selangor,Kelana Jaya,Tuan,Loh Seng Kok,,male,,,,,,BN - MCA
+11,P170,Sabah,Tuaran,Datuk,Madius Bin Tangau,,male,bumiputera,,,,,BN - UPKO
+11,P219,Sarawak,Bukit Mas,Tuan,Henry Sum Agong,,male,,,,,,BN - PBB
+11,P184,Sabah,Libaran,Datuk,Juslie Bin Ajirol,,male,bumiputera,,,,,BN - UMNO
+11,P190,Sabah,Tawau,Tuan,Shim Paw Fatt,,male,,,,,,BN - SAPP
+11,P198,Sarawak,Mambong,Dato' Dr.,James Dawos Mamit,,,,,,,,BN - PBB
+11,P166,Wilayah Persekutuan Labuan,Labuan,Dato' Haji,Suhaili Bin Abdul Rahman,,male,bumiputera,,,,,BN - UMNO
+11,P139,Melaka,Jasin,Datuk Haji,Mohd. Said Bin Haji Yusof,,male,bumiputera,,,,,BN - UMNO
+11,P206,Sarawak,Kuala Rajang,Datuk Haji,Abdul Wahab Bin Haji Dolah,,male,bumiputera,,,,,BN - PBB
+11,P031,Kelantan,Kuala Krai,Datuk Haji,Mohamed Razali Bin Haji Che Mamat,,male,bumiputera,,,,,BN - UMNO
+11,P090,Pahang,Bera,Dato',Ismail Sabri Bin Yaakob,,male,bumiputera,,,,,BN - UMNO
+11,P086,Pahang,Maran,Dato' Haji,Ismail Bin Haji Abd. Muttalib,,male,bumiputera,,,,,BN - UMNO
+11,P027,Kelantan,Tanah Merah,Ir.,Shaari Bin Hassan,,male,bumiputera,,,,,BN - UMNO
+11,P013,Kedah,Sik,Dato' Dr.,Wan Azmi Bin Ariffin,,male,bumiputera,,,,,BN - UMNO
+11,P147,Johor,Parit Sulong,Tuan,Syed Hood Bin Syed Edros Alhaj,,male,bumiputera,,,,,BN - UMNO
+11,P003,Perlis,Arau,Dato' Seri Diraja,Syed Razlan Ibni Syed Putra Jamalullail,,,bumiputera,,,,,BN - UMNO
+11,P012,Kedah,Jerai,Dato' Paduka Haji,Badruddin Bin Amiruldin,,male,bumiputera,,,,,BN - UMNO
+11,P039,Terengganu,Dungun,Datuk Haji,Rosli Bin Mat Hasan,,male,bumiputera,,,,,BN - UMNO
+11,P175,Sabah,Papar,Puan,Rosnah Binti Abdul Rashid Shirlin,,female,bumiputera,,,,,BN - UMNO
+11,P191,Sabah,Kalabakan,Datuk Haji,Abdul Ghapur Bin Haji Salleh,,male,bumiputera,,,,,BN - UMNO
+11,P119,Wilayah Persekutuan Kuala Lumpur,Titiwangsa,Datuk,Astaman Bin Abdul Azizz,,male,bumiputera,,,,,BN - UMNO
+11,P158,Johor,Tebrau,Tuan,Teng Boon Soon,,male,,,,,,BN - MCA
+11,P162,Johor,Gelang Patah,Puan,Tan Ah Eng,,female,,,,,,BN - MCA
+11,P164,Johor,Pontian,Datuk Ir.,Hasni Bin Haji Mohammad,,male,bumiputera,,,,,BN - UMNO
+11,P129,Negeri Sembilan,Kuala Pilah,Dato' Haji,Hasan Bin Malek,,male,bumiputera,,,,,BN - UMNO
+11,P035,Terengganu,Kuala Nerus,Tuan,Che Azmi Bin Hj. A. Rahman,,male,bumiputera,,,,,BN - UMNO
+11,P099,Selangor,Ampang,Dr.,Rozaidah Binti Talib,,female,bumiputera,,,,,BN - UMNO
+11,P146,Johor,Muar,Tuan,Razali Bin Haji Ibrahim,,male,bumiputera,,,,,BN - UMNO
+11,P096,Selangor,Kuala Selangor,Tuan,Mohd. Daud Bin Haji Tarihep,,male,bumiputera,,,,,BN - UMNO
+11,P082,Pahang,Indera Mahkota,Dato',Wan Adnan Bin Wan Mamat,,male,bumiputera,,,,,BN - UMNO
+11,P182,Sabah,Pensiangan,Tuan,Bernard S. Maraat @ Ben,,male,,,,,,BN - PBRS
+11,P181,Sabah,Tenom,Tuan,Raime Unggi,,male,,,,,,BN - UMNO
+11,P079,Pahang,Lipis,Dr.,Muhamad Shahrum Bin Osman,,male,bumiputera,,,,,BN - UMNO
+11,P148,Johor,Ayer Hitam,Ir. Dr.,Wee Ka Siong,,,,,,,,BN - MCA
+11,P078,Pahang,Cameron Highlands,Tuan,K. Devamany,,male,,,,,,BN - MIC
+11,P046,Pulau Pinang,Batu Kawan,Tuan,Huan Cheng Guan,,male,,,,,,BN - Gerakan
+11,P059,Perak,Bukit Gantang,Dato',Tan Lian Hoe,,,,,,,,BN - Gerakan
+11,P021,Kelantan,Kota Bharu,Datuk,Mohd. Zaid Bin Ibrahim,,male,bumiputera,,,,,BN - UMNO
+11,P005,Kedah,Jerlun,Dato' Haji,Abdul Rahman Bin Ariffin,,male,bumiputera,,,,,BN - UMNO
+11,P174,Sabah,Penampang,Tuan,Donald Peter Mojuntin,,male,,,,,,BN - UPKO
+11,P103,Selangor,Puchong,Tuan,Lau Yeng Peng,,male,,,,,,BN - Gerakan
+11,P101,Selangor,Hulu Langat,Tuan Haji,Markiman Bin Kobiran,,male,bumiputera,,,,,BN - UMNO
+11,P141,Johor,Sekijang,Datuk Haji,Baharum Bin Mohamed,,male,bumiputera,,,,,BN - UMNO
+11,P026,Kelantan,Ketereh,Datuk Haji,Md Alwi Bin Haji Che Ahmad,,male,bumiputera,,,,,BN - UMNO
+11,P007,Kedah,Padang Terap,Dato' Haji,Ghazali Bin Haji Ibrahim,,male,bumiputera,,,,,BN - UMNO
+11,P069,Perak,Parit,Tuan,Nasaruddin Bin Hashim,,male,bumiputera,,,,,BN - UMNO
+11,P098,Selangor,Gombak,Datuk Dr.,Rahman Bin Ismail,,male,bumiputera,,,,,BN - UMNO
+11,P131,Negeri Sembilan,Rembau,Dato',Firdaus Bin Harun,,male,bumiputera,,,,,BN - UMNO
+11,P136,Melaka,Tangga Batu,Datuk Haji,Idris Bin Harun,,male,bumiputera,,,,,BN - UMNO
+11,P150,Johor,Batu Pahat,Dr.,Junaidy Bin Abdul Wahab,,male,bumiputera,,,,,BN - UMNO
+11,P138,Melaka,Kota Melaka,Tuan,Wong Nai Chee,,male,,,,,,BN - MCA
+11,P028,Kelantan,Pasir Puteh,Dato,Che Min Bin Che Ahmad,,male,bumiputera,,,,,BN - UMNO
+11,P185,Sabah,Batu Sapi,Ir.,Edmund Chong Ket Wah,,,,,,,,BN - PBS
+11,P144,Johor,Ledang,Ir. Haji,Hamim Bin Samuri,,male,bumiputera,,,,,BN - UMNO
+11,P054,Perak,Gerik,Dato' Dr.,Wan Hashim Bin Wan Teh,,male,bumiputera,,,,,BN - UMNO
+11,P064,Perak,Ipoh Timur,Tuan,Lim Kit Siang,,male,,,,,,DAP
+11,P051,Pulau Pinang,Bukit Gelugor,Tuan,Karpal Singh,,male,indian,,,,,DAP
+11,P114,Wilayah Persekutuan Kuala Lumpur,Kepong,Dr.,Tan Seng Giaw,,,,,,,,DAP
+11,P019,Kelantan,Tumpat,Dato' Haji,Kamarudin Bin Jaffar,,male,bumiputera,,,,,BA - PAS
+11,P045,Pulau Pinang,Bukit Mertajam,Puan,Chong Eng,,female,,,,,,DAP
+11,P065,Perak,Ipoh Barat,Tuan,M. Kulasegaran,,male,,,,,,DAP
+11,P020,Kelantan,Pengkalan Chepa,Dato' Haji,Ab. Halim Bin Ab. Rahman,,male,bumiputera,,,,,BA - PAS
+11,P044,Pulau Pinang,Permatang Pauh,Datin Seri Dr.,Wan Azizah Binti Wan Ismail,,female,bumiputera,,,,,BA - PKR
+11,P123,Wilayah Persekutuan Kuala Lumpur,Cheras,Tuan,Tan Kok Wai,,male,,,,,,DAP
+11,P120,Wilayah Persekutuan Kuala Lumpur,Bukit Bintang,Tuan,Fong Kui Lun,,male,,,,,,DAP
+11,P023,Kelantan,Rantau Panjang,Tuan Haji,Abdul Fatah Bin Haji Harun,,male,bumiputera,,,,,BA - PAS
+11,P024,Kelantan,Kubang Kerian,Tuan,Salahuddin Bin Haji Ayub,,male,bumiputera,,,,,BA - PAS
+11,P122,Wilayah Persekutuan Kuala Lumpur,Seputeh,Puan,Teresa Kok Suh Sim,,female,,,,,,DAP
+11,P049,Pulau Pinang,Tanjong,Tuan,Chow Kon Yeow,,male,,,,,,DAP
+11,P022,Kelantan,Pasir Mas,Tuan Haji,Ismail Bin Noh,,male,bumiputera,,,,,BA - PAS
+11,P011,Kedah,Pendang,Dr.,Mohamed Hayati Bin Othman,,male,bumiputera,,,,,BA - PAS
+11,P066,Perak,Batu Gajah,Puan,Fong Po Kuan,,female,,,,,,DAP
+11,P043,Pulau Pinang,Bagan,Tuan,Lim Hock Seng,,male,,,,,,DAP
+11,P195,Sarawak,Bandar Kuching,Tuan,Chong Chieng Jen,,male,,,,,,DAP
+11,P186,Sabah,Sandakan,Tuan,Chong Hon Min,,male,,,,,,BEBAS

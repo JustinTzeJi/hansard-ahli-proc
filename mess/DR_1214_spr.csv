@@ -1,0 +1,673 @@
+vol,kod_kawasan,negeri,kawasan,gelaran,nama,tahun_lahir,jantina,kumpulan_etnik,parti,jawatan_kabinet,jawatan_parlimen,gambar,spr_name
+12.0,P001,Perlis,Padang Besar,YB Dato' Seri Haji,Azmi bin Khalid,1941.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P001-PDGBESAR1.jpg,AZMI BIN KHALID
+12.0,P002,Perlis,Kangar,YB Dato' Seri,Mohd Radzi bin Sheikh Ahmad,1942.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/mohd.radzi[1].jpg,MOHD RADZI SHEIKH AHMAD
+12.0,P003,Perlis,Arau,YB Dato',Ismail Bin Kasim,1960.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P003-ARAU.jpg,ISMAIL BIN KASIM (CHU)
+12.0,P004,Kedah,Langkawi,YB Dato' Paduka,Abu Bakar bin Taib,1943.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P004-LANGKAWI.jpg,ABU BAKAR TAIB
+12.0,P009,Kedah,Alor Setar,YB Datuk Seri,Chor Chee Heung,1955.0,male,chinese,BN - MCA,Menteri Perumahan Dan Kerajaan Tempatan,,https://www.parlimen.gov.my/images/webuser/ahli/2010/ALORSETAR.JPG,CHOR CHEE HEUNG
+12.0,P015,Kedah,Sungai Petani,YB Dato',Johari bin Abdul,1956.0,male,bumiputera,PKR,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P015-SGPETANI.jpg,JOHARI ABDUL
+12.0,P017,Kedah,Padang Serai,YB Tuan,Gobalakrishnan a/l Nagapan,1961.0,male,indian,BEBAS,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P017-PDGSERAI.jpg,GOBALAKRISHNAN A/L NAGAPAN
+12.0,P018,Kedah,Kulim-Bandar Baharu,YB Dato',Zulkifli bin Noordin,1962.0,male,bumiputera,BEBAS,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P018-KULIM.jpg,ZULKIFLI BIN NOORDIN
+12.0,P005,Kedah,Jerlun,YB Dato',Mukhriz bin Tun Mahathir,1965.0,male,bumiputera,BN - UMNO,Timbalan Menteri Perdagangan Antarabangsa Dan Industri,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P005-JERLUN.jpg,MUKHRIZ MAHATHIR
+12.0,P006,Kedah,Kubang Pasu,YB Dato' Wira,Mohd Johari bin Baharum,1955.0,male,bumiputera,BN - UMNO,Timbalan Menteri Pertanian Dan Industri Asas Tani,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P006-KUBANGPASU1.jpg,MOHD JOHARI BIN BAHARUM
+12.0,P007,Kedah,Padang Terap,YB Tuan,Mohd Nasir bin Zakaria,1976.0,male,bumiputera,PAS,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P007-PDGTERAP.jpg,NASIR BIN ZAKARIA
+12.0,P008,Kedah,Pokok Sena,YB Dato' Haji,Mahfuz bin Haji Omar,1958.0,male,bumiputera,PAS,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P008-POKOKSENA.jpg,MAHFUZ OMAR
+12.0,P010,Kedah,Kuala Kedah,YB Tuan Haji,Ahmad bin Kasim,1964.0,male,bumiputera,PKR,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P010-KUALAKEDAH.jpg,AHMAD BIN KASIM
+12.0,P012,Kedah,Jerai,YB Tuan,Mohd Firdaus bin Jaafar,1974.0,male,bumiputera,PAS,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P012-JERAI.jpg,MOHD FIRDAUS BIN JAAFAR
+12.0,P013,Kedah,Sik,YB Tuan,Che Uda bin Che Nik,1949.0,male,bumiputera,PAS,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P013-SIK.jpg,CHE UDA BIN CHE NIK
+12.0,P016,Kedah,Baling,YB Dato' Haji,Taib Azamudden bin Md Taib,1951.0,male,bumiputera,PAS,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P016-BALING.jpg,TAIB AZAMUDDEN
+12.0,P032,Kelantan,Gua Musang,YBM Tan Sri,Tengku Razaleigh bin Tengku Hamzah,1938.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/TENGKURAZALIGH.JPG,TENGKU RAZALEIGH HAMZAH
+12.0,P021,Kelantan,Kota Bharu,YB Dato' Haji,Wan Abd. Rahim bin Wan Abdullah,1952.0,male,bumiputera,PAS,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P021-KOTABHARU.jpg,WAN RAHIM
+12.0,P025,Kelantan,Bachok,YB Tuan Haji,Nasharudin bin Mat Isa,1963.0,male,bumiputera,PAS,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P025-BACHOK.jpg,NASHARUDIN
+12.0,P026,Kelantan,Ketereh,YB Tuan Haji,Ab Aziz bin Ab Kadir,1963.0,male,bumiputera,PKR,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P026-KETEREH.jpg,ABDUL AZIZ
+12.0,P027,Kelantan,Tanah Merah,YB Tuan,Amran bin Ab Ghani,1974.0,male,bumiputera,PKR,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P027-TNHMERAH.jpg,AMRAN BIN HJ ABDUL GHANI
+12.0,P029,Kelantan,Machang,YB Dato',Saifuddin Nasution bin Ismail,1964.0,male,bumiputera,PKR,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P029-MACHANG.jpg,SAIFUDDIN NASUTION ISMAIL
+12.0,P030,Kelantan,Jeli,YB Dato' Sri,Mustapa bin Mohamed,1951.0,male,bumiputera,BN - UMNO,Menteri Perdagangan Antarabangsa Dan Industri,,https://www.parlimen.gov.my/images/webuser/ahli/2010/JELI.JPG,MUSTAPA BIN MOHAMED
+12.0,P031,Kelantan,Kuala Krai,YB Dr.,Mohd Hatta bin Md Ramli,1957.0,male,bumiputera,PAS,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P031-K.KRAI.jpg,HATTA RAMLI
+12.0,P041,Pulau Pinang,Kepala Batas,YB Tun Haji,Abdullah bin Haji Ahmad Badawi,1940.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P041-KEPALABATAS.jpg,ABDULLAH BIN AHMAD BADAWI
+12.0,P042,Pulau Pinang,Tasek Gelugor,YB Tan Sri,Nor Mohamed Yakcop,1948.0,male,bumiputera,BN - UMNO,Menteri di Jabatan Perdana Menteri,,https://www.parlimen.gov.my/images/webuser/ahli/2010/nor mohamed yakcop.jpg,NOR MOHAMED YAKCOP
+12.0,P048,Pulau Pinang,Bukit Bendera,YB Tuan,Liew Chin Tong,1978.0,male,chinese,DAP,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P048-BKTBENDERA.jpg,LIEW CHIN TONG
+12.0,P050,Pulau Pinang,Jelutong,YB Tuan,Ooi Chuan Aun,1956.0,male,chinese,DAP,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P050-JELUTONG.jpg,OOI CHUAN AUN
+12.0,P033,Terengganu,Besut,YB Dato' Seri Dr.,Abdullah bin Md Zin,1947.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P033-BESUT.jpg,ABDULLAH BIN MD ZIN
+12.0,P034,Terengganu,Setiu,YB Dato',Mohd Jidin bin Shafee,1956.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P034-SETIU.jpg,MOHD JIDIN BIN SHAFEE
+12.0,P035,Terengganu,Kuala Nerus,YB Dato',Mohd Nasir bin Ibrahim Fikri,1957.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P035-KNERUS.jpg,MOHD NASIR B. TAN IBRAHIM FIKRI
+12.0,P036,Terengganu,Kuala Terengganu,YB Tuan Haji,Mohd Abdul Wahid bin Haji Endut,1950.0,male,bumiputera,PAS,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P036-KTGANU2.jpg,RAZALI BIN ISMAIL
+12.0,P037,Terengganu,Marang,YB Dato' Seri Haji,Abd. Hadi bin Awang,1948.0,male,bumiputera,PAS,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P037-MARANG.jpg,ABDUL HADI BIN AWANG
+12.0,P038,Terengganu,Hulu Terengganu,YB Tuan Haji,Mohd Nor bin Othman,1953.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P038-HLTGANU.jpg,MOHD NOR BIN OTHMAN
+12.0,P039,Terengganu,Dungun,YB Datuk,Matulidi bin Jusoh,1958.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P039-DUNGUN.jpg,MATULIDI BIN JUSOH
+12.0,P040,Terengganu,Kemaman,YB Dato' Sri,Ahmad Shabery bin Cheek,1959.0,male,bumiputera,BN - UMNO,Menteri Belia Dan Sukan,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P040-KEMAMAN2.jpg,AHMAD SHABERY CHEEK
+12.0,P055,Perak,Lenggong,YB Dato',Shamsul Anuar bin Nasarah,1968.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P055-LENGGONG.jpg,SHAMSUL ANUAR NASARAH
+12.0,P056,Perak,Larut,YB Datuk,Hamzah Zainudin,1957.0,male,bumiputera,BN - UMNO,"Timbalan Menteri Perusahaan, Perladangan Dan Komoditi",,https://www.parlimen.gov.my/images/webuser/ahli/2010/P056-LARUT.jpg,HAMZAH ZAINUDIN
+12.0,P047,Pulau Pinang,Nibong Tebal,YB Tuan,Tan Tee Beng,1972.0,male,chinese,KITA,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P047-NIBGTEBAL.jpg,TAN TEE BENG
+12.0,P061,Perak,Padang Rengas,YB Dato' Seri,Mohamed Nazri bin Tan Sri Abdul Aziz,1955.0,male,bumiputera,BN - UMNO,Menteri di Jabatan Perdana Menteri,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P061-PDGRENGAS1.jpg,MOHAMED NAZRI BIN TAN ABDUL AZIZ
+12.0,P062,Perak,Sungai Siput,YB Dr.,Micheal Jeyakumar Devaraj,1956.0,male,indian,PSM,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P062-SGSIPUT.jpg,MICHAEL JEYAKUMAR DEVARAJ
+12.0,P063,Perak,Tambun,YB Dato' Seri Haji,Ahmad Husni bin Mohamad Hanadzlah,1953.0,male,bumiputera,BN - UMNO,Menteri Kewangan II,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P063-TAMBUN1.jpg,AHMAD HUSNI HANADZLAH
+12.0,P067,Perak,Kuala Kangsar,YB Tan Sri,Rafidah binti Abd. Aziz,1944.0,female,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/rafidah.aziz[1].jpg,RAFIDAH AZIZ
+12.0,P068,Perak,Beruas,YB Dato',Ngeh Koo Ham,1962.0,male,chinese,DAP,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P068-BERUAS.jpg,NGEH KOO HAM
+12.0,P070,Perak,Kampar,YB Dato',Lee Chee Leong,1958.0,male,chinese,BN - MCA,Timbalan Menteri Dalam Negeri,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P070-KAMPAR.jpg,LEE CHEE LEONG
+12.0,P071,Perak,Gopeng,YB Dr.,Lee Boon Chye,1960.0,male,chinese,PKR,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P071-GOPENG.jpg,LEE BOON CHYE
+12.0,P072,Perak,Tapah,YB Datuk,M. Saravanan,1968.0,male,indian,BN - MIC,Timbalan Menteri Wilayah Persekutuan Dan Kesejahteraan Bandar,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P072-TAPAH.jpg,M. SARAVANAN
+12.0,P074,Perak,Lumut,YB Dato' Seri,Kong Cho Ha,1951.0,male,chinese,BN - MCA,Menteri Pengangkutan,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P074-LUMUT.jpg,KONG CHO HA
+12.0,P075,Perak,Bagan Datok,YB Dato' Seri Dr.,Ahmad Zahid bin Hamidi,1953.0,male,bumiputera,BN - UMNO,Menteri Pertahanan,,https://www.parlimen.gov.my/images/webuser/ahli/2010/ahmad.zahid.hamidi[1].jpg,AHMAD ZAHID BIN HAMIDI
+12.0,P076,Perak,Teluk Intan,YB Tuan,Manogaran a/l Marimuthu,1960.0,male,indian,DAP,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P076-TELOKINTAN.jpg,MANOGARAN
+12.0,P077,Perak,Tanjong Malim,YB Dato' Seri,Ong Ka Chuan,1955.0,male,chinese,BN - MCA,,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P077-TANJONGMALIM.jpg,ONG KA CHUAN
+12.0,P046,Pulau Pinang,Batu Kawan,YB Prof. Dr.,Ramasamy a/l Palanisamy,1950.0,male,indian,DAP,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P046-BTKAWAN.jpg,P. RAMASAMY
+12.0,P058,Perak,Bagan Serai,YB Tuan,Mohsin Fadzli bin Haji Samsuri,1946.0,male,bumiputera,BEBAS,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P058-BGSERAI.jpg,MOHSIN FADZLI BIN SAMSURI
+12.0,P053,Pulau Pinang,Balik Pulau,YB Tuan,Mohd Yusmadi bin Mohd Yusoff,1975.0,male,bumiputera,PKR,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P053-BALIKPULAU.jpg,YUSMADI YUSOFF
+12.0,P054,Perak,Gerik,YB Dato',Tan Lian Hoe,1959.0,female,chinese,BN - GERAKAN,"Timbalan Menteri Perdagangan Dalam Negeri, Koperasi Dan Kepenggunaan",,https://www.parlimen.gov.my/images/webuser/ahli/2010/P054-GERIK.jpg,TAN LIAN HOE
+12.0,P060,Perak,Taiping,YB Tuan,Nga Kor Ming,1973.0,male,chinese,DAP,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P060-TAIPING.jpg,NGA KOR MING
+12.0,P069,Perak,Parit,YB Tuan,Mohd Nizar bin Zakaria,1969.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P069-PARIT.jpg,NIZAR
+12.0,P057,Perak,Parit Buntar,YB Dr.,Mujahid Yusof Rawa,1965.0,male,bumiputera,PAS,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P057-PARITBUNTAR.jpg,MUJAHID YUSOF RAWA
+12.0,P080,Pahang,Raub,YB Dato' Sri Dr.,Ng Yen Yen,1947.0,female,chinese,BN - MCA,Menteri Pelancongan,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P080-RAUB1.jpg,NG YEN YEN
+12.0,P081,Pahang,Jerantut,YBM Dato' Seri,Tengku Azlan Ibni Almarhum Sultan Abu Bakar,1950.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P081-JERANTUT1.jpg,TENGKU AZLAN IBNI SULTAN ABU BAKAR
+12.0,P083,Pahang,Kuantan,YB Puan Hajah,Fuziah binti Salleh,1960.0,female,bumiputera,PKR,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P083-KUANTAN.jpg,FUZIAH SALLEH
+12.0,P084,Pahang,Paya Besar,YB Dato' Haji,Abdul Manan bin Ismail,1949.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P084-PAYABESAR.jpg,ABDUL MANAN BIN ISMAIL
+12.0,P085,Pahang,Pekan,YAB Dato' Sri Hj.,Mohd Najib bin Tun Hj. Abdul Razak,1954.0,male,bumiputera,BN - UMNO,"Perdana Menteri, Menteri Kewangan, dan Menteri Pembangunan Wanita, Keluarga dan Masyarakat",,https://www.parlimen.gov.my/images/webuser/ahli/2010/PM.jpg,MOHD NAJIB BIN TUN ABDUL RAZAK
+12.0,P088,Pahang,Temerloh,YB Dato',Saifuddin bin Abdullah,1961.0,male,bumiputera,BN - UMNO,Timbalan Menteri Pengajian Tinggi,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P088-TEMERLOH.jpg,SAIFUDDIN ABDULLAH
+12.0,P089,Pahang,Bentong,YB Dato' Sri,Liow Tiong Lai,1962.0,male,chinese,BN - MCA,Menteri Kesihatan,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P089-BENTONG1.jpg,LIOW TIONG LAI
+12.0,P091,Pahang,Rompin,YB Dato' Seri Dr. Haji,Jamaludin bin Dato' Mohd Jarjis,1952.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/jamaludin.mohd jarjis[1].jpg,JAMALUDIN BIN JARJIS
+12.0,P078,Pahang,Cameron Highlands,YB Dato',Devamany a/l S.Krishnasamy,1958.0,male,indian,BN - MIC,Timbalan Menteri di Jabatan Perdana Menteri,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P078-CAMERONHLANDS1.jpg,S.K. DEVAMANY
+12.0,P079,Pahang,Lipis,YB Dato' Dr.,Mohamad Shahrum bin Osman,1954.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P079-LIPIS.jpg,SHAHRUM OSMAN
+12.0,P082,Pahang,Indera Mahkota,YB Tuan,Azan bin Ismail,1966.0,male,bumiputera,PKR,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P082-INDRAMAHKOTA.jpg,AZAN ISMAIL
+12.0,P086,Pahang,Maran,YB Dato' Haji,Ismail bin Haji Abd Muttalib,1955.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P086-MARAN.jpg,ISMAIL BIN HJ ABDUL MUTTALIB
+12.0,P087,Pahang,Kuala Krau,YB Dato' Haji,Ismail bin Haji Mohamed Said,1966.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P087-KKRAU.jpg,ISMAIL BIN MOHAMED SAID
+12.0,P090,Pahang,Bera,YB Dato' Sri,Ismail Sabri bin Yaakob,1960.0,male,bumiputera,BN - UMNO,"Menteri Perdagangan Dalam Negeri, Koperasi Dan Kepenggunaan",,https://www.parlimen.gov.my/images/webuser/ahli/2010/P090-BERA.jpg,ISMAIL SABRI YAAKOB
+12.0,P095,Selangor,Tanjong Karang,Y.B. Datuk Seri Haji,Noh bin Haji Omar,1958.0,male,bumiputera,BN - UMNO,Menteri Pertanian Dan Industri Asas Tani,,https://www.parlimen.gov.my/images/webuser/ahli/2010/noh.omar[1].jpg,NOH BIN OMAR
+12.0,P097,Selangor,Selayang,Y.B. Tuan,William Leong Jee Keen,1957.0,male,chinese,PKR,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P097-SELAYANG-b.jpg,WILLIAM LEONG JEE KEEN
+12.0,P100,Selangor,Pandan,Y.B. Dato' Sri,Ong Tee Keat,1957.0,male,chinese,BN - MCA,Nil,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P100-PANDAN1.jpg,ONG TEE KEAT
+12.0,P102,Selangor,Serdang,Y.B. Puan,Teo Nie Ching,1981.0,female,chinese,DAP,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P102-SERDANG.jpg,TEO NIE CHING
+12.0,P105,Selangor,Petaling Jaya Selatan,Y.B. Tuan,Hee Loy Sian,1971.0,male,chinese,PKR,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P105-PJSELATAN.jpg,HEE LOY SIAN
+12.0,P106,Selangor,Petaling Jaya Utara,Y.B. Tuan,Tony Pua Kiam Wee,1973.0,male,bumiputera,DAP,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P106-PJUTARA.jpg,TONY PUA
+12.0,P107,Selangor,Subang,Y.B. Tuan,Sivarasa a/l K. Rasiah,1957.0,male,indian,PKR,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P107-SUBANG.jpg,SIVARASA RASIAH
+12.0,P109,Selangor,Kapar,Y.B. Tuan,Manikavasagam a/l Sundaram,1966.0,male,indian,PKR,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P109-KAPAR.jpg,MANIKAVASAGAM
+12.0,P110,Selangor,Klang,Y.B. Tuan,Charles Anthony a/l R. Santiago,1961.0,male,indian,DAP,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P110-KLANG.jpg,CHARLES SANTIAGO
+12.0,P112,Selangor,Kuala Langat,Y.B. Tuan,Abdullah Sani bin Abdul Hamid,1962.0,male,bumiputera,PKR,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P112-KLANGAT.jpg,ABDULLAH SANI
+12.0,P113,Selangor,Sepang,Y.B. Dato' Ir.,Mohd Zin bin Mohamed,1955.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2010/SEPANG.JPG,MOHD ZIN MOHAMED
+12.0,P092,Selangor,Sabak Bernam,Y.B. Datuk,Abd. Rahman bin Bakri,1966.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P092-SABAKBERNAM.jpg,ABDUL RAHMAN BAKRI
+12.0,P093,Selangor,Sungai Besar,Y.B. Dato',Noriah binti Kasnon,1964.0,female,bumiputera,BN - UMNO,"Timbalan Menteri Pembangunan Wanita, Keluarga dan Masyarakat",,https://www.parlimen.gov.my/images/webuser/ahli/2010/P093-SGBESAR.jpg,NORIAH BINTI KASNON
+12.0,P096,Selangor,Kuala Selangor,Y.B. Dr. Haji,Dzulkefly Ahmad,1956.0,male,bumiputera,PAS,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P096-KSELANGOR.jpg,DZULKEFLY AHMAD
+12.0,P098,Selangor,Gombak,Y.B. Tuan,Mohamed Azmin bin Ali,1965.0,male,bumiputera,PKR,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P098-GOMBAK.jpg,AZMIN ALI
+12.0,P099,Selangor,Ampang,Y.B. Puan Hajah,Zuraida binti Kamaruddin,1958.0,female,bumiputera,PKR,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P099-AMPANG.jpg,ZURAIDA KAMARUDDIN
+12.0,P101,Selangor,Hulu Langat,Y.B. Dr.,Che Rosli bin Che Mat,1952.0,male,bumiputera,PAS,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P101-HLLANGAT.jpg,CHE ROSLI CHE MAT
+12.0,P103,Selangor,Puchong,Y.B. Tuan,Gobind Singh Deo,1974.0,male,other,DAP,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P103-PUCHONG.jpg,GOBIND SINGH DEO
+12.0,P104,Selangor,Kelana Jaya,Y.B. Tuan,Gwo-Burne Loh,1974.0,male,bumiputera,PKR,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P104-KLNJAYA.jpg,GWO BURNE LOH
+12.0,P108,Selangor,Shah Alam,Y.B. Tuan,Khalid bin Abd Samad,1958.0,male,bumiputera,PAS,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P108-SHAHALAM.jpg,KHALID ABDUL SAMAD
+12.0,P111,Selangor,Kota Raja,Y.B. Dr.,Siti Mariah binti Mahmud,1958.0,female,bumiputera,PAS,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P111-KOTARAJA.jpg,MARIAH MAHMUD
+12.0,P115,WP Kuala Lumpur,Batu,Y.B. Tuan,Chua Tian Chang,1964.0,male,chinese,PKR,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P115-BATU.jpg,TIAN CHUA
+12.0,P117,WP Kuala Lumpur,Segambut,Y.B. Tuan,Lim Lip Eng,1973.0,male,chinese,DAP,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P117-SEGAMBUT.jpg,LIM LIP ENG
+12.0,P121,WP Kuala Lumpur,Lembah Pantai,Y.B. Puan,Nurul Izzah binti Anwar,1981.0,female,bumiputera,PKR,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P121-LMBHPANTAI.jpg,NURUL IZZAH ANWAR
+12.0,P124,WP Kuala Lumpur,Bandar Tun Razak,Y.B. Tan Sri Dato' Seri,Abd Khalid bin Ibrahim,1947.0,male,bumiputera,PKR,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P124-BDRTUNRAZAK.jpg,ABDUL KHALID IBRAHIM
+12.0,P166,WP Labuan,Labuan,Y.B. Datuk Haji,Yussof bin Haji Mahal,1958.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P166-LABUAN.jpg,YUSSOF BIN MAHAL
+12.0,P116,WP Kuala Lumpur,Wangsa Maju,Y.B. Tuan,Wee Choo Keong,1954.0,male,chinese,BEBAS,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P116-WGSMAJU.jpg,WEE CHOO KEONG
+12.0,P119,WP Kuala Lumpur,Titiwangsa,Y.B. Dr. (Meninggal Dunia),Lo' Lo' binti Hj Mohamad Ghazali,1958.0,female,bumiputera,PAS,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P119-TITIWANGSA.jpg,LO'LO'
+12.0,P125,WP Putrajaya,Putrajaya,Y.B. Datuk Seri,Tengku Adnan bin Tengku Mansor,1951.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P125-PUTRAJAYA3.jpg,TENGKU ADNAN BIN TENGKU MANSOR
+12.0,P126,Negeri Sembilan,Jelebu,Y.B. Dato' Seri Utama Dr.,Rais Bin Yatim,1943.0,male,bumiputera,BN - UMNO,"Menteri Penerangan, Komunikasi dan Kebudayaan",,https://www.parlimen.gov.my/images/webuser/ahli/2010/P126-JELEBU1.jpg,RAIS YATIM
+12.0,P128,Negeri Sembilan,Seremban,Y.B Tuan,John a/l Fernandez,1942.0,male,indian,DAP,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P128-SEREMBAN.jpg,JOHN FERNANDEZ
+12.0,P130,Negeri Sembilan,Rasah,Y.B. Tuan,Loke Siew Fook,1978.0,male,chinese,DAP,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/siewfook.jpg,LOKE SIEW FOOK
+12.0,P132,Negeri Sembilan,Telok Kemang,Y.B. Dato',Kamarul Baharin bin Abbas,1948.0,male,bumiputera,PKR,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P132-TELUKKEMANG.jpg,KAMARUL BAHARIN ABBAS
+12.0,P133,Negeri Sembilan,Tampin,Y.B. Datuk Seri,Shaziman bin Abu Mansor,1964.0,male,bumiputera,BN - UMNO,Menteri Kerja Raya,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P133-TAMPIN.jpg,SHAZIMAN BIN ABU MANSOR
+12.0,P127,Negeri Sembilan,Jempol,Y.B. Dato',Lilah bin Yasin,1958.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P127-JEMPOL.jpg,LILAH BIN YASIN
+12.0,P129,Negeri Sembilan,Kuala Pilah,Y.B. Dato' Haji,Hasan bin Malek,1947.0,male,bumiputera,BN - UMNO,Timbalan Menteri Kemajuan Luar Bandar Dan Wilayah,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P129-KUALAPILAH.jpg,HASAN BIN MALEK
+12.0,P131,Negeri Sembilan,Rembau,Y.B. Tuan,Khairy Jamaluddin,1976.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P131-REMBAU.jpg,KHAIRY JAMALUDDIN ABU BAKAR
+12.0,P134,Melaka,Masjid Tanah,Y.B. Datuk Wira,Abu Seman bin Haji Yusop,1944.0,male,bumiputera,BN - UMNO,Timbalan Menteri Dalam Negeri,,https://www.parlimen.gov.my/images/webuser/ahli/2010/abu.seman.yusop[1].jpg,ABU SEMAN YUSOP
+12.0,P135,Melaka,Alor Gajah,Y.B. Tan Sri Dr.,Fong Chan Onn,1944.0,male,chinese,BN - MCA,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/fong.chang.onn[1].jpg,FONG CHAN ONN
+12.0,P136,Melaka,Tangga Batu,Y.B. Datuk Wira Ir. Haji,Idris bin Haji Haron,1967.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P136-TANGGABATU.jpg,IDRIS BIN HJ HARON
+12.0,P137,Melaka,Bukit katil,Y.B. Datuk,Md Sirat bin Abu,1960.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P137-BKTKATIL.jpg,MOHD SIRAT BIN ABU
+12.0,P139,Melaka,Jasin,Y.B. Datuk Wira Haji,Ahmad bin Haji Hamzah,1949.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P139-JASIN.jpg,AHMAD HAMZAH
+12.0,P151,Johor,Simpang Renggam,Y.B. Tuan,Liang Teck Meng,1972.0,male,chinese,BN - GERAKAN,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P151-SPGRENGGAM.jpg,LIANG TECK MENG
+12.0,P153,Johor,Sembrong,Y.B. Dato' Seri,Hishammuddin bin Tun Hussein,1962.0,male,bumiputera,BN - UMNO,Menteri Dalam Negeri,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P153-SEMBRONG.jpg,HISHAMMUDDIN TUN HUSSEIN
+12.0,P165,Johor,Tanjong Piai,Y.B. Datuk,Wee Jeck Seng,1965.0,male,chinese,BN - MCA,,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P165-TANJGPIAI.jpg,Wee Jeck SENG
+12.0,P143,Johor,Pagoh,Y.A.B. Tan Sri Dato' Haji,Muhyiddin bin Mohd. Yassin,1948.0,male,bumiputera,BN - UMNO,Timbalan Perdana Menteri Dan Menteri Pelajaran,,https://www.parlimen.gov.my/images/webuser/ahli/2010/TPM.jpg,MUHYIDDIN BIN MD YASIN
+12.0,P145,Johor,Bakri,Y.B. Tuan,Er Teck Hwa,1973.0,male,chinese,DAP,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P145-BAKRI.jpg,ER TECK HWA
+12.0,P149,Johor,Sri Gading,Y.B. Datuk Haji,Mohamad bin Haji Aziz,1941.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P149-SRIGADING.jpg,MOHAMAD AZIZ
+12.0,P152,Johor,Kluang,Y.B. Dato' Dr.,Hou Kok Chung,1963.0,male,chinese,BN - MCA,Timbalan Menteri Pengajian Tinggi,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P152-KLUANG.jpg,HOU KOK CHUNG
+12.0,P154,Johor,Mersing,Y.B. Datuk Dr. Haji,Abdul Latiff bin Ahmad,1959.0,male,bumiputera,BN - UMNO,Timbalan Menteri Pertahanan,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P154-MERSING2.jpg,ABDUL LATIFF
+12.0,P156,Johor,Kota Tinggi,Y.B. Tan Sri Datuk Seri,Syed Hamid bin Syed Jaafar Albar,1944.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P156-KOTATINGGI2.jpg,SYED HAMID ALBAR
+12.0,P159,Johor,Pasir Gudang,Y.B. Dato' Seri,Mohamed Khaled bin Haji Nordin,1959.0,male,bumiputera,BN - UMNO,Menteri Pengajian Tinggi,,https://www.parlimen.gov.my/images/webuser/ahli/2010/mohamed.khaled.nordin[1].jpg,MOHAMED KHALED NORDIN
+12.0,P163,Johor,Kulai,Y.B. Tan Sri,Ong Ka Ting,1957.0,male,chinese,BN - MCA,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/ong.ka.ting.jpg,ONG KA TING
+12.0,P140,Johor,Segamat,Y.B. Datuk Seri Dr.,S. Subramaniam,1954.0,male,indian,BN - MIC,Menteri Sumber Manusia,,https://www.parlimen.gov.my/images/webuser/ahli/2010/subramaniam[1].jpg,S. SUBRAMANIAM
+12.0,P141,Johor,Sekijang,Y.B. Datuk Haji,Baharum bin Haji Mohamed,1957.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P141-SEKIJANG.jpg,BAHARUM BIN MOHAMED
+12.0,P142,Johor,Labis,Y.B. Datuk,Chua Tee Yong,1978.0,male,chinese,BN - MCA,Timbalan Menteri Pertanian Dan Industri Asas Tani,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P142-LABIS.jpg,CHUA TEE YONG
+12.0,P144,Johor,Ledang,Y.B. Tuan Ir. Haji,Hamim bin Samuri,1959.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P144-LEDANG.jpg,HAMIM SAMURI
+12.0,P146,Johor,Muar,Y.B. Dato',Razali bin Haji Ibrahim,1971.0,male,bumiputera,BN - UMNO,Timbalan Menteri Belia Dan Sukan,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P146-MUAR2.jpg,RAZALI BIN IBRAHIM
+12.0,P147,Johor,Parit Sulong,Y.B. Dato',Noraini binti Ahmad,1968.0,female,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P147-PARITSULONG.jpg,NORAINI AHMAD
+12.0,P150,Johor,Batu Pahat,Y.B. Dr. Haji,Mohd Puad bin Zarkashi,1958.0,male,bumiputera,BN - UMNO,Timbalan Menteri Pelajaran,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P150-BATUPAHAT.jpg,MOHD PUAD BIN ZARKASHI
+12.0,P155,Johor,Tenggara,Y.B. Datuk,Halimah binti Mohd Sadique,1962.0,female,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P155-TENGGARA.jpg,HALIMAH BINTI MOHAMED SADIQUE
+12.0,P158,Johor,Tebrau,Y.B. Tuan,Teng Boon Soon,1942.0,male,chinese,BN - MCA,,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P158-TEBRAU2.jpg,TENG BOON SOON
+12.0,P160,Johor,Johor Bahru,Y.B. Tan Sri Datuk Seri,Shahrir bin Abdul Samad,1950.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2010/JOHORBAHRU.JPG,SHAHRIR ABDUL SAMAD
+12.0,P161,Johor,Pulai,Y.B. Datuk,Nur Jazlan bin Mohamad,1966.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P161-PULAI2.jpg,NUR JAZLAN BIN MOHAMED
+12.0,P162,Johor,Gelang Patah,Y.B. Puan,Tan Ah Eng,1956.0,female,chinese,BN - MCA,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P162-GLPATAH.jpg,TAN AH ENG
+12.0,P164,Johor,Pontian,Y.B. Datuk Haji,Ahmad bin Haji Maslan,1967.0,male,bumiputera,BN - UMNO,Timbalan Menteri di Jabatan Perdana Menteri,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P164-PONTIAN.jpg,AHMAD MASLAN
+12.0,P157,Johor,Pengerang,Y.B. Dato' Sri,Azalina Dato' Othman Said,1964.0,female,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2010/azalina.othman[1].jpg,AZALINA OTHMAN SAID
+12.0,P168,Sabah,Kota Marudu,Y.B. Datuk Seri Panglima Dr.,Maximus @ Johnity Ongkili,1954.0,male,bumiputera,BN - PBS,"Menteri Sains, Teknologi Dan Inovasi",,https://www.parlimen.gov.my/images/webuser/ahli/2010/KOTAMARUDU.JPG,PANGLIMA MAXIMUS JOHNITY ONGKILI
+12.0,P169,Sabah,Kota Belud,Y.B. Dato' Haji,Abdul Rahman bin Haji Dahlan,1966.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P169-KOTABELUD.jpg,ABDUL RAHMAN BIN DAHLAN
+12.0,P170,Sabah,Tuaran,Y.B. Datuk Seri Panglima,Wilfred Mojilip Bumburing,1952.0,male,bumiputera,BEBAS,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P170-TUARAN.jpg,PANGLIMA WILFRED M. BUMBURING
+12.0,P172,Sabah,Kota Kinabalu,Y.B. Tuan Dr.,Hiew King Cheu,1952.0,male,chinese,DAP,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P172-KTKINABALU.jpg,HIEW KING CHEU
+12.0,P176,Sabah,Kimanis,Y.B. Dato' Sri,Anifah bin Haji Aman,1954.0,male,bumiputera,BN - UMNO,Menteri Luar Negeri,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P176-KIMANIS1.jpg,ANIFAH AMAN
+12.0,P178,Sabah,Sipitang,Y.B. Datuk,Sapawi bin Haji Amat Wasali @ Ahmad,1955.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P178-SIPITANG.jpg,SAPAWI BIN AMAT WASALI @ AHMAD
+12.0,P179,Sabah,Ranau,Y.B. Datuk,Siringan bin Gubat,1950.0,male,bumiputera,BN - UPKO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P179-RANAU.jpg,SIRINGAN GUBAT
+12.0,P180,Sabah,Keningau,Y.B. Datuk Seri Panglima,Joseph Pairin Kitingan,1941.0,male,bumiputera,BN - PBS,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P180-KENINGAU1.jpg,JOSEPH PAIRIN KITINGAN
+12.0,P183,Sabah,Beluran,Y.B. Datuk,Ronald Kiandee,1961.0,male,bumiputera,BN - UMNO,,Timbalan Yang di-Pertua Dewan Rakyat,https://www.parlimen.gov.my/images/webuser/ahli/2010/P183-BELURAN.jpg,RONALD KIANDEE
+12.0,P184,Sabah,Libaran,Y.B. Datuk,Juslie Ajirol,1954.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P184-LIBARAN.jpg,JUSLIE AJIROL
+12.0,P187,Sabah,Kinabatangan,Y.B. Datuk,Bung Moktar bin Radin,1960.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P187-KINABATANGAN1.jpg,BUNG MOKTAR RADIN
+12.0,P189,Sabah,Semporna,Y.B. Dato' Seri Haji,Mohd Shafie bin Hj. Apdal,1958.0,male,bumiputera,BN - UMNO,Menteri Kemajuan Luar Bandar Dan Wilayah,,https://www.parlimen.gov.my/images/webuser/ahli/2010/mohd.shafie.apdal[1].jpg,MOHD SHAFIE APDAL
+12.0,P190,Sabah,Tawau,Y.B. Datuk,Chua Soon Bui,1955.0,female,chinese,SAPP,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P190-TAWAU.jpg,CHUA SOON BUI
+12.0,P167,Sabah,Kudat,Y.B. Datuk Haji,Abd Rahim bin Bakri,1962.0,male,bumiputera,BN - UMNO,Timbalan Menteri Pengangkutan,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P167-KUDAT1.jpg,ABDUL RAHIM BAKRI
+12.0,P171,Sabah,Sepanggar,Y.B. Datuk,Enchin bin Majimbun @ Eric,1950.0,male,bumiputera,SAPP,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P171-SEPANGGAR1.jpg,ERIC E. MAJIMBUN
+12.0,P173,Sabah,Putatan,Y.B. Datuk Dr.,Makin @ Marcus Mojigoh,1953.0,male,bumiputera,BN - UPKO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P173-PUTATAN.jpg,MARCUS MAKIN MOJIGOH
+12.0,P174,Sabah,Penampang,Y.B. Tan Sri,Bernard Giluk Dompok,1950.0,male,bumiputera,BN - UPKO,"Menteri Perusahaan, Perladangan Dan Komoditi",,https://www.parlimen.gov.my/images/webuser/ahli/2010/bernard.giluk.dompok.jpg,BERNARD GILUK DOMPOK
+12.0,P175,Sabah,Papar,Y.B. Datuk,Rosnah binti Haji Abdul Rashid Shirlin,1973.0,female,bumiputera,BN - UMNO,Timbalan Menteri Kesihatan,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P175-PAPAR.jpg,ROSNAH HJ ABDUL RASHID SHIRLIN
+12.0,P177,Sabah,Beaufort,Y.B. Datuk Seri Panglima Haji,Lajim bin Haji Ukin,1956.0,male,bumiputera,BEBAS,,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P177-BEAUFORT.jpg,LAJIM BIN UKIN (PANGLIMA)
+12.0,P181,Sabah,Tenom,Y.B. Datuk,Raime Unggi,1970.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P181-TENOM.jpg,RAIME BIN UNGGI
+12.0,P182,Sabah,Pensiangan,Y.B. Tan Sri Datuk Seri Panglima,Joseph Kurup,1945.0,male,bumiputera,BN - PBRS,Timbalan Menteri Sumber Asli Dan Alam Sekitar,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P182-PENSIANGAN.jpg,JOSEPH KURUP
+12.0,P188,Sabah,Silam,Y.B. Tuan Haji,Salleh bin Kalbi,1965.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P188-SILAM.jpg,SALLEH KALBI
+12.0,P191,Sabah,Kalabakan,Y.B. Datuk Seri Panglima Haji,Abdul Ghapur bin Salleh,1943.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P191-KALABAKAN1.jpg,ABDUL GHAPUR BIN SALLEH
+12.0,P192,Sarawak,Mas Gading,Y.B. Datuk Dr.,Tekhee @Tiki anak Lafe,1954.0,male,bumiputera,BN - SPDP,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P192-MASGADING.jpg,TIKI LAFE
+12.0,P193,Sarawak,Santubong,Y.B. Datuk Dr. Haji,Wan Junaidi bin Tuanku Jaafar,1946.0,male,bumiputera,BN - PBB,,Timbalan Yang di-Pertua Dewan Rakyat,https://www.parlimen.gov.my/images/webuser/ahli/2010/P193-SANTUBONG.jpg,WAN JUNAIDI BIN TUANKU JAAFAR
+12.0,P196,Sarawak,Stampin,Y.B. Dato',Yong Khoon Hian @ Yong Khoon Seng,1942.0,male,chinese,BN - SUPP,Timbalan Menteri Kerja Raya,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P196-STAMPIN.jpg,YONG KHOON SENG
+12.0,P197,Sarawak,Kota Samarahan,Y.B. Dato' Sri,Sulaiman Abdul Rahman Taib,1969.0,male,bumiputera,BN - PBB,,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P197-KOTASEMARAHAN.jpg,SULAIMAN ABDUL RAHMAN B ABDUL TAIB
+12.0,P198,Sarawak,Mambong,Y.B. Dato' Dr.,James Dawos Mamit,1949.0,male,bumiputera,BN - PBB,Timbalan Menteri Pelancongan,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P198-MAMBONG.jpg,JAMES DAWOS ANAK MAMIT
+12.0,P199,Sarawak,Serian,Y.B. Datuk,Richard Riot Anak Jaem,1952.0,male,bumiputera,BN - SUPP,Timbalan Menteri Luar Negeri,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P199-SERIAN.jpg,RICHARD RIOT ANAK JAEM
+12.0,P201,Sarawak,Batang Lupar,Y.B. Datuk Hajah,Rohani binti Haji Abd. Karim,1955.0,female,bumiputera,BN - PBB,"Timbalan Menteri Perdagangan Dalam Negeri, Koperasi Dan Kepenggunaan",,https://www.parlimen.gov.my/images/webuser/ahli/2010/P201-BTGLUPAR.jpg,ROHANI KARIM
+12.0,P202,Sarawak,Sri Aman,Y.B. Tuan,Masir Anak Kujat,1955.0,male,bumiputera,BN - PRS,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P202-SRIAMAN.jpg,MASIR KUJAT
+12.0,P203,Sarawak,Lubok Antu,Y.B. Tuan,William @ Nyallau Badak,1951.0,male,bumiputera,BN - PRS,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P203-LUBOKANTU.jpg,WILLIAM NYALLAU
+12.0,P204,Sarawak,Betong,Y.B. Dato Sri,Douglas Uggah Embas,1956.0,male,bumiputera,BN - PBB,Menteri Sumber Asli Dan Alam Sekitar,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P204-BETONG2.jpg,DOUGLAS UGGAH EMBAS
+12.0,P207,Sarawak,Igan,Y.B. Datuk Haji,Abdul Wahab bin Haji Dolah,1951.0,male,bumiputera,BN - PBB,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P207-IGAN.jpg,ABDUL WAHABDUL BIN DOLAH
+12.0,P208,Sarawak,Sarikei,Y.B. Tuan,Ding Kuong Hiing,1955.0,male,chinese,BN - SUPP,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P208-SARIKEI.jpg,DING KUONG HIING
+12.0,P211,Sarawak,Lanang,Y.B. Datuk,Tiong Thai King,1946.0,male,chinese,BN - SUPP,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P211-LANANG.jpg,TIONG THAI KING
+12.0,P214,Sarawak,Selangau,Y.B. Datuk,Joseph Entulu Anak Belaun,1955.0,male,bumiputera,BN - PRS,Timbalan Menteri Kemajuan Luar Bandar Dan Wilayah,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P214-SELANGAU.jpg,JOSEPH ENTULU BELAUN
+12.0,P215,Sarawak,Kapit,Y.B. Datuk,Alexander Nanta Linggi,1959.0,male,bumiputera,BN - PBB,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P215-KAPIT.jpg,ALEXANDER NANTA LINGGI
+12.0,P217,Sarawak,Bintulu,Y.B. Dato' Seri,Tiong King Sing,1962.0,male,chinese,BN - SPDP,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P217-BINTULU.jpg,TIONG KING SING
+12.0,P218,Sarawak,Sibuti,Y.B. Tuan Haji,Ahmad Lai bin Bujang,1950.0,male,bumiputera,BN - PBB,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P218-SIBUTI.jpg,AHMAD LAI BIN BUJANG
+12.0,P219,Sarawak,Miri,Y.B. Dato' Sri,Peter Chin Fah Kui,1946.0,male,bumiputera,BN - SUPP,"Menteri Tenaga, Teknologi Hijau Dan Air",,https://www.parlimen.gov.my/images/webuser/ahli/2010/P219-MIRI.jpg,PETER CHIN FAH KUI
+12.0,P194,Sarawak,Petra Jaya,Y.B. Datuk Haji,Fadilah bin Haji Yusof,1963.0,male,bumiputera,BN - PBB,"Timbalan Menteri Sains, Teknologi Dan Inovasi",,https://www.parlimen.gov.my/images/webuser/ahli/2010/P194-PETRAJAYA1.jpg,FADILLAH HJ YUSOF
+12.0,P200,Sarawak,Batang Sadong,Y.B. Puan Hajah,Nancy binti Haji Shukri,1962.0,female,bumiputera,BN - PBB,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P200-BTGSADONG.jpg,NANCY SHUKRI
+12.0,P205,Sarawak,Saratok,Y.B. Tuan,Jelaing Anak Mersat,1949.0,male,bumiputera,BN - SPDP,Timbalan Menteri Pengangkutan,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P205-SARATOK1.jpg,JELAING ANAK MERSAT
+12.0,P209,Sarawak,Julau,Y.B. Dato',Joseph Salang Anak Gandum,1950.0,male,bumiputera,BN - PRS,"Timbalan Menteri Penerangan, Komunikasi dan Kebudayaan",,https://www.parlimen.gov.my/images/webuser/ahli/2010/P209-JULAU.jpg,JOSEPH SALANG ANAK GANDUM
+12.0,P213,Sarawak,Mukah,Y.B. Dato' Sri Dr.,Muhammad Leo Micheal Toyad Abdullah,1951.0,male,bumiputera,BN - PBB,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P213-MUKAH.jpg,MUHAMMAD LEO MICHAEL TOYAD
+12.0,P019,Kelantan,Tumpat,Y.B. Dato' Haji,Kamarudin bin Jaffar,1952.0,male,bumiputera,PAS,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P019-TUMPAT.jpg,KAMARUDIN JAFFAR
+12.0,P022,Kelantan,Pasir Mas,Y.B. Dato',Ibrahim Ali,1951.0,male,bumiputera,BEBAS,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P022-PASIRMAS.jpg,IBRAHIM BIN ALI
+12.0,P023,Kelantan,Rantau Panjang,Y.B. Puan Hajah,Siti Zailah binti Mohd Yusoff,1964.0,female,bumiputera,PAS,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P023-RNTPJG.jpg,KAK LAH
+12.0,P043,Pulau Pinang,Bagan,Y.B. Tuan,Lim Guan Eng,1961.0,male,chinese,DAP,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P043-BAGAN.jpg,LIM GUAN ENG
+12.0,P044,Pulau Pinang,Permatang pauh,Y.B. Dato' Seri,Anwar bin Ibrahim,1953.0,female,bumiputera,PKR,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P044-PMTGPAUHanwar2.jpg,WAN AZIZAH
+12.0,P045,Pulau Pinang,Bukit Mertajam,Y.B. Puan,Chong Eng,1958.0,female,chinese,DAP,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P045-BUKITMERTAJAM.jpg,CHONG ENG
+12.0,P051,Pulau Pinang,Bukit Gelugor,Y.B. Tuan,Karpal Singh a/l Ram Singh,1941.0,male,other,DAP,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P051-BUKITGELUGOR1.jpg,KARPAL SINGH
+12.0,P064,Perak,Ipoh Timur,Y.B. Tuan,Lim Kit Siang,1941.0,male,chinese,DAP,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P064-IPOHTIMUR.jpg,LIM KIT SIANG
+12.0,P114,WP Kuala Lumpur,Kepong,Y.B. Dr.,Tan Seng Giaw,1943.0,male,chinese,DAP,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P114-KEPONG.jpg,TAN SENG GIAW
+12.0,P120,WP Kuala Lumpur,Bukit Bintang,Y.B. Tuan,Fong Kui Lun,1947.0,male,chinese,DAP,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P120-BKTBINTANG.jpg,FONG KUI LUN
+12.0,P122,WP Kuala Lumpur,Seputeh,Y.B. Puan,Teresa Kok Suh Sim,1965.0,female,chinese,DAP,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P122-SEPUTEH1.jpg,TERESA KOK
+12.0,P123,WP Kuala Lumpur,Cheras,Y.B. Tuan,Tan Kok Wai,1958.0,male,chinese,DAP,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P123-CHERAS.jpg,TAN KOK WAI
+12.0,P066,Perak,Batu Gajah,Y.B. Puan,Fong Po Kuan,1974.0,female,chinese,DAP,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P066-BTGAJAH.jpg,FONG PO KUAN
+12.0,P011,Kedah,Pendang,Y.B. Dato' Dr. Haji,Mohd Hayati bin Othman,1958.0,male,bumiputera,PAS,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P011-PENDANG.jpg,MOHD HAYATI OTHMAN
+12.0,P020,Kelantan,Pengkalan Chepa,Y.B. Dato' Haji,Ab. Halim bin Ab. Rahman,1940.0,male,bumiputera,PAS,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P020-PKLNCHEPA.jpg,ABHALIM BIN ABRAHMAN
+12.0,P024,Kelantan,Kubang Kerian,Y.B. Tuan,Salahuddin bin Haji Ayub,1962.0,male,bumiputera,PAS,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P024-KBGKERIAN.jpg,SALAHUDDIN AYUB
+12.0,P049,Pulau Pinang,Tanjong,Y.B. Tuan,Chow Kon Yeow,1959.0,male,chinese,DAP,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P049-TANJONG.jpg,CHOW KON YEOW
+12.0,P065,Perak,Ipoh Barat,Y.B. Tuan,M. Kulasegaran,1958.0,male,indian,DAP,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P065-IPOHBARAT.jpg,M. KULA
+12.0,P186,Sabah,Sandakan,Y.B. Datuk,Liew Vui Keong,1960.0,male,chinese,BN - LDP,Timbalan Menteri di Jabatan Perdana Menteri,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P186-SANDAKAN.jpg,LIEW VUI KEONG
+12.0,P195,Sarawak,Bandar Kuching,Y.B. Tuan,Chong Chieng Jen,1971.0,male,chinese,DAP,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P195-BDRKUCHING.jpg,CHONG CHIENG JEN
+12.0,P028,Kelantan,Pasir Puteh,Y.B. Tuan,Muhammad bin Husain,1952.0,male,bumiputera,PAS,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P028-PSRPUTEH.jpg,MUHAMMAD HUSAIN
+12.0,P073,Perak,Pasir Salak,Y.B. Dato' Haji,Tajuddin bin Abdul Rahman,1948.0,male,bumiputera,BN - UMNO,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/pasirsalak.jpg,TAJUDDIN ABDUL RAHMAN
+12.0,P148,Johor,Ayer Hitam,Y.B. Datuk Ir. Dr.,Wee Ka Siong,1969.0,male,chinese,BN - MCA,Timbalan Menteri Pelajaran,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P148-AIRHITAM1.jpg,WEE KA SIONG
+12.0,P052,Pulau Pinang,Bayan Baru,Y.B. Dato' Seri,Zahrain Mohamed Hashim,1956.0,male,bumiputera,BEBAS,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P052-BYNBARU.jpg,ZAHRAIN MOHAMED HASHIM
+12.0,P138,Melaka,Kota Melaka,Y.B. Tuan,Sim Tong Him,1949.0,male,chinese,DAP,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P138-KMELAKA.jpg,SIM TONG HIM
+12.0,P216,Sarawak,Hulu Rajang,Y.B. Datuk,Billy Abit Joo,1950.0,male,bumiputera,BN - PRS,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P216-HLRAJANG.jpg,BILLY ABIT JOO
+12.0,P210,Sarawak,Kanowit,Y.B. Datuk,Aaron Ago Anak Dagang,1959.0,male,bumiputera,BN - PRS,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P210-KANOWIT.jpg,AARON AGO ANAK DAGANG
+12.0,P014,Kedah,Merbok,Y.B. Dato',Rashid bin Din,1947.0,male,bumiputera,PKR,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P014-MERBOK.jpg,RASHID DIN
+12.0,P118,WP Kuala Lumpur,Setiawangsa,Y.B. Dato' Sri Haji,Zulhasnan bin Rafique,1955.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2010/SETIAWANGSA.JPG,ZULHASNAN BIN RAFIQUE
+12.0,P220,Sarawak,Baram,Y.B. Dato',Jacob Dungau Sagan,1947.0,male,bumiputera,BN - SPDP,Timbalan Menteri Perdagangan Antarabangsa Dan Industri,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P220-BARAM.jpg,JACOB DUNGAU SAGAN
+12.0,P221,Sarawak,Limbang,Y.B. Tuan Haji,Hasbi bin Habibollah,1963.0,male,bumiputera,BN - PBB,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P221-LIMBANG.jpg,HASBI BIN HABIBOLLAH
+12.0,P222,Sarawak,Lawas,Y.B. Dato',Henry Sum Agong,1946.0,male,bumiputera,BN - PBB,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P222-LAWAS.jpg,HENRY SUM AGONG
+12.0,P206,Sarawak,Tanjong Manis,Y.B. Datuk Hajjah,Norah binti Abdul Rahman,1960.0,female,bumiputera,BN - PBB,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P206-TANJONGMANIS.jpg,NORAH TUN ABDUL RAHMAN
+12.0,,Selangor,Hulu Selangor,Y.B. Tuan,Kamalanathan A/L Panchanathan,,,,BN - MIC,,,https://www.parlimen.gov.my/images/webuser/ahli/2010/pkamalathan-w.jpg,
+12.0,P212,Sarawak,Sibu,Y.B. Tuan,Wong Ho Leng,1943.0,male,chinese,DAP,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/Wong Ho Leng.jpg,ROBERT LAU HOI CHEW
+12.0,P059,Perak,Bukit Gantang,Y.B. Dato' Seri Ir.,Mohammad Nizar bin Jamaluddin,1960.0,male,bumiputera,PAS,,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P059-BKTGANTG-nizar.jpg,ROSLAN BIN SHAHARUM
+12.0,P185,Sabah,Batu Sapi,Y.B. Datin,Linda Tsen Thau Lin,1957.0,male,chinese,BN - PBS,Tiada,,https://www.parlimen.gov.my/images/webuser/ahli/2010/Linda Tsen Thau Lin.jpg,EDMUND CHONG KET WAH
+12.0,,0,,Tan Sri Datuk Seri Panglima Pandikar Amin Haji,Mulia,,,,,,YANG DIPERTUA DEWAN RAKYAT,https://www.parlimen.gov.my/images/webuser/ahli/2010/ydp.jpg,
+12.0,,0,,Datuk,Roosme Hamzah,,,,,,Setiausaha Dewan Rakyat,https://www.parlimen.gov.my/images/webuser/ahli/2010/stu-dr.jpg,
+12.0,P,Selangor,Titiwangsa,,Kosong,,,,PAS,,,https://www.parlimen.gov.my/images/webuser/ahli/2010/seat_kosong_dummy.jpg,
+13.0,P085,Pahang,Pekan,YAB Dato' Sri,Mohd. Najib bin Tun Haji Abdul Razak,1954.0,male,bumiputera,BN - UMNO,Perdana Menteri Malaysia/Menteri Kewangan,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P085.jpg,MOHD NAJIB BIN TUN ABDUL RAZAK
+13.0,P143,Johor,Pagoh,YB Tan Sri Dato' Haji,Muhyiddin bin Mohd. Yassin,1947.0,male,bumiputera,PPBM,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P143.jpg,MUHYIDDIN BIN MD YASIN
+13.0,P078,Pahang,Cameron Highlands,YB Datuk Seri,Palanivel a/l K. Govindasamy,1949.0,male,indian,BN - MIC,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P078.jpg,G. PALANIVEL
+13.0,P061,Perak,Padang Rengas,YB Dato' Seri,Mohamed Nazri Bin Abdul Aziz,1954.0,male,bumiputera,BN - UMNO,Menteri Pelancongan Dan Kebudayaan,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P061.jpg,MOHAMED NAZRI BIN TAN ABDUL AZIZ
+13.0,P090,Pahang,Bera,YB Dato' Sri,Ismail Sabri Bin Yaakob,1960.0,male,bumiputera,BN - UMNO,Menteri Kemajuan Luar Bandar dan Wilayah,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P090.jpg,ISMAIL SABRI YAAKOB
+13.0,P063,Perak,Tambun,YB Dato' Seri Haji,Ahmad Husni bin Mohamad Hanadzlah,1953.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P063.jpg,AHMAD HUSNI HANADZLAH
+13.0,P176,Sabah,Kimanis,YB Dato' Sri,Anifah bin Haji Aman,1954.0,male,bumiputera,BN - UMNO,Menteri Luar Negeri,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P176.jpg,ANIFAH AMAN
+13.0,P012,Kedah,Jerai,YB Mejar Jeneral Dato' Seri,Jamil Khir bin Baharom (B),1962.0,male,bumiputera,BN - UMNO,Menteri Di Jabatan Perdana Menteri,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P012.jpg,JAMIL KHIR BIN BAHAROM
+13.0,P033,Terengganu,Besut,YB Dato' Seri Haji,Idris Bin Jusoh,1956.0,male,bumiputera,BN - UMNO,Menteri Pendidikan Tinggi,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P033.jpg,IDRIS JUSOH
+13.0,P003,Perlis,Arau,YB Dato' Seri Dr.,Shahidan Bin Kassim,1952.0,male,bumiputera,BN - UMNO,Menteri Di Jabatan Perdana Menteri,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P003.jpg,SHAHIDAN BIN KASSIM
+13.0,P131,Negeri Sembilan,Rembau,YB Brig Jen,Khairy Jamaluddin,1976.0,male,bumiputera,BN - UMNO,Menteri Belia dan Sukan,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P131.jpg,KHAIRY JAMALUDDIN ABU BAKAR
+13.0,P175,Sabah,Papar,YB Datuk,Rosnah Binti Haji Abdul Rashid Shirlin,1973.0,female,bumiputera,BN - UMNO,Timbalan Menteri Kerja Raya,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P175.jpg,ROSNAH HJ ABDUL RASHID SHIRLIN
+13.0,P146,Johor,Muar,YB Datuk Seri,Razali bin Ibrahim,1971.0,male,bumiputera,BN - UMNO,Timbalan Menteri Di Jabatan Perdana Menteri,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P146.jpg,RAZALI BIN IBRAHIM
+13.0,P164,Johor,Pontian,YB Datuk Seri,Ahmad bin Haji Maslan,1966.0,male,bumiputera,BN - UMNO,Timbalan Menteri Perdagangan Antarabangsa dan Industri,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P164.jpg,AHMAD MASLAN
+13.0,P198,Sarawak,Mambong,YB Dato' Sri Dr.,James Dawos Mamit,1949.0,male,bumiputera,BN - PBB,"Timbalan Menteri Tenaga, Teknologi Hijau dan Air",,https://www.parlimen.gov.my/images/webuser/ahli/2013/P198.jpg,JAMES DAWOS ANAK MAMIT
+13.0,P073,Perak,Pasir Salak,YB Dato' Sri Haji,Tajuddin bin Abdul Rahman,1948.0,male,bumiputera,BN - UMNO,Timbalan Menteri Pertanian dan Industri Asas Tani,,https://www.parlimen.gov.my/images/webuser/ahli/2013/pasirsalak-s.jpg,TAJUDDIN ABDUL RAHMAN
+13.0,P144,Johor,Ledang,YB Datuk Ir. Dr. Haji,Hamim Bin Samuri,1959.0,male,bumiputera,BN - UMNO,Timbalan Menteri Sumber Asli dan Alam Sekitar,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P144.jpg,HAMIM SAMURI
+13.0,P153,Johor,Sembrong,YB Dato' Seri,Hishammuddin bin Tun Hussein,1962.0,male,bumiputera,BN - UMNO,Menteri Pertahanan,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P153.jpg,HISHAMMUDDIN TUN HUSSEIN
+13.0,P200,Sarawak,Batang Sadong,YB Dato' Sri Hajah,Nancy Binti Shukri,1962.0,female,bumiputera,BN - PBB,Menteri Di Jabatan Perdana Menteri,,https://www.parlimen.gov.my/images/webuser/ahli/2013/nancy.PNG,NANCY SHUKRI
+13.0,P179,Sabah,Ranau,YB Datuk Dr.,Ewon Ebin,1955.0,male,bumiputera,BN - UPKO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P179.jpg,EWON EBIN
+13.0,P193,Sarawak,Santubong,YB Dato Sri Dr.,Wan Junaidi bin Tuanku Jaafar,1946.0,male,bumiputera,BN - PBB,Menteri Sumber Asli dan Alam Sekitar,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P193.jpg,WAN JUNAIDI BIN TUANKU JAAFAR
+13.0,P007,Kedah,Padang Terap,YB Dato' Seri,Mahdzir Bin Khalid,1961.0,male,bumiputera,BN - UMNO,Menteri Pendidikan,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P007.jpg,MAHDZIR KHALID
+13.0,P177,Sabah,Beaufort,YB Datuk Hajah,Azizah Binti Datuk Seri Panglima Mohd. Dun,1955.0,female,bumiputera,BN - UMNO,"Timbalan Menteri Pembangunan Wanita, Keluarga dan Masyarakat",,https://www.parlimen.gov.my/images/webuser/ahli/2013/P177.jpg,AZIZAH BINTI MOHD DUN
+13.0,P177,Sabah,Beaufort,YB Datuk Hajah,Azizah Binti Datuk Seri Panglima Mohd. Dun,1956.0,male,bumiputera,BN - UMNO,"Timbalan Menteri Pembangunan Wanita, Keluarga dan Masyarakat",,https://www.parlimen.gov.my/images/webuser/ahli/2013/P177.jpg,LAJIM BIN UKIN (PANGLIMA)
+13.0,P053,Pulau Pinang,Balik Pulau,YB Dato' Seri Dr.,Hilmi Bin Yahaya,1949.0,male,bumiputera,BN - UMNO,Timbalan Menteri Kesihatan,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P053.jpg,HILMI YAHAYA
+13.0,P094,Selangor,Hulu Selangor,YB Datuk,P. Kamalanathan a/l P. Panchanathan,1966.0,male,indian,BN - MIC,Timbalan Menteri Pendidikan,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P094.jpg,P.KAMALANATHAN
+13.0,P038,Terengganu,Hulu Terengganu,YB Dato' Sri,Jailani Bin Johari,1966.0,male,bumiputera,BN - UMNO,Timbalan Menteri Komunikasi dan Multimedia,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P038.jpg,JAILANI JOHARI
+13.0,P190,Sabah,Tawau,YB Datuk Dr.,Mary Yap Kain Ching @ Yap Ken Jin,1951.0,female,chinese,BN - PBS,Timbalan Menteri Pendidikan Tinggi,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P190.jpg,MARY YAP KAIN CHING
+13.0,P189,Sabah,Semporna,YB Dato' Seri Haji,Mohd. Shafie bin Haji Apdal,1958.0,male,bumiputera,WARISAN,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P189.jpg,MOHD SHAFIE APDAL
+13.0,P086,Pahang,Maran,YB Dato' Sri Haji,Ismail bin Abd. Muttalib,1955.0,male,bumiputera,BN - UMNO,Timbalan Menteri Sumber Manusia,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P086.jpg,ISMAIL BIN HJ ABDUL MUTTALIB
+13.0,P030,Kelantan,Jeli,YB Dato' Sri,Mustapa bin Mohamed,1951.0,male,bumiputera,BN - UMNO,Menteri Perdagangan Antarabangsa dan Industri,,https://www.parlimen.gov.my/images/webuser/ahli/2013/jeli.jpg,MUSTAPA BIN MOHAMED
+13.0,P168,Sabah,Kota Marudu,YB Datuk Seri Panglima Dr.,Maximus Johnity Ongkili,1954.0,male,bumiputera,BN - PBS,"Menteri Tenaga, Teknologi Hijau dan Air",,https://www.parlimen.gov.my/images/webuser/ahli/2013/P168.jpg,PANGLIMA MAXIMUS JOHNITY ONGKILI
+13.0,P182,Sabah,Pensiangan,YB Tan Sri Datuk Seri Panglima,Joseph Kurup,1945.0,male,bumiputera,BN - PBRS,Menteri Di Jabatan Perdana Menteri,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P182.jpg,JOSEPH KURUP
+13.0,P214,Sarawak,Selangau,YB Datuk,Joseph Entulu Anak Belaun,1955.0,male,bumiputera,BN - PRS,Menteri Di Jabatan Perdana Menteri,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P214.jpg,JOSEPH ENTULU BELAUN
+13.0,P201,Sarawak,Batang Lupar,YB Dato' Sri Hajah,Rohani binti Haji Abdul Karim,1955.0,female,bumiputera,BN - PBB,"Menteri Pembangunan Wanita, Keluarga dan Masyarakat",,https://www.parlimen.gov.my/images/webuser/ahli/2013/batang lupar.jpg,ROHANI KARIM
+13.0,P169,Sabah,Kota Belud,YB Datuk Seri Panglima,Abdul Rahman bin Dahlan,1966.0,male,bumiputera,BN - UMNO,Menteri di Jabatan Perdana Menteri,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P169.jpg,ABDUL RAHMAN BIN DAHLAN
+13.0,P204,Sarawak,Betong,YB Datuk Amar,Douglas Uggah Embas,1956.0,male,bumiputera,BN - PBB,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P204.jpg,DOUGLAS UGGAH EMBAS
+13.0,P072,Perak,Tapah,YB Datuk Seri,M. Saravanan,1968.0,male,indian,BN - MIC,Timbalan Menteri Belia Dan Sukan,,https://www.parlimen.gov.my/images/webuser/ahli/2013/DATUK M SARAVANAN.png,M. SARAVANAN
+13.0,P056,Perak,Larut,YB Dato' Seri,Hamzah bin Zainudin,1957.0,male,bumiputera,BN - UMNO,"Menteri Perdagangan Dalam Negeri, Koperasi dan Kepenggunaan",,https://www.parlimen.gov.my/images/webuser/ahli/2013/P056.jpg,HAMZAH ZAINUDIN
+13.0,P167,Sabah,Kudat,YB Datuk,Abd Rahim Bin Bakri,1961.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P167.jpg,ABDUL RAHIM BAKRI
+13.0,P155,Johor,Tenggara,YB Datuk,Halimah Binti Mohd Sadique,1962.0,female,bumiputera,BN - UMNO,"Timbalan Menteri Kesejahteraan Bandar, Perumahan Dan Kerajaan Tempatan",,https://www.parlimen.gov.my/images/webuser/ahli/2013/P155.jpg,HALIMAH BINTI MOHAMED SADIQUE
+13.0,P149,Johor,Sri Gading,YB Datuk,Ab. Aziz bin Kaprawi,1960.0,male,bumiputera,BN - UMNO,Timbalan Menteri Pengangkutan,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P149.jpg,AZIZ KAPRAWI
+13.0,P215,Sarawak,Kapit,YB Datuk,Alexander Nanta Linggi,1959.0,male,bumiputera,BN - PBB,Timbalan Menteri Kemajuan Luar Bandar dan Wilayah,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P215.jpg,ALEXANDER NANTA LINGGI
+13.0,P136,Melaka,Tangga Batu,YB Datuk Wira Dr.,Abu Bakar Bin Mohamad Diah,1959.0,male,bumiputera,BN - UMNO,"Timbalan Menteri Sains, Teknologi dan Inovasi",,https://www.parlimen.gov.my/images/webuser/ahli/2013/P136.jpg,ABU BAKAR MOHAMAD DIAH
+13.0,P075,Perak,Bagan Datuk,YAB Dato' Seri Dr.,Ahmad Zahid Bin Hamidi,1953.0,male,bumiputera,BN - UMNO,Timbalan Perdana Menteri / Menteri Dalam Negeri,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P075.jpg,AHMAD ZAHID BIN HAMIDI
+13.0,P040,Terengganu,Kemaman,YB Dato' Sri,Ahmad Shabery Bin Cheek,1959.0,male,bumiputera,BN - UMNO,Menteri Pertanian dan Industri Asas Tani,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P040.jpg,AHMAD SHABERY CHEEK
+13.0,P140,Johor,Segamat,YB Datuk Seri Dr.,S. Subramaniam,1953.0,male,indian,BN - MIC,Menteri Kesihatan,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P140.jpg,S. SUBRAMANIAM
+13.0,P194,Sarawak,Petrajaya,YB Dato' Sri Haji,Fadillah Bin Yusof,1962.0,male,bumiputera,BN - PBB,Menteri Kerja Raya,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P194.jpg,FADILLAH HJ YUSOF
+13.0,P129,Negeri Sembilan,Kuala Pilah,YB Dato' Sri,Hasan bin Malek,1946.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P129.jpg,HASAN BIN MALEK
+13.0,P199,Sarawak,Serian,YB Dato' Sri,Richard Riot anak Jaem,1952.0,male,bumiputera,BN - SUPP,Menteri Sumber Manusia,,https://www.parlimen.gov.my/images/webuser/ahli/2013/YB Serian.jpg,RICHARD RIOT ANAK JAEM
+13.0,P125,WP Putrajaya,Putrajaya,YB Datuk Seri,Tengku Adnan bin Tengku Mansor,1951.0,male,bumiputera,BN - UMNO,Menteri Wilayah Persekutuan,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P125.jpg,TENGKU ADNAN BIN TENGKU MANSOR
+13.0,P151,Johor,Simpang Renggam,YB Datuk,Liang Teck Meng,1972.0,male,chinese,BN - GERAKAN,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P151.jpg,LIANG TECK MENG
+13.0,P004,Kedah,Langkawi,YB Dato' Ir.,Nawawi Bin Ahmad,1961.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P004.jpg,NAWAWI BIN AHMAD
+13.0,P005,Kedah,Jerlun,YB Dato' Wira,Othman Bin Aziz,1959.0,male,bumiputera,BN - UMNO,Timbalan Menteri Kewangan I,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P005.jpg,OTHMAN BIN AZIZ
+13.0,P001,Perlis,Padang Besar,YB Datuk,Zahidi Bin Zainul Abidin,1961.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P001.jpg,ZAHIDI BIN ZAINUL ABIDIN
+13.0,P185,Sabah,Batu Sapi,YB Datuk,Linda Tsen Thau Lin,1957.0,female,chinese,BN - PBS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P185.jpg,LINDA TSEN THAU LIN
+13.0,P218,Sarawak,Sibuti,YB Datuk Haji,Ahmad Lai bin Bujang,1950.0,male,bumiputera,BN - PBB,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P218.jpg,AHMAD LAI BIN BUJANG
+13.0,P134,Melaka,Masjid Tanah,YB Datuk Wira Hajjah,Mas Ermieyati Binti Haji Samsudin,1977.0,female,bumiputera,BN - UMNO,Timbalan Menteri Pelancongan dan Kebudayaan,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P134.jpg,MAS ERMIEYATI
+13.0,P058,Perak,Bagan Serai,YB Dato' Dr. Haji,Noor Azmi Bin Ghazali,1962.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P058.jpg,NOOR AZMI BIN GHAZALI
+13.0,P192,Sarawak,Mas Gading,YB Dato',Nogeh Anak Gumbek,1957.0,male,bumiputera,BN - PDP,Timbalan Menteri Pertanian dan Industri Asas Tani,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P192.jpg,NOGEH ANAK GUMBEK
+13.0,P216,Sarawak,Hulu Rajang,YB Datuk,Wilson Ugak Anak Kumbong,1962.0,male,bumiputera,BN - PRS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P216.jpg,WILSON UGAK ANAK KUMBONG
+13.0,P197,Sarawak,Kota Samarahan,YB Puan,Rubiah Binti Haji Wang,1968.0,female,bumiputera,BN - PBB,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P197.jpg,RUBIAH WANG
+13.0,P181,Sabah,Tenom,YB Datuk,Raime bin Unggi,1970.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P181.jpg,RAIME BIN UNGGI
+13.0,P221,Sarawak,Limbang,YB Tuan Haji,Hasbi bin Haji Habibollah,1963.0,male,bumiputera,BN - PBB,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P221.jpg,HASBI BIN HABIBOLLAH
+13.0,P222,Sarawak,Lawas,YB Dato',Henry Sum Agong,1946.0,male,bumiputera,BN - PBB,"Timbalan Menteri Perdagangan Dalam Negeri, Koperasi dan Kepenggunaan",,https://www.parlimen.gov.my/images/webuser/ahli/2013/P222.jpg,HENRY SUM AGONG
+13.0,P013,Kedah,Sik,YB Dr.,Mansor Bin Abdul Rahman,1961.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P013.jpg,MANSOR BIN ABDUL RAHMAN
+13.0,P141,Johor,Sekijang,YB Tuan,Anuar Bin Abd. Manap,1977.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P141.jpg,ANUAR BIN ABDUL MANAP
+13.0,P081,Pahang,Jerantut,YB Dato' Haji,Ahmad Nazlan Bin Idris,1958.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P081.jpg,AHMAD NAZLAN
+13.0,P092,Selangor,Sabak Bernam,YB Datuk Haji,Mohd Fasiah Bin Mohd Fakeh,1956.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P092.jpg,FASIAH
+13.0,P171,Sabah,Sepanggar,YB Datuk,Jumat Haji Idris,1958.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P171.jpg,JUMAT BIN IDRIS
+13.0,P203,Sarawak,Lubok Antu,YB Datuk,William @ Nyallau Anak Badak,1951.0,male,bumiputera,BN - PRS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P203.jpg,WILLIAM NYALLAU
+13.0,P014,Kedah,Merbok,YB Prof. Dr.,Ismail Bin Daut,1956.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P014.jpg,ISMAIL BIN DAUT
+13.0,P079,Pahang,Lipis,YB Dato' Haji,Abdul Rahman Bin Mohamad,1962.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P079.jpg,ABDUL RAHMAN BIN MOHAMAD
+13.0,P188,Sabah,Silam,YB Datuk Haji,Datu Nasrun Bin Datu Mansur,1953.0,male,bumiputera,BN - UMNO,Timbalan Menteri Perusahaan Perladangan dan Komoditi,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P188.jpg,NASRUN BIN MANSUR
+13.0,P002,Perlis,Kangar,YB Ir.,Shaharuddin Bin Ismail,1967.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P002.jpg,SHAHARUDDIN BIN ISMAIL
+13.0,P096,Selangor,Kuala Selangor,YB Dato' Sri Dr. Haji,Irmohizam Bin Haji Ibrahim,1976.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P096.jpg,IRMOHIZAM
+13.0,P042,Pulau Pinang,Tasek Gelugor,YB Datuk Haji,Shabudin Bin Yahaya,1966.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P042.jpg,SHABUDIN YAHAYA
+13.0,P135,Melaka,Alor Gajah,YB Datuk,Koh Nai Kwong,1961.0,male,chinese,BN - MCA,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P135.jpg,KOH NAI KWONG
+13.0,P210,Sarawak,Kanowit,YB Datuk,Aaron Ago anak Dagang,1959.0,male,bumiputera,BN - PRS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P210.jpg,AARON AGO ANAK DAGANG
+13.0,P069,Perak,Parit,YB Dato' Haji,Mohd Zaim Bin Abu Hasan,1951.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P069.jpg,MOHD ZAIM
+13.0,P166,WP Labuan,Labuan,YB Datuk,Rozman Bin Datuk Haji Isli,1965.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P166.jpg,ROZMAN BIN ISLI
+13.0,P159,Johor,Pasir Gudang,YB Dato' Hajah,Normala Binti Abdul Samad,1963.0,female,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P159.jpg,NORMALA BINTI ABDUL SAMAD
+13.0,P206,Sarawak,Tanjong Manis,YB Datuk Hajah,Norah Binti Abd. Rahman,1960.0,female,bumiputera,BN - PBB,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P206.jpg,NORAH TUN ABDUL RAHMAN
+13.0,P156,Johor,Kota Tinggi,YB Datuk,Noor Ehsanuddin Mohd Harun Narrashid,1964.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P156.jpg,EHSANUDDIN
+13.0,P220,Sarawak,Baram,YB Tuan,Anyi Ngau,1959.0,male,bumiputera,BN - PDP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P220.jpg,ANYI NGAU
+13.0,P184,Sabah,Libaran,YB Datuk,Juslie Bin Ajirol,1954.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P184.jpg,JUSLIE AJIROL
+13.0,P034,Terengganu,Setiu,YB Datuk,Che Mohamad Zulkifly Bin Jusoh,1960.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P034.jpg,CHE MOHAMAD ZULKIFLY BIN JUSOH
+13.0,P054,Perak,Gerik,YB Dato',Hasbullah Bin Osman,1957.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P054.jpg,HASBULLAH OSMAN
+13.0,P178,Sabah,Sipitang,YB Datuk,Sapawi bin Haji Ahmad Wasali,1955.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P178.jpg,SAPAWI BIN AMAT WASALI @ AHMAD
+13.0,P202,Sarawak,Sri Aman,YB Dato',Masir Kujat,1955.0,male,bumiputera,BN - PRS,Timbalan Menteri Dalam Negeri,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P202.jpg,MASIR KUJAT
+13.0,P170,Sabah,Tuaran,YB Datuk Seri Panglima,Madius Tangau,1958.0,male,bumiputera,BN - UPKO,"Menteri Sains, Teknologi dan Inovasi",,https://www.parlimen.gov.my/images/webuser/ahli/2013/P170.jpg,PANGLIMA WILFRED MADIUS TANGAU
+13.0,P170,Sabah,Tuaran,YB Datuk Seri Panglima,Madius Tangau,1952.0,male,bumiputera,BN - UPKO,"Menteri Sains, Teknologi dan Inovasi",,https://www.parlimen.gov.my/images/webuser/ahli/2013/P170.jpg,PANGLIMA WILFRED M. BUMBURING
+13.0,P207,Sarawak,Igan,YB Datuk Haji,Wahab bin Haji Dolah,1951.0,male,bumiputera,BN - PBB,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P207.jpg,ABDUL WAHABDUL BIN DOLAH
+13.0,P160,Johor,Johor Bahru,YB Tan Sri,Shahrir Abdul Samad,1950.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P160.jpg,SHAHRIR ABDUL SAMAD
+13.0,P154,Johor,Mersing,YB Datuk Dr. Haji,Abd. Latiff Bin Ahmad,1959.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P154.jpg,ABDUL LATIFF
+13.0,P095,Selangor,Tanjong Karang,YB Tan Sri,Noh Bin Haji Omar,1958.0,male,bumiputera,BN - UMNO,"Menteri Kesejahteraan Bandar, Perumahan dan Kerajaan Tempatan",,https://www.parlimen.gov.my/images/webuser/ahli/2013/P095.jpg,NOH BIN OMAR
+13.0,P133,Negeri Sembilan,Tampin,YB Datuk Seri,Shaziman Abu Mansor,1964.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P133.jpg,SHAZIMAN BIN ABU MANSOR
+13.0,P157,Johor,Pengerang,YB Dato' Sri,Azalina binti Dato' Othman Said,1964.0,female,bumiputera,BN - UMNO,Menteri Di Jabatan Perdana Menteri,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P157.jpg,AZALINA OTHMAN SAID
+13.0,P089,Pahang,Bentong,YB Dato' Sri,Liow Tiong Lai,1962.0,male,chinese,BN - MCA,Menteri Pengangkutan,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P089.jpg,LIOW TIONG LAI
+13.0,P011,Kedah,Pendang,YB Dato' Wira,Othman Bin Abdul,1951.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P011.jpg,OTHMAN BIN ABDUL
+13.0,P139,Melaka,Jasin,YB Datuk Seri Haji,Ahmad bin Hamzah,1949.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P139.jpg,AHMAD HAMZAH
+13.0,P148,Johor,Ayer Hitam,YB Datuk Seri Ir. Dr.,Wee Ka Siong,1969.0,male,chinese,BN - MCA,Menteri Di Jabatan Perdana Menteri,,https://www.parlimen.gov.my/images/webuser/ahli/2013/wee ka siong.jpg,WEE KA SIONG
+13.0,P161,Johor,Pulai,YB Datuk,Nur Jazlan bin Tan Sri Mohamed,1966.0,male,bumiputera,BN - UMNO,Timbalan Menteri Dalam Negeri,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P161.jpg,NUR JAZLAN BIN MOHAMED
+13.0,P209,Sarawak,Julau,YB Datuk,Joseph Salang anak Gandum,1950.0,male,bumiputera,BN - PRS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P209.jpg,JOSEPH SALANG ANAK GANDUM
+13.0,P180,Sabah,Keningau,YB Tan Sri Datuk Seri Panglima,Joseph Pairin Kitingan,1948.0,male,bumiputera,BN - PBS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P180.jpg,JEFFREY KITINGAN
+13.0,P180,Sabah,Keningau,YB Tan Sri Datuk Seri Panglima,Joseph Pairin Kitingan,1941.0,male,bumiputera,BN - PBS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P180.jpg,JOSEPH PAIRIN KITINGAN
+13.0,P213,Sarawak,Mukah,YB Tan Sri Dr.,Muhammad Leo Michael Toyad Abdullah,1950.0,male,bumiputera,BN - PBB,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P213.jpg,MUHAMMAD LEO MICHAEL TOYAD
+13.0,P077,Perak,Tanjong Malim,YB Dato' Seri,Ong Ka Chuan,1955.0,male,chinese,BN - MCA,Menteri Perdagangan Antarabangsa dan Industri II,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P077.jpg,ONG KA CHUAN
+13.0,P032,Kelantan,Gua Musang,YB,Tengku Razaleigh Hamzah,1937.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P032.jpg,TENGKU RAZALEIGH HAMZAH
+13.0,P026,Kelantan,Ketereh,YB Tan Sri Datuk Seri Panglima Haji,Annuar Bin Musa,1957.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P026.jpg,ANNUAR MUSA
+13.0,P127,Negeri Sembilan,Jempol,YB Tan Sri,Mohd Isa Bin Abdul Samad,1950.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P127.jpg,ISA BIN ABDUL SAMAD
+13.0,P187,Sabah,Kinabatangan,YB Dato' Sri,Bung Moktar bin Radin,1960.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P187.jpg,BUNG MOKTAR RADIN
+13.0,P006,Kedah,Kubang Pasu,YB Dato' Sri,Mohd Johari Bin Baharum,1954.0,male,bumiputera,BN - UMNO,Timbalan Menteri Pertahanan,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P006.jpg,MOHD JOHARI BIN BAHARUM
+13.0,P217,Sarawak,Bintulu,YB Dato' Seri,Tiong King Sing,1962.0,male,chinese,BN - PDP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P217.jpg,TIONG KING SING
+13.0,P130,Negeri Sembilan,Rasah,YB Tuan,Teo Kok Seong,1980.0,male,chinese,DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P130.jpg,TEO KOK SEONG
+13.0,P205,Sarawak,Saratok,YB Tan Sri,William Mawan Ikom,1950.0,male,bumiputera,BN,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P205.jpg,WILLIAM MAWAN IKOM
+13.0,P142,Johor,Labis,YB Datuk,Chua Tee Yong,1978.0,male,chinese,BN - MCA,Timbalan Menteri Perdagangan Antarabangsa dan Industri,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P142.jpg,CHUA TEE YONG
+13.0,P173,Sabah,Putatan,YB Datuk Dr.,Makin @ Marcus Mojigoh,1953.0,male,bumiputera,BN - UPKO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P173.jpg,MARCUS MAKIN MOJIGOH
+13.0,P036,Terengganu,Kuala Terengganu,YB Dato',Raja Kamarul Bahrin Shah Bin Raja Ahmad,1955.0,male,bumiputera,AMANAH,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P036.jpg,RAJA BAHRIN
+13.0,P050,Pulau Pinang,Jelutong,YB Tuan,Jeff Ooi Chuan Aun,1956.0,male,chinese,DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P050.jpg,OOI CHUAN AUN
+13.0,P186,Sabah,Sandakan,YB Tuan,Wong Tien Fatt @ Wong Nyuk Foh,1955.0,male,chinese,DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P186.jpg,STEPHEN WONG TIEN FATT
+13.0,P109,Selangor,Kapar,YB Tuan,Manivannan A/L Gowindasamy,1976.0,male,indian,PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P109.jpg,MANIVANAN GOWIN
+13.0,P219,Sarawak,Miri,YB Dr.,Michael Teo Yu Keng,1948.0,male,chinese,PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P219.jpg,MICHAEL TEO YU KENG
+13.0,P196,Sarawak,Stampin,YB Tuan,Julian Tan Kok Ping,1979.0,male,chinese,DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P196.jpg,JULIAN TAN KOK PING
+13.0,P108,Selangor,Shah Alam,YB Tuan,Khalid bin Abd. Samad,1958.0,male,bumiputera,AMANAH,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P108.jpg,KHALID ABDUL SAMAD
+13.0,P016,Kedah,Baling,YB Dato' Sri,Abdul Azeez Bin Abdul Rahim,1967.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P016.jpg,AZEEZ RAHIM
+13.0,P158,Johor,Tebrau,YB Datuk,Khoo Soo Seang,1945.0,male,chinese,BN - MCA,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P158.jpg,KHOO SOO SEANG
+13.0,P055,Perak,Lenggong,YB Dato' Dr.,Shamsul Anuar bin Haji Nasarah,1968.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P055.jpg,SHAMSUL ANUAR NASARAH
+13.0,P147,Johor,Parit Sulong,YB Dato' Dr.,Noraini binti Ahmad,1968.0,female,bumiputera,BN - UMNO,,Ahli Dewan Rakyat,https://www.parlimen.gov.my/images/webuser/ahli/2013/P147.jpg,NORAINI AHMAD
+13.0,P024,Kelantan,Kubang Kerian,YB Tuan,Ahmad Baihaki Bin Atiqullah,1974.0,male,bumiputera,PAS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P024.jpg,BAIHAKI
+13.0,P049,Pulau Pinang,Tanjong,YB Tuan,Ng Wei Aik,1978.0,male,chinese,DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P049.jpg,NG WEI AIK
+13.0,P102,Selangor,Serdang,YB Dr.,Ong Kian Ming,1976.0,male,chinese,DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P102.jpg,ONG KIAN MING
+13.0,P074,Perak,Lumut,YB Laksamana Pertama Haji,Mohamad Imran Bin Abdul Hamid (B),1955.0,male,bumiputera,PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P074.jpg,IMRAN ABDUL HAMID
+13.0,P010,Kedah,Kuala Kedah,YB Dr.,Azman Ismail,1961.0,male,bumiputera,PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P010.jpg,AZMAN ISMAIL
+13.0,P165,Johor,Tanjong Piai,YB Dato' Sri,Wee Jeck Seng,1964.0,male,chinese,BN - MCA,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P165.jpg,Wee Jeck SENG
+13.0,P208,Sarawak,Sarikei,YB Tuan,Wong Ling Biu,1959.0,male,chinese,DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P208.jpg,WONG LING BIU
+13.0,P018,Kedah,Kulim Bandar Baharu,YB Dato',Abd Aziz Bin Sheikh Fadzir,1963.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P018.jpg,ABDUL AZIZ SHEIKH FADZIR
+13.0,P118,WP Kuala Lumpur,Setiawangsa,YB Dato',Ahmad Fauzi Bin Zahari,1964.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P118.jpg,AHMAD FAUZI ZAHARI
+13.0,P119,WP Kuala Lumpur,Titiwangsa,YB Datuk Seri,Johari bin Abdul Ghani,1964.0,male,bumiputera,BN - UMNO,Menteri Kewangan II,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P119.jpg,JOHARI GHANI
+13.0,P020,Kelantan,Pengkalan Chepa,YB Dr.,Izani Bin Husin,1963.0,male,bumiputera,PAS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P020.jpg,IZANI BIN HUSIN
+13.0,P150,Johor,Batu Pahat,YB Datuk,Mohd Idris Bin Jusi,1945.0,male,bumiputera,PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P150.jpg,IDRIS JUSI
+13.0,P212,Sarawak,Sibu,YB Tuan,Oscar Ling Chai Yew,1978.0,male,chinese,DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P212.jpg,OSCAR LING CHAI YEW
+13.0,P025,Kelantan,Bachok,YB Tuan,Ahmad Marzuk Shaary,1976.0,male,bumiputera,PAS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P025.jpg,MARZUK SHAARY
+13.0,P191,Sabah,Kalabakan,YB Datuk Seri Panglima Haji,Abdul Ghapur bin Salleh,1943.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P191.jpg,ABDUL GHAPUR BIN SALLEH
+13.0,P029,Kelantan,Machang,YB Datuk,Ahmad Jazlan Bin Yaakub,1965.0,male,bumiputera,BN - UMNO,Timbalan Menteri Kemajuan Luar Bandar dan Wilayah,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P029.jpg,JAZLAN
+13.0,P041,Pulau Pinang,Kepala Batas,YB Dato' Sri,Reezal Merican Bin Naina Merican,1973.0,male,bumiputera,BN - UMNO,Timbalan Menteri Luar Negeri,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P041.jpg,REEZAL MERICAN B NAINA MERICAN
+13.0,P027,Kelantan,Tanah Merah,YB Dato' Sri,Ikmal Hisham Bin Abdul Aziz,1965.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P027.jpg,IKMAL HISHAM BIN ABDUL AZIZ
+13.0,P104,Selangor,Kelana Jaya,YB Tuan,Wong Chen,1969.0,male,chinese,PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/wongchen.jpg,WONG CHEN
+13.0,P070,Perak,Kampar,YB Dr.,Ko Chung Sen,1969.0,male,chinese,DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P070.jpg,KO CHUNG SEN
+13.0,P045,Pulau Pinang,Bukit Mertajam,YB Tuan,Sim Chee Keong,1983.0,male,chinese,DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/STEVEN-SIM.jpg,SIM CHEE KEONG
+13.0,P145,Johor,Bakri,YB Tuan,Er Teck Hwa,1973.0,male,chinese,DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P145.jpg,ER TECK HWA
+13.0,P009,Kedah,Alor Setar,YB Tuan,Gooi Hsiao-Leung,1973.0,male,chinese,PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P009.jpg,GOOI HSIAO LEUNG
+13.0,P062,Perak,Sungai Siput,YB Dr.,Michael Jeyakumar Devaraj,1955.0,male,indian,PSM,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P062.jpg,MICHAEL JEYAKUMAR DEVARAJ
+13.0,P087,Pahang,Kuala Krau,YB Dato' Sri Haji,Ismail bin Mohamed Said,1966.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P087.jpg,ISMAIL BIN MOHAMED SAID
+13.0,P183,Sabah,Beluran,YB Datuk Seri Dr.,Ronald Kiandee,1961.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P183.jpg,RONALD KIANDEE
+13.0,P080,Pahang,Raub,YB Dato',Mohd Ariff Sabri Bin Abdul Aziz,1957.0,male,bumiputera,DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P080.jpg,ARIFF SABRI BIN ABDUL AZIZ
+13.0,P174,Sabah,Penampang,YB,Ignatius Dorell Leiking,1972.0,male,bumiputera,WARISAN,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P174.jpg,DARELL LEIKING
+13.0,P117,WP Kuala Lumpur,Segambut,YB Tuan,Lim Lip Eng,1973.0,male,chinese,DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P117.jpg,LIM LIP ENG
+13.0,P023,Kelantan,Rantau Panjang,YB Puan Hajah,Siti Zailah binti Mohd Yusoff,1964.0,female,bumiputera,PAS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P023.jpg,KAK LAH
+13.0,P163,Johor,Kulai,YB Puan,Teo Nie Ching,1981.0,female,chinese,DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P163.jpg,TEO NIE CHING
+13.0,P137,Melaka,Bukit Katil,YB Tuan,Shamsul Iskandar @ Yusre Bin Mohd Akin,1975.0,male,bumiputera,PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P137.jpg,SHAMSUL ISKANDAR MOHD AKIN
+13.0,P105,Selangor,Petaling Jaya Selatan,YB Tuan,Hee Loy Sian,1971.0,male,chinese,PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P105.jpg,HEE LOY SIAN
+13.0,P071,Perak,Gopeng,YB Dr.,Lee Boon Chye,1960.0,male,chinese,PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P071.jpg,LEE BOON CHYE
+13.0,P052,Pulau Pinang,Bayan Baru,YB Tuan,Sim Tze Tzin,1976.0,male,chinese,PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P052.jpg,SIM TZE TZIN
+13.0,P028,Kelantan,Pasir Puteh,YB Dato' Dr.,Nik Mazian Bin Nik Mohamad,1959.0,male,bumiputera,PAS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P028.jpg,NIK MAZIAN
+13.0,P022,Kelantan,Pasir Mas,YB Tuan,Nik Mohamad Abduh Bin Nik Abdul Aziz,1970.0,male,bumiputera,PAS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P022.jpg,NIK ABDUH
+13.0,P112,Selangor,Kuala Langat,YB Dato',Abdullah Sani bin Abdul Hamid,1962.0,male,bumiputera,PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P112.jpg,ABDULLAH SANI
+13.0,P116,WP Kuala Lumpur,Wangsa Maju,YB Dato' Dr.,Tan Kee Kwong,1947.0,male,chinese,PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P116.jpg,TAN KEE KWONG
+13.0,P138,Melaka,Kota Melaka,YB,Sim Tong Him,1949.0,male,chinese,BEBAS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P138.jpg,SIM TONG HIM
+13.0,P121,WP Kuala Lumpur,Lembah Pantai,YB Puan,Nurul Izzah binti Anwar,1981.0,female,bumiputera,PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P121.jpg,NURUL IZZAH ANWAR
+13.0,P211,Sarawak,Lanang,YB Puan,Alice Lau Kiong Yieng,1982.0,female,chinese,DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P211.jpg,ALICE LAU KIONG YIENG
+13.0,P122,WP Kuala Lumpur,Seputeh,YB Puan,Teresa Kok Suh Sim,1964.0,female,chinese,DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/TeresaKok.JPG,TERESA KOK
+13.0,P065,Perak,Ipoh Barat,YB Tuan,M. Kulasegaran,1958.0,male,indian,DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P065.jpg,M. KULA
+13.0,P114,WP Kuala Lumpur,Kepong,YB Dr.,Tan Seng Giaw,1943.0,male,chinese,DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P114.jpg,TAN SENG GIAW
+13.0,P120,WP Kuala Lumpur,Bukit Bintang,YB Tuan,Fong Kui Lun,1947.0,male,chinese,DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P120.jpg,FONG KUI LUN
+13.0,P019,Kelantan,Tumpat,YB Dato',Kamarudin Jaffar,1952.0,male,bumiputera,PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P019.jpg,KAMARUDIN JAFFAR
+13.0,P021,Kelantan,Kota Bharu,YB Dato',Takiyuddin Bin Hassan,1962.0,male,bumiputera,PAS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P021.jpg,TAKIYUDDIN
+13.0,P106,Selangor,Petaling Jaya Utara,YB Tuan,Tony Pua Kiam Wee,1973.0,male,bumiputera,DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P106.jpg,TONY PUA
+13.0,P124,WP Kuala Lumpur,Bandar Tun Razak,YB Tan Sri Dato' Seri,Abd Khalid bin Ibrahim,1947.0,male,bumiputera,BEBAS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P124.jpg,ABDUL KHALID IBRAHIM
+13.0,P097,Selangor,Selayang,YB Tuan,William Leong Jee Keen,1957.0,male,chinese,PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P097.jpg,WILLIAM LEONG JEE KEEN
+13.0,P068,Perak,Beruas,YB Dato',Ngeh Koo Ham,1962.0,male,chinese,DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P068.jpg,NGEH KOO HAM
+13.0,P060,Perak,Taiping,YB Tuan,Nga Kor Ming,1973.0,male,chinese,DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P060.jpg,NGA KOR MING
+13.0,P172,Sabah,Kota Kinabalu,YB Tuan,Wong Sze Phin @ Jimmy,1950.0,male,chinese,DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P172.jpg,WONG SZE PHIN @ JIMMY
+13.0,P066,Perak,Batu Gajah,YB Tuan,Sivakumar Varatharaju Naidu,1971.0,male,indian,DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P066.jpg,V. SIVAKUMAR
+13.0,P059,Perak,Bukit Gantang,YB Tuan,Idris Bin Haji Ahmad,1964.0,male,bumiputera,PAS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P059.jpg,IDRIS AHMAD
+13.0,P101,Selangor,Hulu Langat,YB Dr.,Che Rosli Bin Che Mat,1952.0,male,bumiputera,PAS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P101.jpg,CHE ROSLI CHE MAT
+13.0,P035,Terengganu,Kuala Nerus,YB Dato` Dr.,Mohd Khairuddin Bin Aman Razali,1974.0,male,bumiputera,PAS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P035.jpg,KHAIRUDDIN TAKIRI
+13.0,P039,Terengganu,Dungun,YB Tuan Haji,Wan Hassan Bin Mohd Ramli,1958.0,male,bumiputera,PAS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P039.jpg,WAN HASSAN MOHD RAMLI
+13.0,P110,Selangor,Klang,YB Tuan,Charles Anthony Santiago,1961.0,male,indian,DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P110.jpg,CHARLES SANTIAGO
+13.0,P008,Kedah,Pokok Sena,YB Dato' Haji,Mahfuz Haji Omar,1958.0,male,bumiputera,AMANAH,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P008.jpg,MAHFUZ OMAR
+13.0,P064,Perak,Ipoh Timur,YB Tuan,Su Keong Siong,1967.0,male,chinese,DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P064.jpg,SU KEONG SIONG
+13.0,P123,WP Kuala Lumpur,Cheras,YB Tuan,Tan Kok Wai,1958.0,male,chinese,DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P123.jpg,TAN KOK WAI
+13.0,P098,Selangor,Gombak,YB Dato' Seri,Mohamed Azmin bin Ali,1965.0,male,bumiputera,PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P098.jpg,AZMIN ALI
+13.0,P088,Pahang,Temerloh,YB Tuan Haji,Nasrudin Bin Hassan,1971.0,male,bumiputera,PAS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P088.jpg,NASRUDIN HASSAN TANTAWI
+13.0,P031,Kelantan,Kuala Krai,YB Dr.,Mohd. Hatta Md. Ramli,1957.0,male,bumiputera,AMANAH,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P031.jpg,HATTA RAMLI
+13.0,P115,WP Kuala Lumpur,Batu,YB Tuan,Chua Tian Chang @ Tian Chua,1964.0,male,chinese,PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P115.jpg,TIAN CHUA
+13.0,P083,Pahang,Kuantan,YB Puan Hajah,Fuziah binti Salleh,1960.0,female,bumiputera,PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P083.jpg,FUZIAH SALLEH
+13.0,P107,Selangor,Subang,YB Tuan,Sivarasa A/L K. Rasiah,1957.0,male,indian,PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P107.jpg,SIVARASA RASIAH
+13.0,P099,Selangor,Ampang,YB Puan,Zuraida binti Kamaruddin,1958.0,female,bumiputera,PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P099.jpg,ZURAIDA KAMARUDDIN
+13.0,P057,Perak,Parit Buntar,YB Dato' Dr.,Mujahid bin Yusof Rawa,1965.0,male,bumiputera,AMANAH,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P057.jpg,MUJAHID YUSOF RAWA
+13.0,P113,Selangor,Sepang,YB Tuan,Mohamed Hanipa Maidin,1969.0,male,bumiputera,AMANAH,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P113.jpg,MOHAMED HANIPA BIN MAIDIN
+13.0,P103,Selangor,Puchong,YB Tuan,Gobind Singh Deo,1974.0,male,indian,DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P103.jpg,GOBIND SINGH DEO
+13.0,P152,Johor,Kluang,YB Tuan,Liew Chin Tong,1978.0,male,chinese,DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P152.jpg,LIEW CHIN TONG
+13.0,P100,Selangor,Pandan,YB Tuan,Mohd Rafizi Ramli,1978.0,male,bumiputera,PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P100.jpg,RAFIZI RAMLI
+13.0,P015,Kedah,Sungai Petani,YB Dato',Johari bin Abdul,1956.0,male,bumiputera,PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P015.jpg,JOHARI ABDUL
+13.0,P046,Pulau Pinang,Batu Kawan,YB Puan,Kasthuriraani a/p Patto,1980.0,female,indian,DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P046.jpg,KASTHURIRAANI PATTO
+13.0,P048,Pulau Pinang,Bukit Bendera,YB Tuan,Zairil Khir Johari,1983.0,male,bumiputera,DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P048.jpg,ZAIRIL KHIR JOHARI
+13.0,P037,Terengganu,Marang,YB Dato' Seri Haji,Abdul Hadi Awang,1948.0,male,bumiputera,PAS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P037.jpg,ABDUL HADI BIN AWANG
+13.0,P132,Negeri Sembilan,Telok Kemang,YB Dato',Kamarul Baharin bin Abbas,1948.0,male,bumiputera,PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P132.jpg,KAMARUL BAHARIN ABBAS
+13.0,P082,Pahang,Indera Mahkota,YB Dato',Fauzi Abdul Rahman,1947.0,male,bumiputera,PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P082.jpg,FAUZI ABDUL RAHMAN
+13.0,P162,Johor,Gelang Patah,YB Tuan,Lim Kit Siang,1941.0,male,chinese,DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P162.jpg,LIM KIT SIANG
+13.0,P043,Pulau Pinang,Bagan,YB Tuan,Lim Guan Eng,1961.0,male,chinese,DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P043.jpg,LIM GUAN ENG
+13.0,P017,Kedah,Padang Serai,YB Tuan,N. Surendran A/L Nagarajan,1967.0,male,indian,PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P017.jpg,N SURENDRAN
+13.0,P047,Pulau Pinang,Nibong Tebal,YB Dato',Mansor Bin Othman,1950.0,male,bumiputera,PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P047.jpg,MANSOR OTHMAN
+13.0,P195,Sarawak,Bandar Kuching,YB Tuan,Chong Chieng Jen,1971.0,male,chinese,DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P195.jpg,CHONG CHIENG JEN
+13.0,P128,Negeri Sembilan,Seremban,YB Tuan,Loke Siew Fook,1977.0,male,chinese,DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P128.jpg,LOKE SIEW FOOK
+13.0,,,,Tan Sri Datuk Seri Panglima Pandikar Amin Haji,Mulia,,,,,,,https://www.parlimen.gov.my/images/webuser/ahli/2010/ydp.jpg,
+13.0,,,,Datuk,Roosme Hamzah,,,,,,,https://www.parlimen.gov.my/images/webuser/ahli/2010/stu-dr.jpg,
+13.0,P111,Selangor,Kota Raja,YB Dr. Hajah,Siti Mariah binti Mahmud,1958.0,female,bumiputera,AMANAH,,,https://www.parlimen.gov.my/images/webuser/ahli/2010/P111-KOTARAJA.jpg,MARIAH MAHMUD
+13.0,P051,Pulau Pinang,Bukit Gelugor,YB Tuan,Ramkarpal Singh a/l Karpal Singh,1941.0,male,other,DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/Ramkarpal_Singh.jpg,KARPAL SINGH
+13.0,P076,Perak,Telok Intan,YB Datuk Seri,Mah Siew Keong,1967.0,male,chinese,BN - GERAKAN,Menteri Perusahaan Perladangan dan Komoditi,,https://www.parlimen.gov.my/images/webuser/ahli/2013/teluk intan.jpg,SEAH LEONG PENG
+13.0,P044,Pulau Pinang,Permatang Pauh,YB Dato` Seri Dr.,Wan Azizah binti Wan Ismail,1948.0,male,bumiputera,PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/wan_azizah.jpg,ANWAR IBRAHIM
+13.0,P091,Pahang,Rompin,YB Dato` Sri,Hasan bin Arifin,1952.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/rompin.jpg,JAMALUDIN BIN JARJIS
+13.0,P067,Perak,Kuala Kangsar,YB Datin,Mastura Binti Tan Sri Dato' Mohd Yazid,1960.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/DATIN MASTURA.JPG,WAN KHAIR-IL ANUAR
+13.0,P093,Selangor,Sungai Besar,YB Tuan,Budiman Bin Mohd Zohdi,1964.0,female,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/YB Budiman bin Mohd Zohdi.jpg,NORIAH BINTI KASNON
+14.0,-,-,-,DR.,NIZAM MYDIN BIN BACHA MYDIN,,,,,,Setiausaha Dewan Rakyat,https://www.parlimen.gov.my/images/webuser/ahli/2019/Nizam_Bacha.jpg,
+14.0,P001,Perlis,PADANG BESAR,YB DATUK,ZAHIDI BIN ZAINUL ABIDIN,1961.0,male,bumiputera,BN - UMNO,Timbalan Menteri Komunikasi dan Multimedia,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.001-Padang Besar.png,ZAHIDI BIN ZAINUL ABIDIN
+14.0,P002,Perlis,KANGAR,YB TUAN,NOOR AMIN BIN AHMAD,1982.0,male,bumiputera,PH - PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.002-Kangar.png,AMIN AHMAD
+14.0,P003,Perlis,ARAU,YB DATO' SERI DR.,SHAHIDAN BIN KASSIM,1952.0,male,bumiputera,BN - UMNO,Menteri Wilayah Persekutuan,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.003-Arau.png,SHAHIDAN BIN KASSIM
+14.0,P004,Kedah,LANGKAWI,YB TUN DR.,MAHATHIR BIN MOHAMAD,1926.0,male,bumiputera,PEJUANG,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.004-Langkawi.png,MAHATHIR BIN MOHAMAD
+14.0,P005,Kedah,JERLUN,YB DATO' SERI UTAMA HAJI MUKHRIZ TUN DR.,MAHATHIR,1965.0,male,bumiputera,PEJUANG,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.005-Jerlun.png,MUKHRIZ MAHATHIR
+14.0,P006,Kedah,KUBANG PASU,YB DATO' WIRA HAJI,AMIRUDDIN BIN HAJI HAMZAH,1962.0,male,bumiputera,PEJUANG,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.006-Kubang Pasu.png,AMIRUDDIN HAMZAH
+14.0,P007,Kedah,PADANG TERAP,YB DATO' SERI,MAHDZIR BIN KHALID,1961.0,male,bumiputera,BN - UMNO,Menteri Pembangunan Luar Bandar,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.007-Padang Terap.png,MAHDZIR KHALID
+14.0,P008,Kedah,POKOK SENA,YB DATO',MAHFUZ BIN HAJI OMAR,1958.0,male,bumiputera,PH - AMANAH,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.008-Pokok Sena.png,MAHFUZ OMAR
+14.0,P009,Kedah,ALOR SETAR,YB TUAN,CHAN MING KAI,1981.0,male,bumiputera,PH - PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.009-Alor Setar.png,CHAN MING KAI
+14.0,P010,Kedah,KUALA KEDAH,YB DR.,AZMAN BIN ISMAIL,1961.0,male,bumiputera,PH - PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.010-Kuala Kedah.png,AZMAN ISMAIL
+14.0,P011,Kedah,PENDANG,YB DATUK HAJI,AWANG BIN HASHIM,1964.0,male,bumiputera,PAS,Timbalan Menteri Sumber Manusia,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.011-Pendang.png,AWANG SOLAHUDIN
+14.0,P012,Kedah,JERAI,YB TUAN,SABRI BIN AZIT,1966.0,male,bumiputera,PAS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.012-Jerai.png,SABRI BIN AZIT
+14.0,P013,Kedah,SIK,YB TUAN,AHMAD TARMIZI BIN SULAIMAN,1977.0,male,bumiputera,PAS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.013-Sik.png,TARMIZI SULAIMAN
+14.0,P014,Kedah,MERBOK,YB PUAN,NOR AZRINA BINTI SURIP,1976.0,female,bumiputera,PH - PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.014-Merbok.png,NURIN AINA
+14.0,P015,Kedah,SUNGAI PETANI,YB DATO',JOHARI BIN ABDUL,1955.0,male,bumiputera,PH - PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.015-Sungai Petani.png,JOHARI ABDUL
+14.0,P016,Kedah,BALING,YB DATUK SERI PANGLIMA,ABDUL AZEEZ BIN ABDUL RAHIM,1967.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.016-Baling.png,AZEEZ RAHIM
+14.0,P017,Kedah,PADANG SERAI,YB TUAN,KARUPAIYA A/L MUTUSAMI,1953.0,male,indian,PH - PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.017-Padang Serai.png,KARUPAIYA MUTUSAMI
+14.0,P018,Kedah,KULIM-BANDAR BAHARU,YB DATUK SERI,SAIFUDDIN NASUTION BIN ISMAIL,1964.0,male,bumiputera,PH - PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.018-Kulim Bandar Baru.png,SAIFUDDIN NASUTION ISMAIL
+14.0,P019,Kelantan,TUMPAT,YB DATO' HAJI,CHE ABDULLAH BIN MAT NAWI,1961.0,male,bumiputera,PAS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.019-TUMPAT.png,CHE LAH MAT NAWI
+14.0,P020,Kelantan,PENGKALAN CHEPA,YB DATUK HAJI,AHMAD MARZUK BIN SHAARY,1976.0,male,bumiputera,PAS,Timbalan Menteri di Jabatan Perdana Menteri (Hal Ehwal Agama),,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.020-PENGKALAN CHEPA.png,MARZUK SHAARY
+14.0,P021,Kelantan,KOTA BHARU,YB DATUK SERI,TAKIYUDDIN BIN HASSAN,1962.0,male,bumiputera,PAS,Menteri Tenaga dan Sumber Asli,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.021-KOTA BHARU.png,TAKIYUDDIN
+14.0,P022,Kelantan,PASIR MAS,YB TUAN,AHMAD FADHLI BIN SHAARI,1981.0,male,bumiputera,PAS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.022-PASIR MAS.png,FADHLI SHAARI
+14.0,P023,Kelantan,RANTAU PANJANG,YB DATO' HAJAH,SITI ZAILAH BINTI MOHD YUSOFF,1964.0,female,bumiputera,PAS,"Timbalan Menteri Pembangunan Wanita, Keluarga dan Masyarakat",,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.023-RANTAU PANJANG.png,KAK LAH
+14.0,P024,Kelantan,KUBANG KERIAN,YB DATO' SRI TUAN,IBHARIM BIN TUAN MAN,1961.0,male,bumiputera,PAS,Menteri Alam Sekitar Dan Air,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.024-KUBANG KERIAN.png,IBRAHIM
+14.0,P025,Kelantan,BACHOK,YB TUAN,NIK MOHAMAD ABDUH BIN NIK ABDUL AZIZ,1970.0,male,bumiputera,PAS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.025-BACHOK.png,NIK ABDUH
+14.0,P026,Kelantan,KETEREH,YB TAN SRI DATUK SERI PANGLIMA HAJI,ANNUAR BIN HAJI MUSA,1956.0,male,bumiputera,BN - UMNO,Menteri Komunikasi dan Multimedia,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.026-KETEREH.png,ANNUAR MUSA
+14.0,P027,Kelantan,TANAH MERAH,YB DATO' SRI,IKMAL HISHAM BIN ABDUL AZIZ,1965.0,male,bumiputera,BERSATU,Timbalan Menteri Pertahanan,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.027-TANAH MERAH.png,IKMAL HISHAM BIN ABDUL AZIZ
+14.0,P028,Kelantan,PASIR PUTEH,YB DATUK DR.,NIK MUHAMMAD ZAWAWI BIN HAJI SALLEH,1967.0,male,bumiputera,PAS,Timbalan Menteri Pertanian dan Industri Makanan II,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.028-PASIR PUTEH.png,NIK ZAWAWI
+14.0,P029,Kelantan,MACHANG,YB DATUK,AHMAD JAZLAN BIN YAAKUB,1965.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.029-MACHANG.png,JAZLAN
+14.0,P030,Kelantan,JELI,YB DATO' SRI,MUSTAPA BIN MOHAMED,1951.0,male,bumiputera,BERSATU,Menteri di Jabatan Perdana Menteri (Ekonomi),,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.030-JELI.png,MUSTAPA BIN MOHAMED
+14.0,P031,Kelantan,KUALA KRAI,YB TUAN,ABDUL LATIFF BIN ABDUL RAHMAN,1972.0,male,bumiputera,PAS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.031-KUALA KRAI.png,LATIFF
+14.0,P032,Kelantan,GUA MUSANG,YB TENGKU,RAZALEIGH HAMZAH,1937.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.032-GUA MUSANG.png,TENGKU RAZALEIGH HAMZAH
+14.0,P033,Terengganu,BESUT,YB TAN SRI HAJI,IDRIS BIN JUSOH,1956.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.033-BESUT.png,IDRIS JUSOH
+14.0,P034,Terengganu,SETIU,YB TUAN,SHAHARIZUKIRNAIN BIN ABD KADIR,1970.0,male,bumiputera,PAS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.034-SETIU.png,ZUKIRNAIN ABDUL KADIR
+14.0,P035,Terengganu,KUALA NERUS,YB DATO' DR.,MOHD KHAIRUDDIN BIN AMAN RAZALI,1974.0,male,bumiputera,BEBAS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.035-KUALA NERUS.png,KHAIRUDDIN TAKIRI
+14.0,P036,Terengganu,KUALA TERENGGANU,YB DATUK HAJI,AHMAD AMZAD BIN MOHAMED @ HASHIM,1970.0,male,bumiputera,PAS,"Timbalan Menteri Sains, Teknologi dan Inovasi",,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.036-KUALA TERENGGANU.png,AMZAD HASHIM
+14.0,P037,Terengganu,MARANG,YB TAN SRI HAJI,ABDUL HADI BIN HAJI AWANG,1948.0,male,bumiputera,PAS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.037-MARANG.png,ABDUL HADI BIN AWANG
+14.0,P038,Terengganu,HULU TERENGGANU,YB DATO',ROSOL BIN WAHID,1965.0,male,bumiputera,BERSATU,Timbalan Menteri Perdagangan Dalam Negeri dan Hal Ehwal Pengguna,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.038-HULU TERENGGANU.png,ROSOL BIN WAHID
+14.0,P039,Terengganu,DUNGUN,YB TUAN HAJI,WAN HASSAN BIN MOHD RAMLI,1958.0,male,bumiputera,PAS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.039-DUNGUN.png,WAN HASSAN MOHD RAMLI
+14.0,P040,Terengganu,KEMAMAN,YB TUAN,CHE ALIAS BIN HAMID,1967.0,male,bumiputera,PAS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.040-KEMAMAN.png,ALIAS ABDUL HAMID
+14.0,P041,Pulau Pinang,KEPALA BATAS,YB DATO' SRI,REEZAL MERICAN BIN NAINA MERICAN,1973.0,male,bumiputera,BN - UMNO,Menteri Perumahan dan Kerajaan Tempatan,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.041-KEPALA BATAS.png,REEZAL MERICAN B NAINA MERICAN
+14.0,P042,Pulau Pinang,TASEK GELUGOR,YB DATUK HAJI,SHABUDIN BIN YAHAYA,1966.0,male,bumiputera,BERSATU,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.042-TASEK GELUGOR.png,SHABUDIN YAHAYA
+14.0,P043,Pulau Pinang,BAGAN,YB TUAN,LIM GUAN ENG,1961.0,male,chinese,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.043-BAGAN.png,LIM GUAN ENG
+14.0,P044,Pulau Pinang,PERMATANG PAUH,YB PUAN,NURUL IZZAH BINTI ANWAR,1981.0,female,bumiputera,PH - PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.044-PERMATANG PAUH.png,NURUL IZZAH ANWAR
+14.0,P045,Pulau Pinang,BUKIT MERTAJAM,YB TUAN,SIM CHEE KEONG,1982.0,male,chinese,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.045-BUKIT MERTAJAM.png,SIM CHEE KEONG
+14.0,P046,Pulau Pinang,BATU KAWAN,YB PUAN,KASTHURIRAANI A/P PATTO,1980.0,female,indian,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.046-BATU KAWAN.png,KASTHURIRAANI PATTO
+14.0,P047,Pulau Pinang,NIBONG TEBAL,YB DATO',MANSOR BIN OTHMAN,1950.0,male,bumiputera,BERSATU,Timbalan Menteri Alam Sekitar dan Air,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.047-NIBONG TEBAL.png,MANSOR OTHMAN
+14.0,P048,Pulau Pinang,BUKIT BENDERA,YB TUAN,WONG HON WAI,1973.0,male,chinese,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.048-BUKIT BENDERA.png,WONG HON WAI
+14.0,P049,Pulau Pinang,TANJONG,YB TUAN,CHOW KON YEOW,1959.0,male,chinese,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.049-TANJONG.png,CHOW KON YEOW
+14.0,P050,Pulau Pinang,JELUTONG,YB TUAN,SANISVARA NETHAJI RAYER A/L RAJAJI,1972.0,male,indian,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.050-JELUTONG.png,SANISVARA NETRAYER A/L RAJAJI
+14.0,P051,Pulau Pinang,BUKIT GELUGOR,YB TUAN,RAMKARPAL SINGH A/L KARPAL SINGH,1976.0,male,other,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.051-BUKIT GELUGOR.png,RAMKARPAL SINGH A/L KARPAL SINGH
+14.0,P052,Pulau Pinang,BAYAN BARU,YB TUAN,SIM TZE TZIN,1976.0,male,chinese,PH - PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.052-BAYAN BARU.png,SIM TZE TZIN
+14.0,P053,Pulau Pinang,BALIK PULAU,YB DATO',MUHAMMAD BAKHTIAR BIN WAN CHIK,1965.0,male,bumiputera,PH - PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.053-BALIK PULAU.png,MUHAMMAD BAKHTIAR BIN WAN CHIK
+14.0,P055,Perak,LENGGONG,YB DATUK SERI DR.,SHAMSUL ANUAR BIN HAJI NASARAH,1968.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.055-LENGGONG.png,SHAMSUL ANUAR NASARAH
+14.0,P056,Perak,LARUT,YB DATUK SERI,HAMZAH BIN ZAINUDIN,1957.0,male,bumiputera,BERSATU,Menteri Dalam Negeri,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.056-LARUT.png,HAMZAH ZAINUDIN
+14.0,P057,Perak,PARIT BUNTAR,YB DATUK SERI DR,MUJAHID YUSOF RAWA,1965.0,male,bumiputera,PH - AMANAH,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.057-PARIT BUNTAR.png,MUJAHID YUSOF RAWA
+14.0,P058,Perak,BAGAN SERAI,YB DATO' DR HAJI,NOOR AZMI BIN GHAZALI,1962.0,male,bumiputera,BERSATU,Timbalan Menteri Kesihatan I,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.058-BAGAN SERAI.png,NOOR AZMI BIN GHAZALI
+14.0,P059,Perak,BUKIT GANTANG,YB DATO',SYED ABU HUSSIN BIN HAFIZ SYED ABDUL FASAL,1961.0,male,bumiputera,BERSATU,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.059-BUKIT GANTANG.png,SYED ABU HUSSIN BIN HAFIZ SYED ABDUL FASAL
+14.0,P060,Perak,TAIPING,YB TUAN,TEH KOK LIM,1970.0,male,chinese,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.060-TAIPING.png,TEH KOK LIM
+14.0,P061,Perak,PADANG RENGAS,YB DATO' SERI,MOHAMED NAZRI BIN ABDUL AZIZ,1954.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.061-PADANG RENGAS.png,MOHAMED NAZRI BIN TAN ABDUL AZIZ
+14.0,P062,Perak,SUNGAI SIPUT,YB TUAN,KESAVAN A/L SUBRAMANIAM,1973.0,male,indian,PH - PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.062-SUNGAI SIPUT.png,S. KESAVAN
+14.0,P063,Perak,TAMBUN,YB DATO' SERI,AHMAD FAIZAL BIN AZUMU,1971.0,male,bumiputera,BERSATU,Menteri Belia dan Sukan,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.063-TAMBUN.png,AHMAD FAIZAL AZUMU
+14.0,P064,Perak,IPOH TIMUR,YB TUAN,WONG KAH WOH,1981.0,male,chinese,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.064-IPOH TIMUR.png,WONG KAH WOH
+14.0,P065,Perak,IPOH BARAT,YB TUAN,M. KULASEGARAN A/L V. MURUGESON,1958.0,male,indian,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.065-IPOH BARAT.png,M. KULA
+14.0,P066,Perak,BATU GAJAH,YB TUAN,SIVAKUMAR VARATHARAJU NAIDU,1971.0,male,indian,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.066-BATU GAJAH.png,V. SIVAKUMAR
+14.0,P067,Perak,KUALA KANGSAR,YB DATUK,MASTURA BINTI TAN SRI DATO' MOHD YAZID,1962.0,female,bumiputera,BN - UMNO,Timbalan Menteri di Jabatan Perdana Menteri (Tugas-Tugas Khas),,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.067-KUALA KANGSAR.png,MASTURA YAZID
+14.0,P068,Perak,BERUAS,YB DATO',NGEH KOO HAM,1962.0,male,chinese,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.068-BERUAS.png,NGEH KOO HAM
+14.0,P069,Perak,PARIT,YB DATO',MOHD NIZAR BIN HAJI ZAKARIA,1969.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.069-PARIT.png,NIZAR
+14.0,P070,Perak,KAMPAR,YB TUAN,SU KEONG SIONG,1967.0,male,chinese,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.070-KAMPAR.png,SU KEONG SIONG
+14.0,P071,Perak,GOPENG,YB DR.,LEE BOON CHYE,1960.0,male,chinese,PH - PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.071-GOPENG.png,LEE BOON CHYE
+14.0,P072,Perak,TAPAH,YB DATUK SERI,SARAVANAN A/L MURUGAN,1968.0,male,indian,BN - MIC,Menteri Sumber Manusia,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.072-TAPAH.png,M. SARAVANAN
+14.0,P073,Perak,PASIR SALAK,YB DATO' SRI HAJI,TAJUDDIN BIN ABDUL RAHMAN,1948.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.073-PASIR SALAK.png,TAJUDDIN ABDUL RAHMAN
+14.0,P074,Perak,LUMUT,YB DATUK WIRA DR.,MOHD HATTA BIN MD RAMLI,1957.0,male,bumiputera,PH - AMANAH,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.074-LUMUT.png,HATTA RAMLI
+14.0,P075,Perak,BAGAN DATUK,YB DATO' SERI DR.,AHMAD ZAHID BIN HAMIDI,1953.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.075-BAGAN DATUK.png,AHMAD ZAHID BIN HAMIDI
+14.0,P076,Perak,TELUK INTAN,YB TUAN,NGA KOR MING,1973.0,male,chinese,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.076-TELUK INTAN.png,NGA KOR MING
+14.0,P077,Perak,TANJONG MALIM,YB TUAN,CHANG LIH KANG,1981.0,male,chinese,PH - PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.077-TANJONG MALIM.png,CHANG LIH KANG
+14.0,P079,Pahang,LIPIS,YB DATO' SRI,ABDUL RAHMAN BIN MOHAMAD,1962.0,male,bumiputera,BN - UMNO,Timbalan Menteri Pembangunan Luar Bandar I,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.079-LIPIS.png,ABDUL RAHMAN BIN MOHAMAD
+14.0,P080,Pahang,RAUB,YB TENGKU,ZULPURI SHAH BIN RAJA PUJI,1965.0,male,bumiputera,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.080-RAUB.png,TENGKU ZULPURI SHAH
+14.0,P081,Pahang,JERANTUT,YB DATO' HJ.,AHMAD NAZLAN BIN IDRIS,1958.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.081-JERANTUT.png,AHMAD NAZLAN
+14.0,P082,Pahang,INDERA MAHKOTA,YB DATUK SERI,SAIFUDDIN BIN ABDULLAH,1961.0,male,bumiputera,BERSATU,Menteri Luar Negeri,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.082-INDERA MAHKOTA.png,SAIFUDDIN ABDULLAH
+14.0,P083,Pahang,KUANTAN,YB PUAN,FUZIAH BINTI SALLEH,1960.0,female,bumiputera,PH - PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.083-KUANTAN.png,FUZIAH SALLEH
+14.0,P084,Pahang,PAYA BESAR,YB DATO' INDERA,MOHD SHAHAR BIN ABDULLAH,1980.0,male,bumiputera,BN - UMNO,Timbalan Menteri Kewangan I,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.084-PAYA BESAR.png,MOHD SHAHAR BIN ABDULLAH
+14.0,P085,Pahang,PEKAN,YB DATO' SRI,MOHD NAJIB BIN TUN ABD RAZAK,1954.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.085-PEKAN.png,MOHD NAJIB BIN TUN ABDUL RAZAK
+14.0,P086,Pahang,MARAN,YB DATO' SRI DR. HAJI,ISMAIL BIN HJ ABD. MUTTALIB,1955.0,male,bumiputera,BN - UMNO,Timbalan Menteri Perumahan dan Kerajaan Tempatan,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.086-MARAN.png,ISMAIL BIN HJ ABDUL MUTTALIB
+14.0,P087,Pahang,KUALA KRAU,YB DATO' SRI DR. HAJI,ISMAIL BIN HAJI MOHAMED SAID,1966.0,male,bumiputera,BN - UMNO,Timbalan Menteri Dalam Negeri I,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.087-KUALA KRAU.png,ISMAIL BIN MOHAMED SAID
+14.0,P088,Pahang,TEMERLOH,YB DATUK WIRA HAJI,MOHD. ANUAR MOHD. TAHIR,1953.0,male,bumiputera,PH - AMANAH,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.088-TEMERLOH.png,ANUAR TAHIR
+14.0,P089,Pahang,BENTONG,YB TUAN,WONG TACK,1959.0,male,chinese,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.089-BENTONG.png,WONG TACK
+14.0,P090,Pahang,BERA,YAB DATO' SRI,ISMAIL SABRI BIN YAAKOB,1960.0,male,bumiputera,BN - UMNO,YAB PERDANA MENTERI,,https://www.parlimen.gov.my/images/webuser/ahli/2013/PM.jpg,ISMAIL SABRI YAAKOB
+14.0,P091,Pahang,ROMPIN,YB DATO' SRI,HASAN BIN ARIFIN,1953.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.091-ROMPIN.png,HASAN BIN ARIFIN
+14.0,P092,Selangor,SABAK BERNAM,YB DATO' HAJI,MOHD FASIAH BIN MOHD FAKEH,1956.0,male,bumiputera,BERSATU,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.092-SABAK BERNAM.png,FASIAH
+14.0,P093,Selangor,SUNGAI BESAR,YB DATUK,MUSLIMIN BIN YAHAYA,1968.0,male,bumiputera,BERSATU,Timbalan Menteri Pembangunan Usahawan dan Koperasi,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.093-SUNGAI BESAR.png,MUSLIMIN
+14.0,P094,Selangor,HULU SELANGOR,YB PUAN,JUNE LEOW HSIAD HUI,1965.0,female,chinese,PH - PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.094-HULU SELANGOR.png,JUNE LEOW
+14.0,P095,Selangor,TANJUNG KARANG,YB TAN SRI,NOH BIN HAJI OMAR,1958.0,male,bumiputera,BN - UMNO,Menteri Pembangunan Usahawan dan Koperasi,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.095-TANJONG KARANG.png,NOH BIN OMAR
+14.0,P096,Selangor,KUALA SELANGOR,YB DATUK SERI DR. HAJI,DZULKEFLY BIN AHMAD,1956.0,male,bumiputera,PH - AMANAH,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.096-KUALA SLEANGOR.png,DZULKEFLY AHMAD
+14.0,P097,Selangor,SELAYANG,YB TUAN,WILLIAM LEONG JEE KEEN,1957.0,male,chinese,PH - PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.097-SELAYANG.png,WILLIAM LEONG JEE KEEN
+14.0,P098,Selangor,GOMBAK,YB DATO' SERI,MOHAMED AZMIN BIN ALI,1965.0,male,bumiputera,BERSATU,Menteri Kanan Perdagangan Antarabangsa dan Industri,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.098-GOMBAK.png,AZMIN ALI
+14.0,P099,Selangor,AMPANG,YB DATUK HAJAH,ZURAIDA BINTI KAMARUDDIN,1958.0,female,bumiputera,PBM,Menteri Perusahaan Perladangan dan Komoditi,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.099-AMPANG.png,ZURAIDA KAMARUDDIN
+14.0,P100,Selangor,PANDAN,YB DATO' SERI DR,WAN AZIZAH WAN ISMAIL,1953.0,female,bumiputera,PH - PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.100-AMPANG.png,WAN AZIZAH
+14.0,P101,Selangor,HULU LANGAT,YB DATUK HAJI,HASANUDDIN BIN MOHD YUNUS,1965.0,male,bumiputera,PH - AMANAH,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.101-HULU LANGAT.png,HASANUDDIN MOHD YUNUS
+14.0,P102,Selangor,BANGI,YB DR.,ONG KIAN MING,1976.0,male,chinese,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.102-BANGI.png,ONG KIAN MING
+14.0,P103,Selangor,PUCHONG,YB TUAN,GOBIND SINGH DEO,1974.0,male,other,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.103-PUCHUNG.png,GOBIND SINGH DEO
+14.0,P104,Selangor,SUBANG,YB TUAN,WONG CHEN,1969.0,male,chinese,PH - PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.104-SUBANG.png,WONG CHEN
+14.0,P105,Selangor,PETALING JAYA,YB PUAN,MARIA CHIN BINTI ABDULLAH,1957.0,female,bumiputera,PH - PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/Petaling Jaya.png,MARIA CHIN ABDULLAH
+14.0,P106,Selangor,DAMANSARA,YB TUAN,TONY PUA KIAM WEE,1973.0,male,bumiputera,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.106-DAMANSARA.png,TONY PUA
+14.0,P107,Selangor,SUNGAI BULOH,YB TUAN,SIVARASA A/L K. RASIAH,1957.0,male,indian,PH - PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.107-SUNGAI BULOH.png,SIVARASA RASIAH
+14.0,P108,Selangor,SHAH ALAM,YB TUAN,KHALID BIN ABD SAMAD,1958.0,male,bumiputera,PH - AMANAH,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.108-SHAH ALAM.png,KHALID ABDUL SAMAD
+14.0,P109,Selangor,KAPAR,YB DATO',ABDULLAH SANI BIN ABDUL HAMID,1962.0,male,bumiputera,PH - PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.109-KAPAR.png,ABDULLAH SANI
+14.0,P110,Selangor,KLANG,YB TUAN,CHARLES ANTHONY SANTIAGO,1961.0,male,indian,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.110-KLANG.png,CHARLES SANTIAGO
+14.0,P111,Selangor,KOTA RAJA,YB TUAN,MOHAMAD BIN SABU,1955.0,male,bumiputera,PH - AMANAH,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.111-KOTA RAJA.png,MOHAMAD SABU
+14.0,P112,Selangor,KUALA LANGAT,YB DATO' DR.,XAVIER JAYAKUMAR A/L ARULANANDAM,1953.0,male,indian,BEBAS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.112-KUALA LANGAT.png,XAVIER JAYAKUMAR
+14.0,P113,Selangor,SEPANG,YB TUAN,MOHAMED HANIPA BIN MAIDIN,1969.0,male,bumiputera,PH - AMANAH,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.113-SEPANG.png,MOHAMED HANIPA BIN MAIDIN
+14.0,P114,Kuala Lumpur,KEPONG,YB TUAN,LIM LIP ENG,1973.0,male,chinese,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.114-KEPONG.png,LIM LIP ENG
+14.0,P115,Kuala Lumpur,BATU,YB TUAN,P. PRABAKARAN,1996.0,male,indian,PH - PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.115-BATU.png,PRABAKARAN PARAMESWARAN
+14.0,P116,Kuala Lumpur,WANGSA MAJU,YB DATIN PADUKA DR.,TAN YEE KEW,1953.0,female,chinese,PH - PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.116-WANGSA MAJU.png,TAN YEE KEW
+14.0,P117,Kuala Lumpur,SEGAMBUT,YB PUAN,HANNAH YEOH,1979.0,female,chinese,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.117-SEGAMBUT.png,HANNAH YEOH
+14.0,P118,Kuala Lumpur,SETIAWANGSA,YB TUAN,NIK NAZMI BIN NIK AHMAD,1982.0,male,bumiputera,PH - PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.118-SETIAWANGSA.png,NIK NAZMI BIN NIK AHMAD
+14.0,P119,Kuala Lumpur,TITIWANGSA,YB DATUK SERI,RINA BINTI MOHD HARUN,1973.0,female,bumiputera,BERSATU,"Menteri Pembangunan, Wanita, Keluarga dan Masyarakat",,https://www.parlimen.gov.my/images/webuser/ahli/2013/Rina.jpg,RINA MOHD HARUN
+14.0,P120,Kuala Lumpur,BUKIT BINTANG,YB TUAN,FONG KUI LUN,1947.0,male,chinese,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.120-BUKIT BINTANG.png,FONG KUI LUN
+14.0,P121,Kuala Lumpur,LEMBAH PANTAI,YB TUAN,AHMAD FAHMI BIN MOHAMED FADZIL,1981.0,male,bumiputera,PH - PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.121-LEMBAH PANTAI.png,FAHMI FADZIL
+14.0,P122,Kuala Lumpur,SEPUTEH,YB PUAN,TERESA KOK,1964.0,female,chinese,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.122-SEPUTEH.png,TERESA KOK
+14.0,P123,Kuala Lumpur,CHERAS,YB TUAN,TAN KOK WAI,1958.0,male,chinese,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.123-CHERAS.png,TAN KOK WAI
+14.0,P124,Kuala Lumpur,BANDAR TUN RAZAK,YB DATO' HAJI,KAMARUDIN BIN JAFFAR,1952.0,male,bumiputera,BERSATU,Timbalan Menteri Luar Negeri,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.124-BANDAR TUN RAZAK.png,KAMARUDIN JAFFAR
+14.0,P125,Putrajaya,PUTRAJAYA,YB DATUK SERI TENGKU,ADNAN BIN TENGKU MANSOR,1951.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.125-PUTRAJAYA.png,TENGKU ADNAN BIN TENGKU MANSOR
+14.0,P126,Negeri Sembilan,JELEBU,YB DATUK SERI,JALALUDDIN BIN ALIAS,1964.0,male,bumiputera,BN - UMNO,Timbalan Menteri Wilayah Persekutuan,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.126-JELEBU.png,JALALUDDIN BIN ALIAS
+14.0,P127,Negeri Sembilan,JEMPOL,YB DATUK SERI HAJI,MOHD SALIM SHARIF,1965.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.127-JEMPOL.png,SALIM SHARIF
+14.0,P128,Negeri Sembilan,SEREMBAN,YB TUAN,LOKE SIEW FOOK,1977.0,male,chinese,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.128-SEREMBAN.png,LOKE SIEW FOOK
+14.0,P129,Negeri Sembilan,KUALA PILAH,YB DATO',EDDIN SYAZLEE BIN SHITH,1974.0,male,bumiputera,BERSATU,Timbalan Menteri di Jabatan Perdana Menteri (Ekonomi),,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.129-KUALA PILAH.png,EDDIN SYAZLEE SHITH
+14.0,P130,Negeri Sembilan,RASAH,YB TUAN,CHA KEE CHIN,1975.0,male,chinese,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.130-RASAH.png,CHA KEE CHIN
+14.0,P131,Negeri Sembilan,REMBAU,YB TUAN,KHAIRY JAMALUDDIN ABU BAKAR,1976.0,male,bumiputera,BN - UMNO,Menteri Kesihatan,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.131-REMBAU.png,KHAIRY JAMALUDDIN ABU BAKAR
+14.0,P133,Negeri Sembilan,TAMPIN,YB DATUK DR.,HASAN BIN BAHROM,1956.0,male,bumiputera,PH - AMANAH,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.133-TAMPIN.png,HASAN BAHROM
+14.0,P134,Melaka,MASJID TANAH,YB DATUK WIRA HAJAH,MAS ERMIEYATI BINTI SAMSUDIN,1977.0,female,bumiputera,BERSATU,Timbalan Menteri di Jabatan Perdana Menteri (Parlimen dan Undang-Undang),,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.134-MASJID TANAH.png,MAS ERMIEYATI
+14.0,P135,Melaka,ALOR GAJAH,YB DATUK SERI,MOHD REDZUAN BIN MD. YUSOF,1957.0,male,bumiputera,BERSATU,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.135-ALOR GAJAH.png,MOHD REDZUAN YUSOF (PAK WAN)
+14.0,P136,Melaka,TANGGA BATU,YB PUAN,RUSNAH BINTI ALUAI,1962.0,female,bumiputera,PH - PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.136-TANGGA BATU.png,RUSNAH
+14.0,P137,Melaka,HANG TUAH JAYA,YB DATUK SERI HAJI,SHAMSUL ISKANDAR @ YUSRE BIN HAJI MOHD AKIN,1975.0,male,bumiputera,PH - PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.137-HANG TUAH JAYA.png,SHAMSUL ISKANDAR MOHD AKIN
+14.0,P138,Melaka,KOTA MELAKA,YB TUAN,KHOO POAY TIONG,1971.0,male,chinese,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.138-KOTA MELAKA.png,KHOO POAY TIONG
+14.0,P139,Melaka,JASIN,YB DATUK SERI HAJI,AHMAD BIN HAMZAH,1949.0,male,bumiputera,BN - UMNO,Timbalan Menteri Pertanian dan Industri Makanan I,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.139-JASIN.png,AHMAD HAMZAH
+14.0,P140,Johor,SEGAMAT,YB DATUK SERI DR.,SANTHARA KUMAR A/L RAMANAIDU,1971.0,male,indian,BERSATU,"Timbalan Menteri Pelancongan, Seni dan Budaya",,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.140-SEGAMAT.png,SANTHARA
+14.0,P141,Johor,SEKIJANG,YB PUAN HAJAH,NATRAH ISMAIL,1951.0,female,bumiputera,PH - PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.141-SEKIJANG.png,NATRAH ISMAIL
+14.0,P142,Johor,LABIS,YB TUAN,PANG HOK LIONG,1958.0,male,chinese,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.142-LABIS.png,PANG HOK LIONG
+14.0,P143,Johor,PAGOH,YB TAN SRI DATO' HAJI,MAHIADDIN BIN HAJI MD YASIN,1947.0,male,bumiputera,BERSATU,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.143-PAGOH.png,MUHYIDDIN BIN MD YASIN
+14.0,P144,Johor,LEDANG,YB TUAN,SYED IBRAHIM BIN SYED NOH,1965.0,male,bumiputera,PH - PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.144-LEDANG.png,SYED IBRAHIM BIN SYED NOH
+14.0,P145,Johor,BAKRI,YB PUAN,YEO BEE YIN,1984.0,female,chinese,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.145-BAKRI.png,YEO BEE YIN
+14.0,P146,Johor,MUAR,YB TUAN,SYED SADDIQ BIN SYED ABDUL RAHMAN,1993.0,male,bumiputera,MUDA,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.146-MUAR.png,SYED SADDIQ
+14.0,P147,Johor,PARIT SULONG,YB DATUK SERI DR.,NORAINI BINTI AHMAD,1968.0,female,bumiputera,BN - UMNO,Menteri Pengajian Tinggi,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.147-PARIT SULONG.png,NORAINI AHMAD
+14.0,P148,Johor,AYER HITAM,YB DATUK SERI IR. DR.,WEE KA SIONG,1969.0,male,chinese,BN - MCA,Menteri Pengangkutan,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.148-AYER HITAM.png,WEE KA SIONG
+14.0,P149,Johor,SRI GADING,YB DATUK DR.,SHARUDDIN BIN MD SALLEH,1956.0,male,bumiputera,PEJUANG,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.149-SRI GADING.png,SHAHRUDDIN SALLEH
+14.0,P150,Johor,BATU PAHAT,YB DATO',MOHD RASHID HASNON,1960.0,male,bumiputera,BERSATU,,Timbalan Yang di-Pertua Dewan Rakyat,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.150-BATU PAHAT.png,MOHD RASHID
+14.0,P151,Johor,SIMPANG RENGGAM,YB DR.,MASZLEE BIN MALIK,1975.0,male,bumiputera,PH - PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.151-SIMPANG RENGGAM.png,MASZLEE MALIK
+14.0,P152,Johor,KLUANG,YB PUAN,WONG SHU QI,1984.0,female,bumiputera,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.152-KLUANG.png,WONG SHU QI
+14.0,P153,Johor,SEMBRONG,YB DATO' SERI HISHAMMUDDIN TUN,HUSSEIN,1962.0,male,bumiputera,BN - UMNO,Menteri Kanan Pertahanan,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.153-SEMBRONG.png,HISHAMMUDDIN TUN HUSSEIN
+14.0,P154,Johor,MERSING,YB DATUK DR. HAJI,ABDUL LATIFF BIN AHMAD,1959.0,male,bumiputera,BERSATU,Menteri di Jabatan Perdana Menteri (Tugas-Tugas Khas),,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.154-MERSING.png,ABDUL LATIFF
+14.0,P155,Johor,TENGGARA,YB DATO' SRI DR.,ADHAM BIN BABA,1963.0,male,bumiputera,BN - UMNO,"Menteri Sains, Teknologi dan Inovasi",,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.155-TENGGARA.png,ADHAM BIN BABA
+14.0,P156,Johor,KOTA TINGGI,YB DATUK,HALIMAH BINTI MOHAMED SADIQUE,1962.0,female,bumiputera,BN - UMNO,Menteri Perpaduan Negara,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.156-KOTA TINGGI.png,HALIMAH BINTI MOHAMED SADIQUE
+14.0,P157,Johor,PENGERANG,YB DATO' SRI,AZALINA BINTI OTHMAN SAID,1964.0,female,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.157-PENGERANG.png,AZALINA OTHMAN SAID
+14.0,P158,Johor,TEBRAU,YB TUAN,STEVEN CHOONG SHIAU YOON,1958.0,male,chinese,PBM,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.158-TEBRAU.png,STEVEN CHOONG
+14.0,P159,Johor,PASIR GUDANG,YB TUAN,HASSAN BIN ABDUL KARIM,1952.0,male,bumiputera,PH - PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.159-PASIR GUDANG.png,HASSAN BIN ABDUL KARIM
+14.0,P160,Johor,JOHOR BAHRU,YB TUAN HAJI,AKMAL NASRULLAH BIN MOHD NASIR,1987.0,male,bumiputera,PH - PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.160-JOHOR BAHRU.png,AKMAL NASIR
+14.0,P161,Johor,PULAI,YB DATUK SERI HAJI,SALAHUDDIN BIN AYUB,1962.0,male,bumiputera,PH - AMANAH,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.161-PULAI.png,SALAHUDDIN AYUB
+14.0,P162,Johor,ISKANDAR PUTERI,YB TUAN,LIM KIT SIANG,1941.0,male,chinese,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.162-ISKANDAR PUTERI.png,LIM KIT SIANG
+14.0,P163,Johor,KULAI,YB PUAN,TEO NIE CHING,1981.0,female,chinese,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.163-KULAI.png,TEO NIE CHING
+14.0,P164,Johor,PONTIAN,YB DATUK SERI HAJI,AHMAD BIN HAJI MASLAN,1966.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.164-PONTIAN.png,AHMAD MASLAN
+14.0,P166,Labuan,LABUAN,YB DATUK,ROZMAN BIN ISLI,1965.0,male,bumiputera,WARISAN,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.166-LABUAN.png,ROZMAN BIN ISLI
+14.0,P167,Sabah,KUDAT,YB DATUK,ABD RAHIM BIN BAKRI,1961.0,male,bumiputera,BERSATU,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.167-KUDAT.png,ABDUL RAHIM BAKRI
+14.0,P168,Sabah,KOTA MARUDU,YB DATUK SERI PANGLIMA DR.,JOHNITY @ MAXIMUS BIN ONGKILI,1954.0,male,bumiputera,PBS,Menteri di Jabatan Perdana Menteri (Hal Ehwal Sabah dan Sarawak),,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.168-KOTA MARUDU.png,PANGLIMA MAXIMUS JOHNITY ONGKILI
+14.0,P169,Sabah,KOTA BELUD,YB PUAN,ISNARAISSAH MUNIRAH BT MAJILIS @ FAKHARUDY,1982.0,female,bumiputera,WARISAN,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.169-KOTA BELUD.png,MUNIRAH MAJILIS
+14.0,P170,Sabah,TUARAN,YB DATUK SERI PANGLIMA,MADIUS BIN TANGAU,1958.0,male,bumiputera,UPKO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.170-TUARAN.png,PANGLIMA WILFRED MADIUS TANGAU
+14.0,P171,Sabah,SEPANGGAR,YB DATUK,MOHD AZIS BIN JAMMAN,1975.0,male,bumiputera,WARISAN,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.171-SEPANGGAR.png,MOHD AZIS BIN JAMMAN
+14.0,P172,Sabah,KOTA KINABALU,YB TUAN,CHAN FOONG HIN,1979.0,male,chinese,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.172-KOTA KINABALU.png,CHAN FOONG HIN
+14.0,P173,Sabah,PUTATAN,YB TUAN,AWANG HUSAINI BIN SAHARI,1967.0,male,bumiputera,PH - PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.173-PUTATAN.png,AWANG HUSAINI BIN SAHARI
+14.0,P174,Sabah,PENAMPANG,YB DATUK,IGNATIUS DORELL LEIKING,1972.0,male,bumiputera,WARISAN,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.174-PENAMPANG.png,DARELL LEIKING
+14.0,P175,Sabah,PAPAR,YB TUAN HAJI,AHMAD BIN HASSAN,1961.0,male,bumiputera,WARISAN,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.175-PAPAR.png,AHMAD BIN HASSAN
+14.0,P177,Sabah,BEAUFORT,YB DATUK SERI PANGLIMA HAJAH,AZIZAH BINTI DATUK SERI PANGLIMA HAJI MOHD DUN,1955.0,female,bumiputera,BERSATU,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P197 GAMBAR.jpg,AZIZAH BINTI MOHD DUN
+14.0,P178,Sabah,SIPITANG,YB DATUK,YAMANI HAFEZ BIN MUSA,1978.0,male,bumiputera,BERSATU,Timbalan Menteri Kewangan II,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.178-SIPITANG.png,HAFEZ MUSA
+14.0,P179,Sabah,RANAU,YB DATUK,JONATHAN BIN YASIN,1968.0,male,bumiputera,BERSATU,Timbalan Menteri Dalam Negeri II,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.179-RANAU.png,JONATHAN BIN YASIN
+14.0,P180,Sabah,KENINGAU,YB DATUK SERI PANGLIMA DR.,GAPARI BIN KATINGAN@ GEOFFREY KITINGAN,1948.0,male,bumiputera,STAR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.180-KENINGAU.png,JEFFREY KITINGAN
+14.0,P181,Sabah,TENOM,YB PUAN,NOORITA BINTI SUAL,1980.0,female,bumiputera,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.181-TENOM.png,NOORITA SUAL
+14.0,P182,Sabah,PENSIANGAN,YB DATUK,ARTHUR JOSEPH KURUP,1983.0,male,bumiputera,BN - PBRS,Timbalan Menteri Kerja Raya,,https://www.parlimen.gov.my/images/webuser/ahli//P.182-PENSIANGAN.png,ARTHUR JOSEPH KURUP
+14.0,P183,Sabah,BELURAN,YB DATUK SERI DR.,RONALD KIANDEE,1961.0,male,bumiputera,BERSATU,Menteri Pertanian dan Industri Makanan,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.183-BELURAN.png,RONALD KIANDEE
+14.0,P184,Sabah,LIBARAN,YB DATUK,ZAKARIA BIN MOHD. EDRIS,1951.0,male,bumiputera,BERSATU,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.184-LIBARAN.png,ZAKARIA BIN MOHD EDRIS @ TUBAU
+14.0,P187,Sabah,KINABATANGAN,YB DATUK SERI PANGLIMA,BUNG MOKTAR BIN RADIN,1960.0,male,bumiputera,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.187-KINABATANGAN.png,BUNG MOKTAR RADIN
+14.0,P188,Sabah,LAHAD DATU,YB DATUK,MOHAMADDIN BIN KETAPI,1958.0,male,bumiputera,PBM,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/27.jpg,MOHAMADDIN BIN KETAPI
+14.0,P189,Sabah,SEMPORNA,YB DATUK SERI PANGLIMA HAJI,MOHD SHAFIE BIN HAJI APDAL,1958.0,male,bumiputera,WARISAN,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.189-SEMPORNA.png,MOHD SHAFIE APDAL
+14.0,P190,Sabah,TAWAU,YB DATUK,LIEW CHIN JIN,1953.0,female,chinese,PH - PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.190-TAWAU.png,CHRISTINA LIEW
+14.0,P191,Sabah,KALABAKAN,YB TUAN,MA'MUN BIN SULAIMAN,1966.0,male,bumiputera,WARISAN,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.191-KALABAKAN.png,MA'MUN BIN SULAIMAN
+14.0,P192,Sarawak,MAS GADING,YB TUAN,MORDI BIMOL,1985.0,male,bumiputera,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.192-MAS GADING.png,MORDI BIMOL
+14.0,P193,Sarawak,SANTUBONG,YB DATO SRI DR. HAJI,WAN JUNAIDI BIN TUANKU JAAFAR,1946.0,male,bumiputera,GPS - PBB,Menteri di Jabatan Perdana Menteri (Parlimen dan Undang-Undang),,https://www.parlimen.gov.my/images/webuser/ahli/2013/junaidi.jpg,WAN JUNAIDI BIN TUANKU JAAFAR
+14.0,P194,Sarawak,PETRA JAYA,YB DATO' SRI HAJI,FADILLAH BIN YUSOF,1962.0,male,bumiputera,GPS - PBB,Menteri Kanan Kerja Raya,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.194-PERTAJAYA.png,FADILLAH HJ YUSOF
+14.0,P195,Sarawak,BANDAR KUCHING,YB DR.,KELVIN YII LEE WUEN,1987.0,male,chinese,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.195-BANDAR KUCHING.png,KELVIN YII LEE WUEN
+14.0,P196,Sarawak,STAMPIN,YB TUAN CHONG CHIENG JEN,,1971.0,male,chinese,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.196-STAMPIN.png,CHONG CHIENG JEN
+14.0,P197,Sarawak,KOTA SAMARAHAN,YB DATUK HAJAH,RUBIAH BINTI HAJI WANG,1968.0,female,bumiputera,GPS - PBB,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.197-KOTA SAMARAHAN.png,RUBIAH WANG
+14.0,P198,Sarawak,PUNCAK BORNEO,YB DATUK,WILLIE ANAK MONGIN,1976.0,male,bumiputera,GPS - PBB,Timbalan Menteri Perusahaan Perladangan dan Komoditi I,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.198-PUNCAK BORNEO.png,WILLIE MONGIN
+14.0,P199,Sarawak,SERIAN,YB DATO' SRI,(DR) RICHARD RIOT ANAK JAEM,1952.0,male,bumiputera,GPS - SUPP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.199-SERIAN.png,RICHARD RIOT ANAK JAEM
+14.0,P200,Sarawak,BATANG SADONG,YB DATO' SRI HAJAH,NANCY BINTI SHUKRI,1962.0,female,bumiputera,GPS - PBB,"Menteri Pelancongan, Seni dan Budaya",,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.200-BATANG SADONG.png,NANCY SHUKRI
+14.0,P201,Sarawak,BATANG LUPAR,YB DATO SRI HAJAH,ROHANI BINTI ABDUL KARIM,1955.0,female,bumiputera,GPS - PBB,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.201-BATANG LUPAR.png,ROHANI KARIM
+14.0,P202,Sarawak,SRI AMAN,YB DATO',MASIR ANAK KUJAT,1955.0,male,bumiputera,BEBAS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.202-SRI AMAN.png,MASIR KUJAT
+14.0,P203,Sarawak,LUBOK ANTU,YB TUAN,TAMBAT@ JUGAH ANAK MUYANG,1964.0,male,bumiputera,BEBAS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.203-LUBOK ANTU.png,JUGAH AK MUYANG
+14.0,P204,Sarawak,BETONG,YB DATUK,ROBERT LAWSON CHUAT,1959.0,male,bumiputera,GPS - PBB,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.204-BETONG.png,ROBERT LAWSON CHUAT
+14.0,P205,Sarawak,SARATOK,YB DATUK,ALI ANAK BIJU,1968.0,male,bumiputera,BERSATU,Timbalan Menteri Tenaga dan Sumber Asli,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.205-SARATOK.png,ALI BIJU
+14.0,P206,Sarawak,TANJONG MANIS,YB TUAN HAJI,YUSUF BIN ABD WAHAB,1964.0,male,bumiputera,GPS - PBB,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.206-TANJONG MANIS.png,YUSUF BIN ABDUL WAHAB
+14.0,P207,Sarawak,IGAN,YB TUAN HAJI,AHMAD JOHNIE BIN HAJI ZAWAWI,1963.0,male,bumiputera,GPS - PBB,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.207-IGAN.png,AHMAD JOHNIE BIN ZAWAWI
+14.0,P208,Sarawak,SARIKEI,YB TUAN,WONG LING BIU,1959.0,male,chinese,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.208-SARIKEI.png,WONG LING BIU
+14.0,P209,Sarawak,JULAU,YB DATUK,LARRY SOON @ LARRY SNG WEI SHIEN,1980.0,male,chinese,PBM,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.209-JULAU.png,LARRY SOON @ LARRY SNG WEI SHIEN
+14.0,P210,Sarawak,KANOWIT,YB DATUK,AGO ANAK DAGANG,1959.0,male,bumiputera,GPS - PRS,Timbalan Menteri Kesihatan II,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.210-KANOWIT.png,AARON AGO ANAK DAGANG
+14.0,P211,Sarawak,LANANG,YB PUAN,ALICE LAU KIONG YIENG,1982.0,female,chinese,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.211-LANANG.png,ALICE LAU KIONG YIENG
+14.0,P212,Sarawak,SIBU,YB TUAN,OSCAR LING CHAI YEW,1978.0,male,chinese,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.212-SIBU.png,OSCAR LING CHAI YEW
+14.0,P213,Sarawak,MUKAH,YB DATO HAJJAH,HANIFAH HAJAR TAIB,1973.0,female,bumiputera,GPS - PBB,Timbalan Menteri di Jabatan Perdana Menteri (Hal Ehwal Sabah dan Sarawak),,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.213-MUKAH.png,HANIFAH HAJAR TAIB
+14.0,P214,Sarawak,SELANGAU,YB TUAN,BARU BIAN,1959.0,male,bumiputera,PSB,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.214-SELANGAU.png,BARU BIAN
+14.0,P215,Sarawak,KAPIT,YB DATO SRI,ALEXANDER NANTA LINGGI,1959.0,male,bumiputera,GPS - PBB,Menteri Perdagangan Dalam Negeri dan Hal Ehwal Pengguna,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.215-KAPIT.png,ALEXANDER NANTA LINGGI
+14.0,P216,Sarawak,HULU RAJANG,YB DATUK,WILSON UGAK ANAK KUMBONG,1962.0,male,bumiputera,GPS - PRS,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.216-HULU RAJANG.png,WILSON UGAK ANAK KUMBONG
+14.0,P217,Sarawak,BINTULU,YB DATO' SERI,TIONG KING SING,1962.0,male,chinese,GPS - PDP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.217-BINTULU.png,TIONG KING SING
+14.0,P218,Sarawak,SIBUTI,YB TUAN,LUKANISMAN BIN AWANG SAUNI,1982.0,male,bumiputera,GPS - PBB,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.218-SIBUTI.png,LUKANISMAN BIN AWANG SAUNI
+14.0,P219,Sarawak,MIRI,YB DR.,MICHAEL TEO YU KENG,1948.0,male,chinese,PH - PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.219-MIRI.png,MICHAEL TEO YU KENG
+14.0,P220,Sarawak,BARAM,YB TUAN,ANYI NGAU,1959.0,male,bumiputera,GPS - PDP,,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.220-BARAM.png,ANYI NGAU
+14.0,P221,Sarawak,LIMBANG,YB DATUK HAJI,HASBI BIN HABIBOLLAH,1963.0,male,bumiputera,GPS - PBB,Timbalan Menteri Pembangunan Luar Bandar II,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.221-LIMBANG.png,HASBI BIN HABIBOLLAH
+14.0,P222,Sarawak,LAWAS,YB DATO',HENRY SUM AGONG,1946.0,male,bumiputera,GPS - PBB,Timbalan Menteri Pengangkutan,,https://www.parlimen.gov.my/images/webuser/ahli/2013/P.222-LAWAS.png,HENRY SUM AGONG
+14.0,P132,Negeri Sembilan,PORT DICKSON,YB DATO' SERI,ANWAR BIN IBRAHIM,1951.0,male,indian,PH - PKR,,,https://www.parlimen.gov.my/images/webuser/ahli/2018/YB Port Dickson.png,DANYAL
+14.0,P078,Pahang,CAMERON HIGHLANDS,YB DATO',RAMLI BIN DATO' MOHD NOR,1977.0,male,indian,BN - UMNO,,,https://www.parlimen.gov.my/images/webuser/ahli/2019/YB Cameron Highland.png,SIVARRAAJH CHANDRAN
+14.0,P186,Sabah,SANDAKAN,YB PUAN,VIVIAN WONG SHIR YEE,1955.0,male,chinese,PH - DAP,,,https://www.parlimen.gov.my/images/webuser/ahli/2019/YB Sandakan.jpg,STEPHEN WONG TIEN FATT
+14.0,P165,Johor,TANJUNG PIAI,YB DATO' SRI DR.,WEE JECK SENG,1977.0,male,bumiputera,BN - MCA,Timbalan Menteri Perusahaan Perladangan dan Komoditi II,,https://www.parlimen.gov.my/images/webuser/ahli/2019/p165.png,MOHD FARID
+14.0,P176,Sabah,KIMANIS,YB DATUK,MOHAMAD BIN ALAMIN,1954.0,male,bumiputera,BN - UMNO,Timbalan Menteri Pendidikan II,,https://www.parlimen.gov.my/images/webuser/ahli/2013/kimanis.png,ANIFAH AMAN
+14.0,,0,Yang di-Pertua Dewan Rakyat,YB TAN SRI,AZHAR AZIZAN HARUN,,,,,,,https://www.parlimen.gov.my/images/webuser/ahli/2020/bbb.jpg,

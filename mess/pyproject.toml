@@ -1,0 +1,19 @@
+[project]
+name = "data"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "html5lib>=1.1",
+    "ipykernel>=6.29.5",
+    "ipywidgets>=8.1.5",
+    "lxml>=5.3.0",
+    "lxml-html-clean>=0.4.1",
+    "numpy>=2.2.1",
+    "pandas>=2.2.3",
+    "pyarrow>=18.1.0",
+    "requests-html>=0.10.0",
+    "thefuzz>=0.22.1",
+    "tqdm>=4.67.1",
+]
